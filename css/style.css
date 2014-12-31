@@ -987,7 +987,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background:#083769;
+		background:#736469;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -1320,6 +1320,9 @@
 
 	body.landing #main {
 		margin-top: -14em;
+	}
+	.about_image {
+	padding: 0.5em 7em;
 	}
 
 /* Footer */
