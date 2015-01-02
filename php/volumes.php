@@ -11,6 +11,7 @@
 		<script src="../js/jquery.scrollgress.min.js"></script>
 		<script src="../js/skel.min.js"></script>
 		<script src="../js/skel-layers.min.js"></script>
+		<script src="../js/main.js"></script>
 		<script src="../js/init.js"></script>
 			<link rel="stylesheet" href="../css/skel.css" />
 			<link rel="stylesheet" href="../css/style.css" />
@@ -58,10 +59,21 @@
 
 		<!-- Main -->
 			<section id="main" class="container">
+				<div id="sec_nav">
+					<ul class="actions">
+						<li><a href="#" class="button vol_bag icon fa-book">Volumes</a></li>
+						<li><a href="#" class="button art_bag icon fa-pencil">Articles</a></li>
+						<li><a href="#" class="button aut_bag icon fa-user">Author</a></li>
+						<li><a href="#" class="button sea_bag icon fa-search">Search</a></li>
+					</ul>
+
+				</div>
 				<header>
 					<h2>Volumes</h2>
 					<p>Volume of Volumes !</p>
 				</header>
+				
+				
 								<div class="row">
 									<div class="12u">
 												
@@ -92,7 +104,7 @@
 															echo '<div class="year">';
 															$count = 1;
 														}
-														echo '<div class="clickYear aIssue"> '. $row['volume'] . getYear($row['volume']) . '</div>';
+														echo '<div class="bordered-link buzz-out"><a href=part.php?vol=' . $row['volume'] . '> Volume&nbsp;'. $row['volume'] .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div>';
 													}
 													echo '</div>';
 												}
