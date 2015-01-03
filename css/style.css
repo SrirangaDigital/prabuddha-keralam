@@ -989,7 +989,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background:#736469;
+		background:#1c3750;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -1336,7 +1336,7 @@
   width: 20%;
   display: inline-block;
   padding: 8px;
-  border: 1px solid #736469;
+  border: 1px solid #1c3750;
   border-radius: 6px;
   box-shadow:
     0 2px 1px rgba(0, 0, 0, 0.2), 
@@ -1350,7 +1350,7 @@
 	color:#646464;
 	text-decoration: none !important;
 }
-.bordered-link:hover  { border-color: #FFF}
+.bordered-link:hover  { border-color: #1c3750}
 .bordered-link:active { border-color: #e89980; }
 
 #sec_nav {

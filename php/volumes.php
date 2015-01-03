@@ -104,7 +104,7 @@
 															echo '<div class="year">';
 															$count = 1;
 														}
-														echo '<div class="bordered-link buzz-out"><a href=part.php?vol=' . $row['volume'] . '> Volume&nbsp;'. $row['volume'] .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div>';
+														echo '<div class="bordered-link buzz-out"><a href=months/index.php?vol=' . $row['volume'] . '> Volume&nbsp;'. $row['volume'] .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div>';
 													}
 													echo '</div>';
 												}

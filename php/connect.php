@@ -5,6 +5,7 @@ $database='pke';
 //~ $type_code = '01';
 
 $db = @new mysqli('localhost', "$user", "$password", "$database");
+$db->set_charset('utf8');
 if($db->connect_errno > 0)
 {
 	echo '<span class="aFeature clr2">Not connected to the Database</span>';
@@ -16,6 +17,6 @@ if($db->connect_errno > 0)
     exit(1);
 }
 
-$month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
+$month_name = array("0"=>"","1"=>"Jan","2"=>"Feb","3"=>"Mar","4"=>"Apr","5"=>"May","6"=>"Jun","7"=>"Jul","8"=>"Aug","9"=>"Sep","10"=>"Oct","11"=>"Nov","12"=>"Dec");
 
 ?>
