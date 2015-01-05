@@ -71,26 +71,26 @@
 							<section class="box special features">
 					<div class="features-row">
 						<section>
-							<span class="icon major fa-book accent2"></span>
+						<a href="php/volumes.php">	<span class="icon major fa-book accent2"></span>
 							<h3>Volumes</h3>
 							<p>Lists down all the volumes which are in prabuddha kerelam.</p>
-						</section>
+						</section></a>
 						<section>
-							<span class="icon major fa-pencil accent3"></span>
+						<a href="php/articles.php">	<span class="icon major fa-pencil accent3"></span>
 							<h3>Articles</h3>
 							<p>Lists down all the articles year wise which were in prabuddha kerelam.</p>
-						</section>
+						</section></a>
 					</div>
 					<div class="features-row">
 						<section>
-							<span class="icon major fa-user accent4"></span>
+							<a href="php/authors.php"><span class="icon major fa-user accent4"></span>
 							<h3>Author</h3>
-							<p>Lists all the authors who have contributed for prabuddha kerelam.</p>
+							<p>Lists all the authors who have contributed for prabuddha kerelam.</p></a>
 						</section>
 						<section>
-							<span class="icon major fa-search accent5"></span>
+							<a href="php/search.php"><span class="icon major fa-search accent5"></span>
 							<h3>Search</h3>
-							<p>Search the entire volumes of prabuddha kerelam.</p>
+							<p>Search the entire volumes of prabuddha kerelam.</p></a>
 						</section>
 					</div>
 				</section>

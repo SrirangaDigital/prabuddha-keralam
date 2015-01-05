@@ -70,51 +70,58 @@
 				</div>
 				<header>
 					<h2>Issue</h2>
-					<p>Select an Issue</p>
+					<p>Select a month !</p>
 				</header>
 				
 				
 								<div class="row">
 									<div class="12u">
-<?php
+										<?php
+							
+							include("connect.php");
+							require_once("common.php");
 
-include("connect.php");
-require_once("common.php");
+							if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
 
-if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
+							if(!(isValidVolume($volume)))
+							{
+								exit(1);
+							}
+							echo '<div class="main clearfix">';
+							echo '<nav id="menu_month" class="nav_month">';
+							
+							$query = "select distinct part,month from article where volume='$volume' order by part";
+							$result = $db->query($query); 
+							$num_rows = $result ? $result->num_rows : 0;
+							echo '<ul>';
 
-if(!(isValidVolume($volume)))
-{
-	exit(1);
-}
+							if($num_rows > 0)
+							{
+								$isFirst = 1;
+								while($row = $result->fetch_assoc())
+								{
+									//~ echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
+									echo "<li>";
+									echo '<a href="../toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">';
+									echo '<span>'.getMonth($row['month']).' </span>';
+									echo "</a>";
+									echo "</li>";
+									//~ echo '<div class="iphonebadge"><a href="../toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . '</a></div>';
+									$isFirst = 0;
+								}
+							}
 
-$query = "select distinct part,month from article where volume='$volume' order by part";
-$result = $db->query($query); 
-$num_rows = $result ? $result->num_rows : 0;
 
+							if($result){$result->free();}
+							$db->close();
 
-
-if($num_rows > 0)
-{
-	$isFirst = 1;
-	while($row = $result->fetch_assoc())
-	{
-		//~ echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
-		echo '<div class="iphonebadge"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . '</a></div>';
-		$isFirst = 0;
-	}
-}
-
-echo '</div></div>';
-
-if($result){$result->free();}
-$db->close();
-
-?>
-</div>
-
-			</section>
-
+							?>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>	
+</section>
 					
 			
 		<!-- Footer -->
@@ -134,6 +141,7 @@ $db->close();
 				</ul>
 			</footer>
 
+	
+		
 	</body>
 </html>
-

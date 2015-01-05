@@ -17,7 +17,7 @@
 	};
 }
 
-.icon-team, .icon-blog, .icon-home, .icon-portfolio, .icon-services, .icon-contact, .icon-menu {
+.icon-team, .icon-blog, .icon-home, .icon-portfolio, .icon-services, .icon-contact, .icon-menu_month {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -52,7 +52,7 @@
 	content: "\e005";
 }
 
-.icon-menu:before {
+.icon-menu_month:before {
 	content: "\f0c9";
 }
 
@@ -63,8 +63,8 @@ a, li {
 
 /* Global CSS that are applied for all screen sizes */
 
-.nav ul {
-	max-width: 1260px;
+.nav_month ul {
+	max-width: 100%vw;;
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -72,11 +72,11 @@ a, li {
 	font-weight: 400;
 }
 
-.nav li span {
+.nav_month li span {
 	display: block;
 }
 
-.nav a {
+.nav_month a {
 	display: block;
 	color: rgba(249, 249, 249, .9);
 	text-decoration: none;
@@ -87,7 +87,7 @@ a, li {
 	transition: color .5s, background .5s, height .5s;
 }
 
-.nav i{
+.nav_month i{
 	/* Make the font smoother for Chrome */
 	-webkit-transform: translate3d(0, 0, 0);
 	-moz-transform: translate3d(0, 0, 0);
@@ -102,47 +102,47 @@ a, button {
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
-/* Hover effect for the whole navigation to make the hovered item stand out */
+/* Hover effect for the whole nav_monthigation to make the hovered item stand out */
 
-.no-touch .nav ul:hover a {
+.no-touch .nav_month ul:hover a {
 	color: rgba(249, 249, 249, .5);
 }
 
-.no-touch .nav ul:hover a:hover {
+.no-touch .nav_month ul:hover a:hover {
 	color: rgba(249, 249, 249, 0.99);
 }
 
-/* Adding some background color to the different menu items */
+/* Adding some background color to the different menu_month items */
 
-.nav li:nth-child(6n+1) {
+.nav_month li:nth-child(6n+1) {
 	background: rgb(208, 101, 3);
 }
 
-.nav li:nth-child(6n+2) {
+.nav_month li:nth-child(6n+2) {
 	background: rgb(233, 147, 26);
 }
 
-.nav li:nth-child(6n+3) {
+.nav_month li:nth-child(6n+3) {
 	background: rgb(22, 145, 190);
 }
 
-.nav li:nth-child(6n+4) {
+.nav_month li:nth-child(6n+4) {
 	background: rgb(22, 107, 162);
 }
 
-.nav li:nth-child(6n+5) {
+.nav_month li:nth-child(6n+5) {
 	background: rgb(27, 54, 71);
 }
 
-.nav li:nth-child(6n+6) {
+.nav_month li:nth-child(6n+6) {
 	background: rgb(21, 40, 54);
 }
 
 /* For screen bigger than 800px */
 @media (min-width: 50em) {
 
-	/* Transforms the list into a horizontal navigation */
-	.nav li {
+	/* Transforms the list into a horizontal nav_monthigation */
+	.nav_month li {
 		float: left;
 		width: 7.96666666666667%;
 		text-align: center;
@@ -153,45 +153,45 @@ a, button {
 		transition: border .5s;
 	}
 
-	.nav a {
+	.nav_month a {
 		display: block;
 		width: auto;
 	}
 
 	/* hover, focused and active effects that add a little colored border to the different items */
-	.no-touch .nav li:nth-child(6n+1) a:hover,
-	.no-touch .nav li:nth-child(6n+1) a:active,
-	.no-touch .nav li:nth-child(6n+1) a:focus {
+	.no-touch .nav_month li:nth-child(6n+1) a:hover,
+	.no-touch .nav_month li:nth-child(6n+1) a:active,
+	.no-touch .nav_month li:nth-child(6n+1) a:focus {
 		border-bottom: 4px solid rgb(174, 78, 1);
 	}
 
-	.no-touch .nav li:nth-child(6n+2) a:hover,
-	.no-touch .nav li:nth-child(6n+2) a:active,
-	.no-touch .nav li:nth-child(6n+2) a:focus {
+	.no-touch .nav_month li:nth-child(6n+2) a:hover,
+	.no-touch .nav_month li:nth-child(6n+2) a:active,
+	.no-touch .nav_month li:nth-child(6n+2) a:focus {
 		border-bottom: 4px solid rgb(191, 117, 20);
 	}
 
-	.no-touch .nav li:nth-child(6n+3) a:hover,
-	.no-touch .nav li:nth-child(6n+3) a:active,
-	.no-touch .nav li:nth-child(6n+3) a:focus {
+	.no-touch .nav_month li:nth-child(6n+3) a:hover,
+	.no-touch .nav_month li:nth-child(6n+3) a:active,
+	.no-touch .nav_month li:nth-child(6n+3) a:focus {
 		border-bottom: 4px solid rgb(12, 110, 149);
 	}
 
-	.no-touch .nav li:nth-child(6n+4) a:hover,
-	.no-touch .nav li:nth-child(6n+4) a:active,
-	.no-touch .nav li:nth-child(6n+4) a:focus {
+	.no-touch .nav_month li:nth-child(6n+4) a:hover,
+	.no-touch .nav_month li:nth-child(6n+4) a:active,
+	.no-touch .nav_month li:nth-child(6n+4) a:focus {
 		border-bottom: 4px solid rgb(10, 75, 117);
 	}
 
-	.no-touch .nav li:nth-child(6n+5) a:hover,
-	.no-touch .nav li:nth-child(6n+5) a:active,
-	.no-touch .nav li:nth-child(6n+5) a:focus {
+	.no-touch .nav_month li:nth-child(6n+5) a:hover,
+	.no-touch .nav_month li:nth-child(6n+5) a:active,
+	.no-touch .nav_month li:nth-child(6n+5) a:focus {
 		border-bottom: 4px solid rgb(16, 34, 44);
 	}
 
-	.no-touch .nav li:nth-child(6n+6) a:hover,
-	.no-touch .nav li:nth-child(6n+6) a:active,
-	.no-touch .nav li:nth-child(6n+6) a:focus {
+	.no-touch .nav_month li:nth-child(6n+6) a:hover,
+	.no-touch .nav_month li:nth-child(6n+6) a:active,
+	.no-touch .nav_month li:nth-child(6n+6) a:focus {
 		border-bottom: 4px solid rgb(9, 18, 25);
 	}
 
@@ -211,18 +211,18 @@ a, button {
 	}
 
 	/* Animating the height of the element*/
-	.nav a {
+	.nav_month a {
 		height: 6em;
 	}
 
-	.no-touch .nav a:hover ,
-	.nav a:active ,
-	.nav a:focus {
+	.no-touch .nav_month a:hover ,
+	.nav_month a:active ,
+	.nav_month a:focus {
 		height: 10em;
 	}	
 
 	/* Making the text follow the height animation */
-	.no-touch .nav a:hover .icon + span {
+	.no-touch .nav_month a:hover .icon + span {
 		margin-top: 3.2em;
 		-webkit-transition: margin .5s;
 		-moz-transition: margin .5s;
@@ -232,7 +232,7 @@ a, button {
 	}
 
 	/* Positioning the icons and preparing for the animation*/
-	.nav i {
+	.nav_month i {
 		position: relative;
 		display: inline-block;
 		margin: 0 auto;
@@ -254,9 +254,9 @@ a, button {
 	}	
 	
 	/* Animate the box-shadow to create the effect */
-	.no-touch .nav a:hover i,
-	.no-touch .nav a:active i,
-	.no-touch .nav a:focus i {		
+	.no-touch .nav_month a:hover i,
+	.no-touch .nav_month a:active i,
+	.no-touch .nav_month a:focus i {		
 		box-shadow: 0 0 0 0 rgba(255,255,255,0.2);
 		-webkit-transition: box-shadow .4s ease-in-out;
 		-moz-transition: box-shadow .4s ease-in-out;
@@ -270,7 +270,7 @@ a, button {
 @media (min-width: 50em) and (max-width: 61.250em) {
 
 	/* Size and font adjustments to make it fit into the screen*/
-	.nav ul {
+	.nav_month ul {
 		font-size: 1em;
 	}
 
@@ -281,43 +281,43 @@ a, button {
 @media (max-width: 49.938em) {		
 	
 	/* Instead of adding a border, we transition the background color */
-	.no-touch .nav ul li:nth-child(6n+1) a:hover,
-	.no-touch .nav ul li:nth-child(6n+1) a:active,
-	.no-touch .nav ul li:nth-child(6n+1) a:focus {
+	.no-touch .nav_month ul li:nth-child(6n+1) a:hover,
+	.no-touch .nav_month ul li:nth-child(6n+1) a:active,
+	.no-touch .nav_month ul li:nth-child(6n+1) a:focus {
 		background: rgb(227, 119, 20);
 	}
 
-	.no-touch .nav li:nth-child(6n+2) a:hover,
-	.no-touch .nav li:nth-child(6n+2) a:active,
-	.no-touch .nav li:nth-child(6n+2) a:focus {
+	.no-touch .nav_month li:nth-child(6n+2) a:hover,
+	.no-touch .nav_month li:nth-child(6n+2) a:active,
+	.no-touch .nav_month li:nth-child(6n+2) a:focus {
 		background: rgb(245, 160, 41);
 	}
 
-	.no-touch .nav li:nth-child(6n+3) a:hover,
-	.no-touch .nav li:nth-child(6n+3) a:active,
-	.no-touch .nav li:nth-child(6n+3) a:focus {
+	.no-touch .nav_month li:nth-child(6n+3) a:hover,
+	.no-touch .nav_month li:nth-child(6n+3) a:active,
+	.no-touch .nav_month li:nth-child(6n+3) a:focus {
 		background: rgb(44, 168, 219);
 	}
 
-	.no-touch .nav li:nth-child(6n+4) a:hover,
-	.no-touch .nav li:nth-child(6n+4) a:active,
-	.no-touch .nav li:nth-child(6n+4) a:focus {
+	.no-touch .nav_month li:nth-child(6n+4) a:hover,
+	.no-touch .nav_month li:nth-child(6n+4) a:active,
+	.no-touch .nav_month li:nth-child(6n+4) a:focus {
 		background: rgb(31, 120, 176);
 	}
 
-	.no-touch .nav li:nth-child(6n+5) a:hover,
-	.no-touch .nav li:nth-child(6n+5) a:active,
-	.no-touch .nav li:nth-child(6n+5) a:focus {
+	.no-touch .nav_month li:nth-child(6n+5) a:hover,
+	.no-touch .nav_month li:nth-child(6n+5) a:active,
+	.no-touch .nav_month li:nth-child(6n+5) a:focus {
 		background: rgb(39, 70, 90);
 	}
 
-	.no-touch .nav li:nth-child(6n+6) a:hover,
-	.no-touch .nav li:nth-child(6n+6) a:active,
-	.no-touch .nav li:nth-child(6n+6) a:focus {
+	.no-touch .nav_month li:nth-child(6n+6) a:hover,
+	.no-touch .nav_month li:nth-child(6n+6) a:active,
+	.no-touch .nav_month li:nth-child(6n+6) a:focus {
 		background: rgb(32, 54, 68);
 	}
 
-	.nav ul li {
+	.nav_month ul li {
 		-webkit-transition: background 0.5s;
 		-moz-transition: background 0.5s;
 		-o-transition: background 0.5s;
@@ -331,28 +331,28 @@ a, button {
 @media (min-width:32.5em) and (max-width: 49.938em) {
 	
 	/* Creating the 2 column layout using floating elements once again */
-	.nav li {
+	.nav_month li {
 		display: block;
 		float: left;
 		width: 50%;
 	}
 	
 	/* Adding some padding to make the elements look nicer*/
-	.nav a {
+	.nav_month a {
 		padding: 0.8em;		
 	}
 
 	/* Displaying the icons on the left, and the text on the right side using inlin-block*/
-	.nav li span, 
-	.nav li span.icon {
+	.nav_month li span, 
+	.nav_month li span.icon {
 		display: inline-block;
 	}
 
-	.nav li span.icon {
+	.nav_month li span.icon {
 		width: 50%;
 	}
 
-	.nav li .icon + span {
+	.nav_month li .icon + span {
 		font-size: 1em;
 	}
 
@@ -362,7 +362,7 @@ a, button {
 	}
 
 	/* Adaptating to the icons to animate the size and border of the rounded background in a more discreet way */
-	.nav li i {
+	.nav_month li i {
 		display: inline-block;
 		padding: 8% 9%;
 		border: 4px solid transparent;
@@ -377,9 +377,9 @@ a, button {
 	}
 
 	/* Transition effect on the border color */
-	.no-touch .nav li:hover i,
-	.no-touch .nav li:active i,
-	.no-touch .nav li:focus i {
+	.no-touch .nav_month li:hover i,
+	.no-touch .nav_month li:active i,
+	.no-touch .nav_month li:focus i {
 		border: 4px solid rgba(255,255,255,0.1);
 	}
 	
@@ -388,17 +388,17 @@ a, button {
 /* Adapting the font size and width for smaller screns*/
 @media (min-width: 32.5em) and (max-width: 38.688em) {
 	
-	.nav li span.icon {
+	.nav_month li span.icon {
 		width: 50%;
 	}
 
-	.nav li .icon + span {
+	.nav_month li .icon + span {
 		font-size: 0.9em;
 	}
 }
 
-/* Styling the toggle menu link and hiding it */
-.nav .navtoogle{
+/* Styling the toggle menu_month link and hiding it */
+.nav_month .nav_monthtoogle{
 	display: none;	
 	width: 100%;
 	padding: 0.5em 0.5em 0.8em;
@@ -413,11 +413,11 @@ a, button {
 	cursor: pointer;
 }
 
-.navtoogle i{
+.nav_monthtoogle i{
 	z-index:-1;
 }
 
-.icon-menu {
+.icon-menu_month {
 	position: relative;
 	top: 3px;
 	line-height: 0;
@@ -426,28 +426,28 @@ a, button {
 
 @media (max-width: 32.438em) {
 
-	/* Unhiding the styled menu link */
-	.nav .navtoogle{
+	/* Unhiding the styled menu_month link */
+	.nav_month .nav_monthtoogle{
 		margin: 0;
 		display: block;
 	}
 	
-	/* Animating the height of the navigation when the button is clicked */
+	/* Animating the height of the nav_monthigation when the button is clicked */
 	
-	/* When JavaScript is disabled, we hide the menu */
-	.no-js .nav ul {
+	/* When JavaScript is disabled, we hide the menu_month */
+	.no-js .nav_month ul {
 		max-height: 30em;
 		overflow: hidden;
 	}
 	
-	/* When JavaScript is enabled, we hide the menu */
-	.js .nav ul {
+	/* When JavaScript is enabled, we hide the menu_month */
+	.js .nav_month ul {
 		max-height: 0em;
 		overflow: hidden;
 	}
 	
-	/* Displaying the menu when the user has clicked on the button*/
-	.js .nav .active + ul {		
+	/* Displaying the menu_month when the user has clicked on the button*/
+	.js .nav_month .active + ul {		
 		max-height: 30em;
 		overflow: hidden;
 		-webkit-transition: max-height .4s;
@@ -457,14 +457,14 @@ a, button {
 		transition: max-height .4s;
 	}
 
-	/* Adapting the layout of the menu for smaller screens : icon on the left and text on the right*/
+	/* Adapting the layout of the menu_month for smaller screens : icon on the left and text on the right*/
 	
-	.nav li span {
+	.nav_month li span {
 		display: inline-block;
 		height: 100%;
 	}
 
-	.nav a {
+	.nav_month a {
 		padding: 0.5em;		
 	}
 	
@@ -473,33 +473,33 @@ a, button {
 		font-size: 0.8em;
 	}
 	
-	/* Adding a left border of 8 px with a different color for each menu item*/
-	.nav li:nth-child(6n+1) {
+	/* Adding a left border of 8 px with a different color for each menu_month item*/
+	.nav_month li:nth-child(6n+1) {
 		border-left: 8px solid rgb(174, 78, 1);
 	}
 
-	.nav li:nth-child(6n+2) {
+	.nav_month li:nth-child(6n+2) {
 		border-left: 8px solid rgb(191, 117, 20);
 	}
 
-	.nav li:nth-child(6n+3) {
+	.nav_month li:nth-child(6n+3) {
 		border-left: 8px solid rgb(13, 111, 150);
 	}
 
-	.nav li:nth-child(6n+4) {
+	.nav_month li:nth-child(6n+4) {
 		border-left: 8px solid rgb(10, 75, 117);
 	}
 
-	.nav li:nth-child(6n+5) {
+	.nav_month li:nth-child(6n+5) {
 		border-left: 8px solid rgb(16, 34, 44);
 	}
 
-	.nav li:nth-child(6n+6) {
+	.nav_month li:nth-child(6n+6) {
 		border-left: 8px solid rgb(9, 18, 25);
 	}
 
-	/* make the nav bigger on touch screens */
-	.touch .nav a {
+	/* make the nav_month bigger on touch screens */
+	.touch .nav_month a {
 		padding: 0.8em;
 	}
 }

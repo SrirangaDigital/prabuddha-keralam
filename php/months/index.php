@@ -18,10 +18,11 @@
 			<link rel="stylesheet" href="../../css/skel.css" />
 			<link rel="stylesheet" href="../../css/style.css" />
 			<link rel="stylesheet" href="../../css/style-wide.css" />
+			
 		<script src="js/modernizr.custom.js"></script>
 	</head>
 	<body>
-					<!-- Header -->
+<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
 				<h1><a href="../index.html">Prabuddha Kerelam </a> by Sri Ramakrishna Math</h1>
 				<nav id="nav">
@@ -71,21 +72,15 @@
 				</div>
 				<header>
 					<h2>Issue</h2>
-					<p>Select a Month</p>
+					<p>Select a month !</p>
 				</header>
 				
-				
-								<div class="row">
-									<div class="12u">
-												
-												
-<!--
-			<div class="main clearfix">
--->
-				<nav id="menu" class="nav">					
-					<ul>
+			<div class="row">
+				<div class="12u">
+					
+											
 						<?php
-
+							
 							include("../connect.php");
 							require_once("../common.php");
 
@@ -95,12 +90,13 @@
 							{
 								exit(1);
 							}
-
+							echo '<div class="main clearfix">';
+							echo '<nav id="menu_month" class="nav_month">';
+							
 							$query = "select distinct part,month from article where volume='$volume' order by part";
 							$result = $db->query($query); 
 							$num_rows = $result ? $result->num_rows : 0;
-
-
+							echo '<ul>';
 
 							if($num_rows > 0)
 							{
@@ -118,7 +114,6 @@
 								}
 							}
 
-							echo '</div></div>';
 
 							if($result){$result->free();}
 							$db->close();
@@ -127,9 +122,9 @@
 					</ul>
 				</nav>
 			</div>
-			</div>
-	</div><!-- /container -->
-			</section>
+		</div>
+	</div>	
+</section>
 					
 			
 		<!-- Footer -->
@@ -150,37 +145,6 @@
 			</footer>
 
 	
-		<script>
-			//  The function to change the class
-			var changeClass = function (r,className1,className2) {
-				var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
-				if( regex.test(r.className) ) {
-					r.className = r.className.replace(regex,' '+className2+' ');
-			    }
-			    else{
-					r.className = r.className.replace(new RegExp("(?:^|\\s+)" + className2 + "(?:\\s+|$)"),' '+className1+' ');
-			    }
-			    return r.className;
-			};	
-
-			//  Creating our button in JS for smaller screens
-			var menuElements = document.getElementById('menu');
-			menuElements.insertAdjacentHTML('afterBegin','<button type="button" id="menutoggle" class="navtoogle" aria-hidden="true"><i aria-hidden="true" class="icon-menu"> </i> Menu</button>');
-
-			//  Toggle the class on click to show / hide the menu
-			document.getElementById('menutoggle').onclick = function() {
-				changeClass(this, 'navtoogle active', 'navtoogle');
-			}
-
-			// http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
-			document.onclick = function(e) {
-				var mobileButton = document.getElementById('menutoggle'),
-					buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;
-
-				if(buttonStyle === 'block' && e.target !== mobileButton && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
-					changeClass(mobileButton, 'navtoogle active', 'navtoogle');
-				}
-			}
-		</script>
+		
 	</body>
 </html>

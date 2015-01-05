@@ -33,7 +33,7 @@ function isValidTitle($title)
 function isValidLetter($letter)
 {
 	if(is_array($letter)){return false;}
-	return preg_match("/^([A-Z]|Special)$/", $letter) ? true : false;
+	return preg_match('അ' | 'ആ'| 'ഇ' | 'ഈ' | 'ഉ' | 'ഊ' | 'എ' | 'ഏ' | 'ഐ' | 'ഒ' | 'ഓ' | 'ഔ' | 'ക' | 'ഗ' | 'ച' | 'ഛ'| 'ജ' | 'ഞ' | 'ട' | 'ഡ' | 'ത' | 'ദ' | 'ധ' | 'ന' | 'പ' | 'ഫ' | 'ബ' | 'ഭ' | 'മ' | 'യ' | 'ര' | 'റ' | 'ല' | 'വ' | 'ശ' | 'ഷ' | 'സ' | 'ഹ', $letter) ? true : false;
 }
 
 function isValidVolume($vol)
