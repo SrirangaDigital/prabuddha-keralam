@@ -49,13 +49,13 @@
 						<section>
 						<a href="php/volumes.php">	<span class="icon major fa-book accent2"></span>
 							<h3>Volumes</h3>
-							<p>Lists all the volumes which are in Prabuddha Keralam.</p>
-						</section></a>
+							<p>Lists all the volumes which are in Prabuddha Keralam.</p></a>
+						</section>
 						<section>
 						<a href="php/articles.php">	<span class="icon major fa-pencil accent3"></span>
 							<h3>Articles</h3>
-							<p>Lists all the articles which are in Prabuddha Keralam.</p>
-						</section></a>
+							<p>Lists all the articles which are in Prabuddha Keralam.</p></a>
+						</section>
 					</div>
 					<div class="features-row">
 						<section>
@@ -70,17 +70,18 @@
 						</section>
 					</div>
 				</section>
+				
+					</div>
+				</div>
 
 			</section>
 
-					</div>
-				</div>
 				
 			
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

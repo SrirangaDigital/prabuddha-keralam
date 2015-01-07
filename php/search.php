@@ -48,7 +48,7 @@
 				</div>
 				<header>
 					<h2>Search</h2>
-					<p>Search in the volumes of Prabuddha Keralam !</p>
+					<p>Search in the volumes of Prabuddha Keralam</p>
 				</header>
 <?php
 
@@ -109,7 +109,7 @@ require_once("common.php");
 											<span class="clr1">&nbsp;to&nbsp;</span>
 -->
 											<div class="2u 12u(3)">
-												<select name="year2" placeholder="Year">
+												<select name="year2">
 													<option value="">&nbsp;</option>
 														<?php
 															$result = $db->query($query);
@@ -149,7 +149,7 @@ require_once("common.php");
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

@@ -81,7 +81,7 @@
 															echo '<div class="year">';
 															$count = 1;
 														}
-														echo '<div class="bordered-link buzz-out"><a href=part.php?vol=' . $row['volume'] . '> Volume&nbsp;'. $row['volume'] .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div>';
+														echo '<div class="bordered-link"><a href="months/index.php?vol='. $row['volume'] .'"> Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</a></div>';
 													}
 													echo '</div>';
 												}
@@ -91,6 +91,7 @@
 
 										?>
 										
+									</div>
 								</div>
 
 			</section>
@@ -100,7 +101,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

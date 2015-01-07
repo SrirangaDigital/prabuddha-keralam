@@ -163,6 +163,23 @@ function getMonth($month)
 	
 	return $month;
 }
+function getMonth_part($month)
+{
+	$month = preg_replace('/01/', 'Jan', $month);
+	$month = preg_replace('/02/', 'Feb', $month);
+	$month = preg_replace('/03/', 'Mar', $month);
+	$month = preg_replace('/04/', 'Apr', $month);
+	$month = preg_replace('/05/', 'May', $month);
+	$month = preg_replace('/06/', 'Jun', $month);
+	$month = preg_replace('/07/', 'Jul', $month);
+	$month = preg_replace('/08/', 'Aug', $month);
+	$month = preg_replace('/09/', 'Sep', $month);
+	$month = preg_replace('/10/', 'Oct', $month);
+	$month = preg_replace('/11/', 'Nov', $month);
+	$month = preg_replace('/12/', 'Dec', $month);
+	
+	return $month;
+}
 /*
 isValidTitle, isValidFeature, isValidAuthor, isValidText
 */

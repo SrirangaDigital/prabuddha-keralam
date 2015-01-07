@@ -171,10 +171,10 @@ if($num_rows1 > 0)
 		}
 		if($result3){$result3->free();}
 		
-		if($authid != 0)
+		if($row['authid'] != 0) 
 		{
 
-			echo "<br />";
+			
 			$aut = preg_split('/;/',$authid);
 
 			$fl = 0;
@@ -202,7 +202,7 @@ if($num_rows1 > 0)
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">&nbsp;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 				if($result2){$result2->free();}
@@ -210,6 +210,7 @@ if($num_rows1 > 0)
 		}
 		//~ echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
 		echo "</li>\n";
+		echo "<br />";
 	}
 }
 else
@@ -233,7 +234,7 @@ $db->close();
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

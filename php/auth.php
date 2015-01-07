@@ -51,7 +51,7 @@
 				if(isset($_GET['authid'])){$authid = $_GET['authid'];}else{$authid = '';}
 				if(isset($_GET['author'])){$authorname = $_GET['author'];}else{$authorname = '';}
 				echo "<header>";
-				echo"<h2>Articles written by - &nbsp;".$authorname."</h2>";
+				echo"<h2>Articles written by  &nbsp;".$authorname."</h2>";
 				echo "</header>";
 			?>
 				
@@ -69,9 +69,6 @@ if($db->connect_errno > 0)
 {
 	echo 'Not connected to the database [' . $db->connect_errno . ']';
 	echo "</div></div>";
-	include("include_footer.php");
-	echo "<div class=\"clearfix\"></div></div>";
-	include("include_footer_out.php");
 	echo "</body></html>";
 	exit(1);
 }
@@ -85,6 +82,7 @@ $query = "(select titleid, title, page from article where authid like '%$authid%
 
 $result = $db->query($query);
 $num_rows = $result ? $result->num_rows : 0;
+echo '<ul>';
 if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
@@ -151,7 +149,7 @@ if($num_rows > 0)
 				echo "</li>\n";
 			
 			
-		}
+		} echo '</ul>';
 	}
 else
 {
@@ -160,8 +158,8 @@ else
 if($result){$result->free();}
 $db->close();
 ?>
+				</section>
 				</div>
-			</div>
 			</div>
 			</section>
 
@@ -171,7 +169,7 @@ $db->close();
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

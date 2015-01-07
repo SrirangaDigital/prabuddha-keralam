@@ -11,7 +11,7 @@
 				<div class="keys tline" id="ai" onclick="InsertText('ഏ')">ഏ</div>
 				<div class="keys lline" id="o" style="clear:left;border-bottom: none;" onclick="InsertText('ഐ')">ഐ</div>
 				<div class="keys" id="au" style="border-bottom: none;" onclick="InsertText('ഒ')">ഒ</div>
-				<div class="keys" id="au" style="border-bottom: none;" onclick="InsertText('ഓ')">ഓ</div>
+				<div class="keys" id="aau" style="border-bottom: none;" onclick="InsertText('ഓ')">ഓ</div>
 				<div class="keys" id="M" style="border-bottom: none;" onclick="InsertText('ം')">ം</div>
 				<div class="keys" id="H" style="border-bottom: none;" onclick="InsertText('ഃ')">ഃ</div>
 				<div class="keys lline tline" style="clear: left;" id="ka" onclick="InsertText('ക')">ക</div>
@@ -34,7 +34,7 @@
 				<div class="keys" id="da" onclick="InsertText('ദ')">ദ</div>
 				<div class="keys" id="dha" onclick="InsertText('ധ')">ധ</div>
 				<div class="keys" id="na" onclick="InsertText('ന')">ന</div>
-				<div class="keys" id="Nna" onclick="InsertText('ഩ')">ഩ</div>
+				<div class="keys tline" id="Nna" onclick="InsertText('ഩ')">ഩ</div>
 				<div class="keys lline" style="clear: left;border-bottom:none;" id="pa" onclick="InsertText('പ')">പ</div>
 				<div class="keys" id="Pa" style="border-bottom: none;" onclick="InsertText('ഫ')">ഫ</div>
 				<div class="keys" id="ba" style="border-bottom: none;" onclick="InsertText('ബ')">ബ</div>
@@ -58,20 +58,20 @@
 				<div class="keys" id="ukara" onclick="InsertText('ീ')">ീ</div>
 				<div class="keys" id="Ukara" onclick="InsertText('ു')">ു</div>
 				<div class="keys" id="Rukara" onclick="InsertText('ൂ')">ൂ</div>
-				<div class="keys" id="RUkara" onclick="InsertText('ൃ')">ൃ</div>
-				<div class="keys" id="RUkara" onclick="InsertText('ൄ')">ൄ</div>
+				<div class="keys" id="VOCALIC_R" onclick="InsertText('ൃ')">ൃ</div>
+				<div class="keys" id="VOCALIC_RR" onclick="InsertText('ൄ')">ൄ</div>
 				<div class="keys lline" id="ekara" style="clear: left;" onclick="InsertText('െ')">െ</div>
 				<div class="keys" id="aikara" onclick="InsertText('േ')">േ</div>
 				<div class="keys" id="okara" onclick="InsertText('ൈ')">ൈ</div>
 				<div class="keys" id="aukara" onclick="InsertText('ൊ')">ൊ</div>
-				<div class="keys" id="halanta" onclick="InsertText('ോ ')">ോ </div>
-				<div class="keys" id="halanta" onclick="InsertText('ൗ ')">ൗ </div>
-				<div class="keys" id="halanta" onclick="InsertText('ൌ ')">ൌ </div>
-				<div class="keys" id="halanta" onclick="InsertText('് ')">് </div>
-				<div class="keys" id="halanta" onclick="InsertText('ൎ ')">ൎ </div>
-				<div class="keys lline" id="ekara" style="clear: left;" onclick="InsertText('ൠ')">ൠ</div>
-				<div class="keys" id="aikara" onclick="InsertText('ൡ')">ൡ</div>
-				<div class="keys" id="aikara" onclick="InsertText('േ')">േ</div>
-				<div class="keys" id="aikara" onclick="InsertText('ൢ')">ൢ</div>
-				<div class="keys" id="aikara" onclick="InsertText('ൣ')">ൣ</div>
+				<div class="keys" id="OO" onclick="InsertText('ോ ')">ോ </div>
+				<div class="keys" id="AU_length" onclick="InsertText('ൗ ')">ൗ </div>
+				<div class="keys" id="AU" onclick="InsertText('ൌ ')">ൌ </div>
+				<div class="keys" id="VIRAMA" onclick="InsertText('് ')">് </div>
+				<div class="keys tline" id="DOT_REPH" onclick="InsertText('ൎ ')">ൎ </div>
+				<div class="keys lline" id="vocalic_rr" style="clear: left;" onclick="InsertText('ൠ')">ൠ</div>
+				<div class="keys" id="VOCALIC_l" onclick="InsertText('ൡ')">ൡ</div>
+				<div class="keys" id="EE" onclick="InsertText('േ')">േ</div>
+				<div class="keys" id="VOCALIC_L" onclick="InsertText('ൢ')">ൢ</div>
+				<div class="keys" id="VOCALIC_LL" onclick="InsertText('ൣ')">ൣ</div>
 			</div>

@@ -48,6 +48,7 @@
 				</div>
 			<header>
 					<h2>Articles</h2>
+					<p>Browse through the articles of Prabuddha Keralam</p>
 				</header>
 				
 				
@@ -161,7 +162,7 @@ else
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
-
+echo "<ul>";
 if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
@@ -191,7 +192,6 @@ if($num_rows > 0)
 		$feature=$row3['feat_name'];
 		$dpart = preg_replace("/^0/", "", $part);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
-		
 		if($result3){$result3->free();}
 				
 		echo "<li>";
@@ -206,7 +206,7 @@ if($num_rows > 0)
 			echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"feat.php?feature=" . urlencode($feature) . "&amp;featid=$featid\">$feature</a></span>";
 		}
 		
-		if($authid != 0)
+		if($row['authid'] != 0) 
 		{
 
 			echo "<br />";
@@ -228,12 +228,12 @@ if($num_rows > 0)
 					
 					if($fl == 0)
 					{
-						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">&nbsp;&nbsp;$authorname</a></span>";
+						echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">&nbsp;&nbsp;$authorname</a></span>";
 						$fl = 1;
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 				if($result2){$result2->free();}
@@ -241,9 +241,11 @@ if($num_rows > 0)
 		}
 		//~ echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
 
-		echo "</li>\n";
-	}
-}
+		echo "</li>";
+		
+	}echo "</ul>";
+	    
+}      
 else
 {
 	echo "<li>Sorry! No articles were found to begin with the letter '$letter' in Records of the The Vedanta Kesari</li>";
@@ -252,6 +254,7 @@ if($result){$result->free();}
 $db->close();
 ?>
 			</div>
+			</section>
 			</div>
 			</div>
 			</section>
@@ -262,7 +265,7 @@ $db->close();
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

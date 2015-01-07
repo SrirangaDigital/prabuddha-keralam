@@ -55,15 +55,7 @@
 					</ul>
 
 				</div>
-				<header>
-					<h2>Search Results</h2>
-				</header>
-				<div class="row">
-					<div class="12u">
-						
-						<!-- Form -->
-							<section class="box">
-<?php
+				<?php
 
 include("connect.php");
 require_once("common.php");
@@ -201,18 +193,31 @@ elseif($text!='')
 $result = $db->query($query); 
 $num_results = $result ? $result->num_rows : 0;
 
-if ($num_results > 0)
-{
-    echo '<div class="page_title">' . $num_results;
-    echo ($num_results > 1) ? ' results' : ' result';
-    echo '</div>';
-    echo '<br>';
-    echo '<br>';
-}
+//~ if ($num_results > 0)
+//~ {
+    //~ echo '<div class="page_title">' . $num_results;
+    //~ echo ($num_results > 1) ? ' results' : ' result';
+    //~ echo '</div>';
+    //~ echo '<br>';
+    //~ echo '<br>';
+//~ }
 
+					echo'<header>';
+					echo'<h2>Search Results</h2>';
+					echo'<p>'.$num_results.'&nbsp;Results</p>';
+				echo '</header>';
+			?>
+				<div class="row">
+					<div class="12u">
+						
+						<!-- Form -->
+							<section class="box">
+
+<?php
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 $id = 0;
+echo '<ul>';
 if($num_rows > 0)
 {
     while($row = $result->fetch_assoc())
@@ -225,11 +230,10 @@ if($num_rows > 0)
         $dpart = preg_replace("/\-0/", "-", $dpart);
         
         if($result3){$result3->free();}
-
+			
         if ((strcmp($id, $row['titleid'])) != 0) {
 
-            echo ($id == "0") ? '<div class="article">' : '</div><div class="article">';
-
+            //~ echo ($id == "0") ? '<div class="article">' : '</div><div class="article">';
             //~ echo '  <div class="gapBelowSmall">';
             echo '<li>';
             echo ($row3['feat_name'] != '') ? '     <span class="featurespan"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
@@ -245,13 +249,13 @@ if($num_rows > 0)
                 $a=0;
                 foreach ($authids as $aid) {
 
-                    echo '<a href="auth.php?authid=' . $aid . '&amp;author=' . urlencode($authornames[$a]) . '">&nbsp;&nbsp;&nbsp;' . $authornames[$a] . '</a> ';
+                    echo '<a href="auth.php?authid=' . $aid . '&amp;author=' . urlencode($authornames[$a]) . '">&nbsp;' . $authornames[$a] . '</a> ';
                     $a++;
-                }
+                }echo '  </span>';
 
-                echo '  </span>';
+                
+            }	
                 echo '</li>';
-            }
             if($text != '')
             {
                 echo '<br /><span class="aIssue">Text match found at page(s) : </span>';
@@ -259,15 +263,16 @@ if($num_rows > 0)
             }
             $id = $row['titleid'];
         }
-        else {
+			else {
 
             if($text != '')
             {
                 echo '&nbsp;<span class="aIssue"><a href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['cur_page'] . '.djvu&amp;zoom=page&amp;find=' . $dtext . '/r" target="_blank">' . intval($row['cur_page']) . '</a> </span>';
             }
             $id = $row['titleid'];
-        }
-    }
+				}
+    
+    } echo '</ul>';
 }
 else
 {
@@ -285,7 +290,7 @@ $db->close();
                 <!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

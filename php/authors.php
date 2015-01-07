@@ -48,6 +48,7 @@
 				</div>
 			<header>
 					<h2>Authors</h2>
+					<p>People who have contributed for Prabuddha Kerelam</p>
 				</header>
 				
 				
@@ -150,7 +151,7 @@ $query = "select * from author where authorname like '$letter%' order by authorn
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
-
+echo "<ul>";
 if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
@@ -170,11 +171,13 @@ else
 {
 	echo "<li>Sorry! No author names were found to begin with the letter '$letter' in Records of the Indian Museum / ZSI</li>";
 }
-
+        echo "</ul>";
 if($result){$result->free();}
 $db->close();
 ?>
-</div>
+
+			</div>
+			</section>
 			</div>
 			</div>
 			</section>
@@ -185,7 +188,7 @@ $db->close();
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>

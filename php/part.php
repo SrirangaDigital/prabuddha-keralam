@@ -13,6 +13,7 @@
 		<script src="../js/skel-layers.min.js"></script>
 		<script src="../js/main.js"></script>
 		<script src="../js/init.js"></script>
+		<script src="js/modernizr.custom.js"></script>
 		<link rel="shortcut icon" type="image/ico" href="../images/favicon.ico" />
 			<link rel="stylesheet" href="months/css/component.css" />
 			<link rel="stylesheet" href="../css/skel.css" />
@@ -105,7 +106,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404?ref=ts&fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
