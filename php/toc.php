@@ -171,7 +171,7 @@ if($num_rows1 > 0)
 		}
 		if($result3){$result3->free();}
 		
-		if($row['authid'] != 0) 
+		if($authid != 0) 
 		{
 
 			
