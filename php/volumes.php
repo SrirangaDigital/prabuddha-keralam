@@ -6,17 +6,17 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="../js/jquery.min.js"></script>
-		<script src="../js/jquery.dropotron.min.js"></script>
-		<script src="../js/jquery.scrollgress.min.js"></script>
-		<script src="../js/skel.min.js"></script>
-		<script src="../js/skel-layers.min.js"></script>
-		<script src="../js/main.js"></script>
-		<script src="../js/init.js"></script>
-		<link rel="shortcut icon" type="image/ico" href="../images/favicon.ico" />
-			<link rel="stylesheet" href="../css/skel.css" />
-			<link rel="stylesheet" href="../css/style.css" />
-			<link rel="stylesheet" href="../css/style-wide.css" />
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/main.js"></script>
+		<script src="js/init.js"></script>
+		<link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
@@ -27,8 +27,8 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="../index.html">Home</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../archives.php">Archives</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="archives.php">Archives</a></li>
 						<li><a href="search.php">Search</a></li>
 					</ul>
 				</nav>
@@ -41,7 +41,7 @@
 						<li><a href="volumes.php" class="button vol_bag icon fa-book">Volumes</a></li>
 						<li><a href="articles.php" class="button art_bag icon fa-pencil">Articles</a></li>
 						<li><a href="authors.php" class="button aut_bag icon fa-user">Author</a></li>
-						<li><a href="#" class="button sea_bag icon fa-search">Search</a></li>
+						<li><a href="search.php" class="button sea_bag icon fa-search">Search</a></li>
 					</ul>
 
 				</div>

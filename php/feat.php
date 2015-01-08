@@ -6,17 +6,17 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="../js/jquery.min.js"></script>
-		<script src="../js/jquery.dropotron.min.js"></script>
-		<script src="../js/jquery.scrollgress.min.js"></script>
-		<script src="../js/skel.min.js"></script>
-		<script src="../js/skel-layers.min.js"></script>
-		<script src="../js/main.js"></script>
-		<script src="../js/init.js"></script>
-		<link rel="shortcut icon" type="image/ico" href="../images/favicon.ico" />
-			<link rel="stylesheet" href="../css/skel.css" />
-			<link rel="stylesheet" href="../css/style.css" />
-			<link rel="stylesheet" href="../css/style-wide.css" />
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/main.js"></script>
+		<script src="js/init.js"></script>
+		<link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
@@ -27,8 +27,8 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="../index.html">Home</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../archives.php">Archives</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="archives.php">Archives</a></li>
 						<li><a href="search.php">Search</a></li>
 					</ul>
 				</nav>
@@ -77,9 +77,7 @@ if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
 	echo "Invalid URL";
 	
 	echo "</div></div>";
-	include("include_footer.php");
 	echo "<div class=\"clearfix\"></div></div>";
-	include("include_footer_out.php");
 	echo "</body></html>";
 	exit(1);
 }
@@ -90,9 +88,7 @@ if($db->connect_errno > 0)
 {
 	echo 'Not connected to the database [' . $db->connect_errno . ']';
 	echo "</div></div>";
-	include("include_footer.php");
 	echo "<div class=\"clearfix\"></div></div>";
-	include("include_footer_out.php");
 	echo "</body></html>";
 	exit(1);
 }
@@ -149,7 +145,7 @@ if($num_rows1 > 0)
 		$dpart = preg_replace("/\-0/", "-", $dpart);
 		
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../../Volumes/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
+		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 		echo "
 		<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<span class=\"yearspan\">

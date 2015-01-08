@@ -23,13 +23,13 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1><a href="index.html">Prabuddha Keralam </a> by Sri Ramakrishna Math</h1>
+				<h1><a href="../index.html">Prabuddha Keralam </a> by Sri Ramakrishna Math</h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="../index.html">Home</a></li>
 						<li><a href="about.html">About</a></li>
 						<li><a href="archives.php">Archives</a></li>
-						<li><a href="php/search.php">Search</a></li>
+						<li><a href="search.php">Search</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -47,24 +47,24 @@
 							<section class="box special features">
 					<div class="features-row">
 						<section>
-						<a href="php/volumes.php">	<span class="icon major fa-book accent2" style="cursor:pointer;"></span>
+						<a href="volumes.php">	<span class="icon major fa-book accent2" style="cursor:pointer;"></span>
 							<h3>Volumes</h3>
 							<p>Lists all the volumes which are in Prabuddha Keralam.</p></a>
 						</section>
 						<section>
-						<a href="php/articles.php">	<span class="icon major fa-pencil accent3" style="cursor:pointer;"></span>
+						<a href="articles.php">	<span class="icon major fa-pencil accent3" style="cursor:pointer;"></span>
 							<h3>Articles</h3>
 							<p>Lists all the articles which are in Prabuddha Keralam.</p></a>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
-							<a href="php/authors.php"><span class="icon major fa-user accent4" style="cursor:pointer;"></span>
+							<a href="authors.php"><span class="icon major fa-user accent4" style="cursor:pointer;"></span>
 							<h3>Author</h3>
 							<p>Lists all the authors who have contributed for Prabuddha Keralam.</p></a>
 						</section>
 						<section>
-							<a href="php/search.php"><span class="icon major fa-search accent5" style="cursor:pointer;"></span>
+							<a href="search.php"><span class="icon major fa-search accent5" style="cursor:pointer;"></span>
 							<h3>Search</h3>
 							<p>Search in the entire volumes of Prabuddha Keralam.</p></a>
 						</section>

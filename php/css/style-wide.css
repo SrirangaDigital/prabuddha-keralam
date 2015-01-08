@@ -14,7 +14,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/vivek.png"), url("../images/banner.jpg");
+		background-image: url("../images/vivek.png"), url("../images/banner.jpg");
 		background-position: top,						center center;
 		background-repeat: no-repeat,							no-repeat;
 		background-size: 70%,							cover;

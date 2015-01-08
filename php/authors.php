@@ -7,17 +7,17 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="../js/jquery.min.js"></script>
-		<script src="../js/jquery.dropotron.min.js"></script>
-		<script src="../js/jquery.scrollgress.min.js"></script>
-		<script src="../js/skel.min.js"></script>
-		<script src="../js/skel-layers.min.js"></script>
-		<script src="../js/main.js"></script>
-		<script src="../js/init.js"></script>
-		<link rel="shortcut icon" type="image/ico" href="../images/favicon.ico" />
-			<link rel="stylesheet" href="../css/skel.css" />
-			<link rel="stylesheet" href="../css/style.css" />
-			<link rel="stylesheet" href="../css/style-wide.css" />
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/main.js"></script>
+		<script src="js/init.js"></script>
+		<link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
@@ -28,8 +28,8 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="../index.html">Home</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../archives.php">Archives</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="archives.php">Archives</a></li>
 						<li><a href="search.php">Search</a></li>
 					</ul>
 				</nav>
@@ -131,9 +131,7 @@ if($db->connect_errno > 0)
 {
 	echo '<li>Not connected to the database [' . $db->connect_errno . ']</li>';
 	echo "</ul></div></div>";
-	include("include_footer.php");
 	echo "<div class=\"clearfix\"></div></div>";
-	include("include_footer_out.php");
 	echo "</body></html>";
 	exit(1);
 }
@@ -176,7 +174,7 @@ if($num_rows > 0)
 
 else
 {
-	echo "<li>Sorry! No author names were found to begin with the letter '$letter' in Records of the Indian Museum / ZSI</li>";
+	echo "<li>Sorry! No author names were found to begin with the letter '$letter' in Prabuddha Keralam </li>";
 }
 if($result){$result->free();}
 $db->close();
