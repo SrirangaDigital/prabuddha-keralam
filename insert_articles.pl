@@ -69,6 +69,13 @@ while($line)
 			$id = "pke_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_0";
 			$count = 0;		
 		}
+		$prev_pages = $pages;
+		if ($page_end)
+		{
+        } 
+		else {
+			$page_end = $page;
+		}
 	}	
 	elsif($line =~ /<author>(.*)<\/author>/)
 	{
