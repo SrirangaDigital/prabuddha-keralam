@@ -82,7 +82,7 @@
 															//~ echo '<div class="year">';
 															$count = 1;
 														}
-														echo '<a href="months/index.php?vol='. $row['volume'] .'"><div class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div></a>';
+														echo '<a href="part.php?vol='. $row['volume'] .'"><div class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div></a>';
 													}
 													//~ echo '</div>';
 												}
