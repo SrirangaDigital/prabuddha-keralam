@@ -22,9 +22,9 @@ featid varchar(10),
 page varchar(10), 
 page_end varchar(10), 
 volume varchar(10),
-part varchar(5),
-year int(4), 
-month varchar(2),
+part varchar(10),
+year varchar(10), 
+month varchar(10),
 titleid varchar(30), primary key(titleid)) ENGINE=MyISAM");
 $sth11r->execute();
 $sth11r->finish();
