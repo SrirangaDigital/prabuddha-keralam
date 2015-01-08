@@ -1,11 +1,13 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en" >
 	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 		<title>Prabuddha Kerelam</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+<!--
+		<link rel="shortcut icon" href="favicon.ico"> 
+-->
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
 		<script src="../js/jquery.min.js"></script>
 		<script src="../js/jquery.dropotron.min.js"></script>
 		<script src="../js/jquery.scrollgress.min.js"></script>
@@ -13,17 +15,14 @@
 		<script src="../js/skel-layers.min.js"></script>
 		<script src="../js/main.js"></script>
 		<script src="../js/init.js"></script>
-		<script src="js/modernizr.custom.js"></script>
 		<link rel="shortcut icon" type="image/ico" href="../images/favicon.ico" />
-			<link rel="stylesheet" href="months/css/component.css" />
 			<link rel="stylesheet" href="../css/skel.css" />
 			<link rel="stylesheet" href="../css/style.css" />
 			<link rel="stylesheet" href="../css/style-wide.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<script src="js/modernizr.custom.js"></script>
 	</head>
 	<body>
-
-		<!-- Header -->
+					<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
 				<h1><a href="../index.html">Prabuddha Kerelam </a> by Sri Ramakrishna Math</h1>
 				<nav id="nav">
@@ -47,60 +46,67 @@
 					</ul>
 
 				</div>
-				<header>
-					<h2>Issue</h2>
-					<p>Select a month !</p>
-				</header>
-				
+				<?php
+
+												include("connect.php");
+												require_once("common.php");
+
+												if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
+
+												if(!(isValidVolume($volume)))
+												{
+													exit(1);
+												}
+
+												$query = "select distinct year,part,month from article where volume='$volume' order by part";
+												$result = $db->query($query); 
+												$num_rows = $result ? $result->num_rows : 0;
+												
+												echo '<header>';
+												echo '<h2>Volume&nbsp;'.intval($volume).'</h2>';
+												echo '<p>'.getYear($volume).'</p>';
+												echo '</header>';
+				?>
 				
 								<div class="row">
 									<div class="12u">
-										<?php
-							
-							include("connect.php");
-							require_once("common.php");
-
-							if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
-
-							if(!(isValidVolume($volume)))
-							{
-								exit(1);
-							}
-							echo '<div class="main clearfix">';
-							echo '<nav id="menu_month" class="nav_month">';
-							
-							$query = "select distinct part,month from article where volume='$volume' order by part";
-							$result = $db->query($query); 
-							$num_rows = $result ? $result->num_rows : 0;
-							echo '<ul>';
-
-							if($num_rows > 0)
-							{
-								$isFirst = 1;
-								while($row = $result->fetch_assoc())
-								{
-									//~ echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
-									echo "<li>";
-									echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">';
-									echo '<span>'.getMonth($row['month']).' </span>';
-									echo "</a>";
-									echo "</li>";
-									//~ echo '<div class="iphonebadge"><a href="../toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . '</a></div>';
-									$isFirst = 0;
-								}
-							}
+										<section class="box">
+												
+												
+								<div class="clearfix">
+									<nav id="menu" class="nav">					
+										<ul>
+											<?php
 
 
-							if($result){$result->free();}
-							$db->close();
+												if($num_rows > 0)
+												{
+													$isFirst = 1;
+													while($row = $result->fetch_assoc())
+													{
+														//~ echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
+														echo "<li>";
+														echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">';
+														echo '<span>'.getMonth_part($row['month']).' </span>';
+														echo "</a>";
+														echo "</li>";
+														//~ echo '<div class="iphonebadge"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . '</a></div>';
+														$isFirst = 0;
+													}
+												}
+													echo '</ul>';
 
-							?>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</div>	
-</section>
+												if($result){$result->free();}
+												$db->close();
+
+												?>
+							</nav>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			</section>
 					
 			
 		<!-- Footer -->
@@ -112,8 +118,5 @@
 					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Digitized by <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
 				</ul>
 			</footer>
-
-	
-		
 	</body>
 </html>
