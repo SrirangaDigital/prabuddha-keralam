@@ -151,9 +151,10 @@ $query = "select * from author where authorname like '$letter%' order by authorn
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
-echo "<ul>";
+
 if($num_rows > 0)
 {
+	echo '<ul>';
 	for($i=1;$i<=$num_rows;$i++)
 	{
 		//~ $row=mysql_fetch_assoc($result);
@@ -161,17 +162,22 @@ if($num_rows > 0)
 
 		$authid=$row['authid'];
 		$authorname=$row['authorname'];
-
+		//~ echo '<div class="article">';
+		
 		echo "<li>";
-		echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
-		echo "</li>\n";
+		echo "<span class=\"titlespan\"><a href=\"auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
+		echo "</li>";
+		
 	}
+		echo '</ul>';
+		//~ echo '</div>';
+		
 }
+
 else
 {
 	echo "<li>Sorry! No author names were found to begin with the letter '$letter' in Records of the Indian Museum / ZSI</li>";
 }
-        echo "</ul>";
 if($result){$result->free();}
 $db->close();
 ?>
@@ -191,7 +197,7 @@ $db->close();
 					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
+					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Digitized by <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
 				</ul>
 			</footer>
 

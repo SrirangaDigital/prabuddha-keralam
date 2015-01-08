@@ -70,7 +70,7 @@ a, li {
 	list-style: none;
 	font-size: 0.92em;
 	font-weight: 500;
-	text-align:left;
+	text-align:center;
 }
 
 .nav li span {
@@ -78,7 +78,6 @@ a, li {
 }
 
 .nav a {
-	display: block;
 	color: rgba(249, 249, 249, .9);
 	text-decoration: none;
 	-webkit-transition: color .5s, background .5s, height .5s;
@@ -116,27 +115,27 @@ a, button {
 /* Adding some background color to the different menu items */
 
 .nav li:nth-child(6n+1) {
-	background: rgb(208, 101, 3);
+	background: #e89980;
 }
 
 .nav li:nth-child(6n+2) {
-	background: rgb(233, 147, 26);
+	background: #7fcdb8;
 }
 
 .nav li:nth-child(6n+3) {
-	background: rgb(22, 145, 190);
+	background: #90b0ba;
 }
 
 .nav li:nth-child(6n+4) {
-	background: rgb(22, 107, 162);
+	background: #e5cb95;
 }
 
 .nav li:nth-child(6n+5) {
-	background: rgb(27, 54, 71);
+	background: #e89980;
 }
 
 .nav li:nth-child(6n+6) {
-	background: rgb(21, 40, 54);
+	background: #7fcdb8;
 }
 
 /* For screen bigger than 800px */
@@ -145,7 +144,7 @@ a, button {
 	/* Transforms the list into a horizontal navigation */
 	.nav li {
 		float: left;
-		width: 7.96666666666667%;
+		width: 5.5vw;
 		text-align: center;
 		-webkit-transition: border .5s;
 		-moz-transition: border .5s;
@@ -225,10 +224,11 @@ a, button {
 
 	/* Animating the height of the element*/
 	.nav a {
-		height: 6em;
+		height: 5em;
 		font-weight:600;
 		font-family: "Source Sans Pro", sans-serif;
 		font-size:1.1em;
+		text-align:center;
 	}
 
 	.no-touch .nav a:hover ,

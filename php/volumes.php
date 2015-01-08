@@ -53,6 +53,7 @@
 				
 								<div class="row">
 									<div class="12u">
+										<section class="box">
 												
 								
 										<?php
@@ -71,26 +72,26 @@
 
 												if($num_rows > 0)
 												{
-													echo '<div class="year">';
+													//~ echo '<div class="year">';
 													while($row = $result->fetch_assoc())
 													{
 														$count++;
 														if($count > $row_count) {
 															
-															echo '</div>';
-															echo '<div class="year">';
+															//~ echo '</div>';
+															//~ echo '<div class="year">';
 															$count = 1;
 														}
-														echo '<div class="bordered-link"><a href="months/index.php?vol='. $row['volume'] .'"> Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</a></div>';
+														echo '<a href="months/index.php?vol='. $row['volume'] .'"><div class="button alt" > Volume&nbsp;'. intval($row['volume']) .'&nbsp;&nbsp;('.getYear($row['volume']) . ')</div></a>';
 													}
-													echo '</div>';
+													//~ echo '</div>';
 												}
 
 												if($result){$result->free();}
 												$db->close();
 
 										?>
-										
+									</section>	
 									</div>
 								</div>
 
@@ -104,7 +105,7 @@
 					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
+					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Digitized by <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
 				</ul>
 			</footer>
 

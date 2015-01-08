@@ -46,20 +46,7 @@
 					</ul>
 
 				</div>
-				<header>
-					<h2>Issue</h2>
-					<p>Select a Month</p>
-				</header>
-				
-				
-								<div class="row">
-									<div class="12u">
-												
-												
-								<div class="clearfix">
-									<nav id="menu" class="nav">					
-										<ul>
-											<?php
+				<?php
 
 												include("../connect.php");
 												require_once("../common.php");
@@ -71,9 +58,25 @@
 													exit(1);
 												}
 
-												$query = "select distinct part,month from article where volume='$volume' order by part";
+												$query = "select distinct year,part,month from article where volume='$volume' order by part";
 												$result = $db->query($query); 
 												$num_rows = $result ? $result->num_rows : 0;
+												
+												echo '<header>';
+												echo '<h2>Volume&nbsp;'.intval($volume).'</h2>';
+												echo '<p>'.getYear($volume).'</p>';
+												echo '</header>';
+				?>
+				
+								<div class="row">
+									<div class="12u">
+										<section class="box">
+												
+												
+								<div class="clearfix">
+									<nav id="menu" class="nav">					
+										<ul>
+											<?php
 
 
 												if($num_rows > 0)
@@ -101,7 +104,7 @@
 							</div>
 						</div>
 					</div>
-				
+				</section>
 
 			</section>
 					
@@ -112,7 +115,7 @@
 					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Design: <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
+					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Digitized by <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
 				</ul>
 			</footer>
 	</body>
