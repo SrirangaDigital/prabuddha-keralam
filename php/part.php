@@ -42,7 +42,7 @@
 													{
 														echo "<li>";
 														echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">';
-														echo '<span>'.getMonth_part($row['month']).' </span>';
+														echo '<span>'.getMonth_part($row['month']).'</span>';
 														echo "</a>";
 														echo "</li>";
 														$isFirst = 0;
@@ -56,9 +56,9 @@
 												?>
 							</nav>
 							</div>
+						</section>
 						</div>
 					</div>
-				</section>
 
 			</section>
 					

@@ -42,14 +42,12 @@
 								}
 								if($result){$result->free();}
 												echo "<header>";
-												echo "<h2>".getYear($volume).",&nbsp".$month_name{intval($month)}."</h2>";
-												echo "<p>Volume&nbsp;".intval($volume).",&nbsp;Issue&nbsp;".intval($part)."</p>";
+												echo "<h2>" . $month_name{intval($month)} . ",&nbsp;" . getYear($volume) . "</h2>";
+												echo "<p>Volume&nbsp;" . intval($volume) . ",&nbsp;Issue&nbsp;" . intval($part) . "</p>";
 												echo "</header>";
 							?>
 				
 				
-								<div class="row">
-									<div class="12u">
 										<section class="box">
 											<div class="archive_holder">
 											<div class="row">
@@ -110,7 +108,6 @@
 											if($result){$result->free();}
 											$db->close();
 											?>
-										</div>
 										</div>
 									</div>
 								</div>

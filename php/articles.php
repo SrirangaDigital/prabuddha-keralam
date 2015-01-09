@@ -5,7 +5,7 @@
 	<?php include("sec_nav.php"); ?>
 				<header>
 					<h2>Articles</h2>
-					<p>Browse through the articles of Prabuddha Keralam</p>
+					<p>List of all articles sorted alphabetically</p>
 				</header>
 				
 				
@@ -151,7 +151,7 @@
 								echo "
 								<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 								<span class=\"yearspan\">
-									<a href=\"toc.php?vol=$volume&amp;part=$part\">".$year."&nbsp;&nbsp;" . $month_name{intval($month)}."&nbsp;;&nbsp;(Volume&nbsp;".intval($volume)."&nbsp;&nbsp;Issue&nbsp;".$dpart.")</a>
+									<a href=\"toc.php?vol=$volume&amp;part=$part\">" . $month_name{intval($month)} . " " . $year ." &nbsp;(Volume&nbsp;".intval($volume).", Issue&nbsp;".$dpart.")</a>
 								</span>";
 								if($feature != "")
 								{

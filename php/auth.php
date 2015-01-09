@@ -10,7 +10,8 @@
 				if(isset($_GET['authid'])){$authid = $_GET['authid'];}else{$authid = '';}
 				if(isset($_GET['author'])){$authorname = $_GET['author'];}else{$authorname = '';}
 				echo "<header>";
-				echo "<h2>Articles written by  &nbsp;".$authorname."</h2>";
+				echo "<h2>$authorname</h2>";
+				echo "<p>Bibliography</p>";
 				echo "</header>";
 			?>
 								<div class="row">
@@ -96,7 +97,7 @@
 												echo "
 												<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 												<span class=\"yearspan\">
-													<a href=\"toc.php?vol=$volume&amp;part=$part\">".$year."&nbsp;&nbsp;" . $month_name{intval($month)}."&nbsp;;&nbsp;(Volume&nbsp;".intval($volume)."&nbsp;&nbsp;Issue&nbsp;".$dpart.")</a>
+													<a href=\"toc.php?vol=$volume&amp;part=$part\">" . $month_name{intval($month)} . " " . $year ." &nbsp;(Volume&nbsp;".intval($volume).", Issue&nbsp;".$dpart.")</a>
 												</span>";
 												if($feature != "")
 												{

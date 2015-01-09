@@ -5,7 +5,7 @@
 				<?php include("sec_nav.php"); ?>
 				<header>
 					<h2>Search</h2>
-					<p>Search in the volumes of Prabuddha Keralam</p>
+					<p>Search through the entire collection</p>
 				</header>
 				<?php
 				include("connect.php");

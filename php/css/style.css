@@ -10,9 +10,6 @@
 	font-style: normal;
 }
 
-/*
- Windows Chrome ugly fix http://stackoverflow.com/questions/13674808/chrome-svg-font-rendering-breaks-layout/14345363#14345363 
-*/
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: 'icomoon';
@@ -81,7 +78,7 @@ a, li {
 }
 
 .nav a {
-	color: rgba(249, 249, 249, .9);
+	color: white;
 	text-decoration: none;
 	-webkit-transition: color .5s, background .5s, height .5s;
 	-moz-transition: color .5s, background .5s, height .5s;
@@ -117,28 +114,20 @@ a, button {
 
 /* Adding some background color to the different menu items */
 
-.nav li:nth-child(6n+1) {
+.nav li:nth-child(4n+1) {
 	background: #e89980;
 }
 
-.nav li:nth-child(6n+2) {
+.nav li:nth-child(4n+2) {
 	background: #7fcdb8;
 }
 
-.nav li:nth-child(6n+3) {
+.nav li:nth-child(4n+3) {
 	background: #90b0ba;
 }
 
-.nav li:nth-child(6n+4) {
+.nav li:nth-child(4n+4) {
 	background: #e5cb95;
-}
-
-.nav li:nth-child(6n+5) {
-	background: #e89980;
-}
-
-.nav li:nth-child(6n+6) {
-	background: #7fcdb8;
 }
 
 /* For screen bigger than 800px */
@@ -154,6 +143,7 @@ a, button {
 		-o-transition: border .5s;
 		-ms-transition: border .5s;
 		transition: border .5s;
+		padding-top: 15px;
 	}
 
 	.nav a {
@@ -229,17 +219,17 @@ a, button {
 
 	/* Animating the height of the element*/
 	.nav a {
-		height: 5em;
+		height: 6em;
 		font-weight:500;
 		font-family: "Source Sans Pro", sans-serif;
-		font-size:1.1em;
+		font-size:1em;
 		text-align:center;
 	}
 
 	.no-touch .nav a:hover ,
 	.nav a:active ,
 	.nav a:focus {
-		height: 10em;
+		height: 8em;
 	}	
 
 	/* Making the text follow the height animation */
@@ -2067,7 +2057,7 @@ Status API Training Shop Blog About
 
 	#footer {
 		background: #f0f0f0;
-		padding: 4em 0 6em 0;
+		padding: 2em 0 2em 0;
 		text-align: center;
 	}
 
@@ -2087,7 +2077,7 @@ Status API Training Shop Blog About
 		#footer .copyright {
 			color: #999;
 			font-size: 0.9em;
-			line-height: 1em;
+			line-height: 1.5em;
 			margin: 2em 0 0 0;
 			padding: 0;
 			text-align: center;
@@ -2098,11 +2088,8 @@ Status API Training Shop Blog About
 			}
 
 			#footer .copyright li {
-				border-left: solid 1px #dddddd;
 				display: inline-block;
 				list-style: none;
-				margin-left: 1em;
-				padding-left: 1em;
 			}
 
 				#footer .copyright li:first-child {
@@ -2115,7 +2102,7 @@ Status API Training Shop Blog About
 
 	#cta {
 		background: #e89980;
-		color: #f9e5df;
+		color: #ffffff;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}

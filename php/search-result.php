@@ -162,7 +162,7 @@
 
 												echo'<header>';
 												echo'<h2>Search Results</h2>';
-												echo'<p>'.$num_results.'&nbsp;Results</p>';
+												echo ($num_results > 1) ? '<p>'.$num_results.'&nbsp;Results</p>' : '<p>'.$num_results.'&nbsp;Result</p>';
 											echo '</header>';
 										?>
 				<div class="row">

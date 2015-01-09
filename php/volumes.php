@@ -5,7 +5,7 @@
 				<?php include("sec_nav.php"); ?>
 				<header>
 					<h2>Volumes</h2>
-					<p>Volume of Volumes !</p>
+					<p>List of all volumes published till date</p>
 				</header>
 								<div class="row">
 									<div class="12u">
