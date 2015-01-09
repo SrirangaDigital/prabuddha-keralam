@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Prabuddha Keralam</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -13,6 +14,7 @@
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/malayalam_kbd.js"></script>
 		<script src="js/init.js"></script>
+		<script src="js/modernizr.custom.js"></script>
 		<link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
