@@ -1,39 +1,5 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Prabuddha Keralam</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.min.js"></script>
-		<script src="js/jquery.scrollgress.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>		<link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-	</head>
-	<body>
-
-		<!-- Header -->
-			<header id="header" class="skel-layers-fixed">
-				<h1><a href="../index.html">Prabuddha Keralam </a> by Sri Ramakrishna Math</h1>
-				<nav id="nav">
-					<ul>
-						<li><a href="../index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="archives.php">Archives</a></li>
-						<li><a href="search.php">Search</a></li>
-					</ul>
-				</nav>
-			</header>
-
+    <?php include("header.php");?>
+	<?php include("nav.php"); ?>
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
@@ -58,16 +24,5 @@
 					</div>
 				</div>
 			</section>
-			
-	<!-- Footer -->
-			<footer id="footer">
-				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-				</ul>
-				<ul class="copyright">
-					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Digitized by <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
-				</ul>
-			</footer>
-
-	</body>
-</html>
+			<?php include("footer.php");?>
+	

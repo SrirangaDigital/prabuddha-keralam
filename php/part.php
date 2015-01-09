@@ -22,31 +22,12 @@
 		<script src="js/modernizr.custom.js"></script>
 	</head>
 	<body>
-					<!-- Header -->
-			<header id="header" class="skel-layers-fixed">
-				<h1><a href="../index.html">Prabuddha Kerelam </a> by Sri Ramakrishna Math</h1>
-				<nav id="nav">
-					<ul>
-						<li><a href="../index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="archives.php">Archives</a></li>
-						<li><a href="search.php">Search</a></li>
-					</ul>
-				</nav>
-			</header>
+					<?php include("nav.php"); ?>
 
 		<!-- Main -->
 			<section id="main" class="container">
-				<div id="sec_nav">
-					<ul class="actions">
-						<li><a href="volumes.php" class="button vol_bag icon fa-book">Volumes</a></li>
-						<li><a href="articles.php" class="button art_bag icon fa-pencil">Articles</a></li>
-						<li><a href="authors.php" class="button aut_bag icon fa-user">Author</a></li>
-						<li><a href="search.php" class="button sea_bag icon fa-search">Search</a></li>
-					</ul>
-
-				</div>
-				<?php
+				<?php include("sec_nav.php"); ?>
+											<?php
 
 												include("connect.php");
 												require_once("common.php");
@@ -66,7 +47,7 @@
 												echo '<h2>Volume&nbsp;'.intval($volume).'</h2>';
 												echo '<p>'.getYear($volume).'</p>';
 												echo '</header>';
-				?>
+											?>
 				
 								<div class="row">
 									<div class="12u">
@@ -109,14 +90,4 @@
 			</section>
 					
 			
-		<!-- Footer -->
-			<footer id="footer">
-				<ul class="icons">
-					<li><a href="https://www.facebook.com/pages/Prabuddha-Keralam/528116447198404" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-				</ul>
-				<ul class="copyright">
-					<li>&copy; Prabuddha Keralam, Sri Ramakrishna Math, Thrissur, Kerala. All rights reserved.</li><li>Digitized by <a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
-				</ul>
-			</footer>
-	</body>
-</html>
+		<?php include("footer.php"); ?>
