@@ -15,11 +15,11 @@
 		background-attachment: scroll,							fixed;
 		background-color: #666;
 		background-image: url("../images/vivek.png"), url("../images/banner.jpg");
-		background-position: top,						center center;
+		background-position: center top,						center center;
 		background-repeat: no-repeat,							no-repeat;
-		background-size: 70%,							cover;
+		background-size: 68%,							cover;
 		color: #fff;
-		padding: 12em 0 18em 0;
+		padding:10em 0 20em 0;
 		text-align: center;
 	}
 

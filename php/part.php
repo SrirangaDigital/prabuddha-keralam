@@ -20,8 +20,8 @@
 												$num_rows = $result ? $result->num_rows : 0;
 												
 												echo '<header>';
-												echo '<h2>Volume&nbsp;'.intval($volume).'</h2>';
-												echo '<p>'.getYear($volume).'</p>';
+												echo '<h2>'.getYear($volume).'</h2>';
+												echo '<p>Volume&nbsp;'.intval($volume).'</p>';
 												echo '</header>';
 											?>
 				
@@ -32,9 +32,8 @@
 												
 								<div class="clearfix">
 									<nav id="menu" class="nav">					
-										<ul>
 											<?php
-
+												echo '<ol>';
 
 												if($num_rows > 0)
 												{
@@ -49,7 +48,7 @@
 														$isFirst = 0;
 													}
 												}
-													echo '</ul>';
+													echo '</ol>';
 
 												if($result){$result->free();}
 												$db->close();

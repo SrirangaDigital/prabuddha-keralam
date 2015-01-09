@@ -51,8 +51,9 @@
 								<div class="row">
 									<div class="12u">
 										<section class="box">
+											<div class="archive_holder">
 											<div class="row">
-												<div class="6u 12u(3)">
+												<div class="9u 12u(3)">
 													
 
 
@@ -62,6 +63,7 @@
 											$result = $db->query($query); 
 											$num_rows = $result ? $result->num_rows : 0;
 											//~ echo '<ul class="dot">';
+											echo '<ul>';
 											if($num_rows > 0)
 											{
 												while($row = $result->fetch_assoc())
@@ -75,7 +77,10 @@
 													
 													if($result3){$result3->free();}
 
+/*
 													echo '<div class="article">';
+*/
+													
 													echo "<li>";
 													//~ echo ($row3['feat_name'] != '') ? '<span class="featurespan"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span></div>' : '';
 													echo '	<span class="titlespan"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
@@ -95,14 +100,17 @@
 														echo '</li>';
 													}
 													
+/*
 													echo '</div>';
+*/
 												}
 												//~ echo '</ul>';
-											}
+											} echo '</ul>';
 
 											if($result){$result->free();}
 											$db->close();
 											?>
+										</div>
 										</div>
 									</div>
 								</div>

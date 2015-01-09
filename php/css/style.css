@@ -1,3 +1,4 @@
+@import url(font-awesome.min.css);
 @font-face {
 	font-family: 'icomoon';
 	src: url('../fonts/icomoon.eot');
@@ -9,7 +10,9 @@
 	font-style: normal;
 }
 
-/* Windows Chrome ugly fix http://stackoverflow.com/questions/13674808/chrome-svg-font-rendering-breaks-layout/14345363#14345363 */
+/*
+ Windows Chrome ugly fix http://stackoverflow.com/questions/13674808/chrome-svg-font-rendering-breaks-layout/14345363#14345363 
+*/
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: 'icomoon';
@@ -144,7 +147,7 @@ a, button {
 	/* Transforms the list into a horizontal navigation */
 	.nav li {
 		float: left;
-		width: 4.5em;
+		width: 4.3em;
 		text-align: center;
 		-webkit-transition: border .5s;
 		-moz-transition: border .5s;
@@ -209,9 +212,11 @@ a, button {
 
 	/* Placing the icon */
 	
+/*
 	.icon {
 		padding-top: 1.4em;
 	}
+*/
 
 	.icon + span {
 		margin-top: 2.1em;
@@ -225,7 +230,7 @@ a, button {
 	/* Animating the height of the element*/
 	.nav a {
 		height: 5em;
-		font-weight:600;
+		font-weight:500;
 		font-family: "Source Sans Pro", sans-serif;
 		font-size:1.1em;
 		text-align:center;
@@ -251,7 +256,9 @@ a, button {
 	.nav i {
 		position: relative;
 		display: inline-block;
+/*
 		margin: 0 auto;
+*/
 		padding: 0.4em;
 		border-radius: 50%;
 		font-size: 1.8em;
@@ -285,9 +292,10 @@ a, button {
 
 @media (min-width: 50em) and (max-width: 61.250em) {
 
-	/* Size and font adjustments to make it fit into the screen*/
+	 Size and font adjustments to make it fit into the screen
 	.nav ul {
 		font-size: 1em;
+		font-family: monospace;
 	}
 
 }
@@ -355,7 +363,8 @@ a, button {
 	
 	/* Adding some padding to make the elements look nicer*/
 	.nav a {
-		padding: 0.8em;		
+		padding: 0.8em;	
+		font-family: monospace;	
 	}
 
 	/* Displaying the icons on the left, and the text on the right side using inlin-block*/
@@ -520,8 +529,10 @@ a, button {
 	}
 }
 
+/*
 Status API Training Shop Blog About
 © 2015 GitHub, Inc. Terms Privacy Security Contact
+*/
 
 
 
@@ -559,7 +570,7 @@ Status API Training Shop Blog About
 
 
 
-@import url(font-awesome.min.css);
+
 @font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
@@ -1276,7 +1287,11 @@ Status API Training Shop Blog About
 	}
 
 		ol li {
+/*
 			padding-left: 0.25em;
+*/
+		list-style:none;
+		padding-bottom:0;
 		}
 
 	ul {
@@ -1286,9 +1301,10 @@ Status API Training Shop Blog About
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			padding-left: 0em;
 			padding-bottom: 1.2em;
 		}
+		
 
 		ul.alt {
 			list-style: none;
@@ -1336,7 +1352,9 @@ Status API Training Shop Blog About
 
 			ul.actions li {
 				display: inline-block;
-				padding: 0 1em 0 0;
+/*
+				padding: 0 0 0 0;
+*/
 				vertical-align: middle;
 			}
 
@@ -1345,12 +1363,12 @@ Status API Training Shop Blog About
 				}
 
 			ul.actions.small li {
-				padding: 0 0.5em 0 0;
+				padding: 0 0 0 0;
 			}
 
 			ul.actions.vertical li {
 				display: block;
-				padding: 1em 0 0 0;
+				padding: 1em 0 0 1em;
 			}
 
 				ul.actions.vertical li:first-child {
@@ -1883,12 +1901,12 @@ Status API Training Shop Blog About
 		background-image: url("../images/vivek.png"), url("../images/banner.jpg");
 		background-position: top,						center center;
 		background-repeat: no-repeat,							no-repeat;
-		background-size: 70%,							cover;
+		background-size: 68%,							cover;
 /*
 		transform:rotate(7deg),rotate(0deg);
 */
 		color: #fff;
-		padding: 2em 0 2em 0;
+		padding: 10em 0 20em 0;
 		text-align: center;
 	}
 
@@ -2043,127 +2061,7 @@ Status API Training Shop Blog About
 
 
 
-/* Buzz Out */
-@-webkit-keyframes buzz-out {
-  10% {
-    -webkit-transform: translateX(3px) rotate(2deg);
-    transform: translateX(3px) rotate(2deg);
-  }
 
-  20% {
-    -webkit-transform: translateX(-3px) rotate(-2deg);
-    transform: translateX(-3px) rotate(-2deg);
-  }
-
-  30% {
-    -webkit-transform: translateX(3px) rotate(2deg);
-    transform: translateX(3px) rotate(2deg);
-  }
-
-  40% {
-    -webkit-transform: translateX(-3px) rotate(-2deg);
-    transform: translateX(-3px) rotate(-2deg);
-  }
-
-  50% {
-    -webkit-transform: translateX(2px) rotate(1deg);
-    transform: translateX(2px) rotate(1deg);
-  }
-
-  60% {
-    -webkit-transform: translateX(-2px) rotate(-1deg);
-    transform: translateX(-2px) rotate(-1deg);
-  }
-
-  70% {
-    -webkit-transform: translateX(2px) rotate(1deg);
-    transform: translateX(2px) rotate(1deg);
-  }
-
-  80% {
-    -webkit-transform: translateX(-2px) rotate(-1deg);
-    transform: translateX(-2px) rotate(-1deg);
-  }
-
-  90% {
-    -webkit-transform: translateX(1px) rotate(0);
-    transform: translateX(1px) rotate(0);
-  }
-
-  100% {
-    -webkit-transform: translateX(-1px) rotate(0);
-    transform: translateX(-1px) rotate(0);
-  }
-}
-
-@keyframes buzz-out {
-  10% {
-    -webkit-transform: translateX(3px) rotate(2deg);
-    transform: translateX(3px) rotate(2deg);
-  }
-
-  20% {
-    -webkit-transform: translateX(-3px) rotate(-2deg);
-    transform: translateX(-3px) rotate(-2deg);
-  }
-
-  30% {
-    -webkit-transform: translateX(3px) rotate(2deg);
-    transform: translateX(3px) rotate(2deg);
-  }
-
-  40% {
-    -webkit-transform: translateX(-3px) rotate(-2deg);
-    transform: translateX(-3px) rotate(-2deg);
-  }
-
-  50% {
-    -webkit-transform: translateX(2px) rotate(1deg);
-    transform: translateX(2px) rotate(1deg);
-  }
-
-  60% {
-    -webkit-transform: translateX(-2px) rotate(-1deg);
-    transform: translateX(-2px) rotate(-1deg);
-  }
-
-  70% {
-    -webkit-transform: translateX(2px) rotate(1deg);
-    transform: translateX(2px) rotate(1deg);
-  }
-
-  80% {
-    -webkit-transform: translateX(-2px) rotate(-1deg);
-    transform: translateX(-2px) rotate(-1deg);
-  }
-
-  90% {
-    -webkit-transform: translateX(1px) rotate(0);
-    transform: translateX(1px) rotate(0);
-  }
-
-  100% {
-    -webkit-transform: translateX(-1px) rotate(0);
-    transform: translateX(-1px) rotate(0);
-  }
-}
-
-.buzz-out {
-  display: inline-block;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-}
-.buzz-out:hover, .buzz-out:focus, .buzz-out:active {
-  -webkit-animation-name: buzz-out;
-  animation-name: buzz-out;
-  -webkit-animation-duration: 0.75s;
-  animation-duration: 0.75s;
-  -webkit-animation-timing-function: linear;
-  animation-timing-function: linear;
-  -webkit-animation-iteration-count: 1;
-  animation-iteration-count: 1;
-}
 
 /* Footer */
 
@@ -2282,8 +2180,6 @@ Status API Training Shop Blog About
 
 .titlespan {
 	font-family:'meera';
-	
-	
 }
 .titlespan a{
 	color: #e89980;
