@@ -9,6 +9,36 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(SourceSansPro-Light.ttf);
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(SourceSansPro-Regular.ttf);
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightIt'), url(SourceSansPro-LightItalic.ttf);
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(SourceSansPro-Italic.ttf);
+}
+@font-face {
+  font-family: 'meera';
+  font-style: normal;
+  font-weight: 400;
+  src: url('meera.ttf');
+}
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
@@ -221,7 +251,7 @@ a, button {
 	.nav a {
 		height: 6em;
 		font-weight:500;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size:1em;
 		text-align:center;
 	}
@@ -524,135 +554,6 @@ Status API Training Shop Blog About
 © 2015 GitHub, Inc. Terms Privacy Security Contact
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(SourceSansPro-Light.ttf) format('ttf');
-  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(SourceSansPro-Light.ttf) format('ttf');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(SourceSansPro-Light.ttf) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(SourceSansPro-Regular.ttf) format('ttf');
-  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(SourceSansPro-Regular.ttf) format('ttf');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(SourceSansPro-Regular.ttf) format('ttf');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightIt'), url(SourceSansPro-LightItalic.ttf) format('ttf');
-  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightIt'), url(SourceSansPro-LightItalic.ttf) format('ttf');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightIt'), url(SourceSansPro-LightItalic.ttf) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(SourceSansPro-Italic.ttf) format('ttf');
-  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(SourceSansPro-Italic.ttf) format('ttf');
-  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(SourceSansPro-Italic.ttf) format('ttf');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-@font-face {
-  font-family: 'meera';
-  font-style: normal;
-  font-weight: 400;
-  src: url('meera.ttf') format('ttf');
-}
-
-
 /* Basic */
 
 	body {
@@ -661,11 +562,10 @@ Status API Training Shop Blog About
 
 	body, input, select, textarea {
 		color: #777;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
-		letter-spacing: -0.015em;
 	}
 
 	a {
@@ -839,7 +739,7 @@ Status API Training Shop Blog About
 
 	header.major {
 		padding: 1em 0;
-		text-align: center;
+		text-align: justify;
 	}
 
 		header.major h2 {
@@ -1912,7 +1812,6 @@ Status API Training Shop Blog About
 			font-size: 3.5em;
 			line-height: 1.22em;
 			color:#fff;
-			font-weight:bold;
 			margin: 0 0 0em 0;
 			padding: 0;
 		}
@@ -2164,7 +2063,16 @@ Status API Training Shop Blog About
 			color: rgba(255, 255, 255, 0.75) !important;
 		}
 /* PHP Display related Styles*/
-
+.width-75{
+	width: 75%;
+	margin: 0 auto 32px auto;
+}
+.acenter{
+	text-align: center !important;
+}
+.fmal {
+	font-family:'meera' !important;
+}
 .titlespan {
 	font-family:'meera';
 }
@@ -2215,7 +2123,7 @@ Status API Training Shop Blog About
 .yearspan a{
 	color: #555555;
 	text-decoration:none;
-	font-family: "Source Sans Pro", sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 .yearspan a:Hover{
 	color: #7fcdb8;
