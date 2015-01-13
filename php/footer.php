@@ -5,7 +5,7 @@
 				</ul>
 				<ul class="copyright">
 					<li style="width: 50%">&copy; Sri Ramakrishna Math, Thrissur, Kerala.<br />All rights reserved.</li>
-					<li style="width: 50%">Digitized by<br /><a href="#">Sriranga Digital Software Technologies Private Limited</a></li>
+					<li style="width: 50%">Digitized by<br /><a href="http://www.srirangadigital.com/">Sriranga Digital Software Technologies Private Limited</a></li>
 				</ul>
 			</footer>
 		</body>

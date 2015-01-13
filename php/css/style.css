@@ -1470,7 +1470,7 @@ Status API Training Shop Blog About
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e5e5e5;
-			width:13em;
+			width:19.65%;
 			color: #777;
 		}
 		.button.alt a {
@@ -1554,9 +1554,9 @@ Status API Training Shop Blog About
 		background:#1c3750;
 		color: #bbb;
 		cursor: default;
-		height: 3.25em;
+		height: 52px;
 		left: 0;
-		line-height: 3.25em;
+		line-height: 52px;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -1566,7 +1566,7 @@ Status API Training Shop Blog About
 		#header h1 {
 			color: inherit;
 			height: inherit;
-			left: 1.25em;
+			left: 20px;
 			line-height: inherit;
 			font-weight:bold;
 			margin: 0;
@@ -1585,7 +1585,7 @@ Status API Training Shop Blog About
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
-			right: 0.75em;
+			right: 12px;
 			top: 0;
 			vertical-align: middle;
 		}
@@ -1607,9 +1607,9 @@ Status API Training Shop Blog About
 
 					#header nav > ul > li a {
 						display: inline-block;
-						height: 2em;
-						line-height: 1.95em;
-						padding: 0 1em;
+						height: 32px;
+						line-height: 31px;
+						padding: 0 18px;
 						border-radius: 6px;
 					}
 
@@ -1622,7 +1622,7 @@ Status API Training Shop Blog About
 
 						#header nav > ul > li a:not(.button).icon:before {
 							color: #999;
-							margin-right: 0.5em;
+							margin-right: 8px;
 						}
 
 					#header nav > ul > li:first-child {
@@ -2002,7 +2002,7 @@ Status API Training Shop Blog About
 	#cta {
 		background: #e89980;
 		color: #ffffff;
-		padding: 3.5em 0 4em 0;
+		padding: 3.5em 0 2em 0;
 		text-align: center;
 	}
 
@@ -2074,14 +2074,13 @@ Status API Training Shop Blog About
 	font-family:'meera' !important;
 }
 .titlespan {
-	font-family:'meera';
+	font-family:'meera' !important;
 }
 .titlespan a{
 	color: #e89980;
 	text-decoration:none;
-	font-family:'meera';
-	font-size:1.6em;
-	
+	font-family:'meera' !important;
+	font-size:23px;
 }
 .titlespan a:Hover{
 	color: #7fcdb8;
@@ -2089,7 +2088,7 @@ Status API Training Shop Blog About
 }
 .featurespan {
 	color: #3D3D3D;
-	font-family:'meera';
+	font-family:'meera' !important;
 	font-size:1.32em;
 }
 .featurespan a{
@@ -2102,7 +2101,7 @@ Status API Training Shop Blog About
 }
 .authorspan {
 	color: #90b0ba; 
-	font-family:'meera';
+	font-family:'meera' !important;
 	font-size:1.32em;
 }
 .authorspan a{
@@ -2116,7 +2115,7 @@ Status API Training Shop Blog About
 }
 .yearspan {
 	color: #555555;
-	font-family:'meera';
+	font-family:'meera' !important;
 	font-size:0.98em;
 	white-space: nowrap;
 }
@@ -2139,7 +2138,7 @@ Status API Training Shop Blog About
 	clear: both;
 	text-align: center;
 	padding-bottom: 2em;
-	font-family:'meera';
+	font-family:'meera' !important;
 	
 }
 .alphabet .letter {
@@ -2162,7 +2161,7 @@ Status API Training Shop Blog About
 }
 #kbd{
 	float: left;
-	font-family:'meera';
+	font-family:'meera' !important;
 	font-size:1.32em;
 	margin-top: 50px;
 	margin-right: 0px;
