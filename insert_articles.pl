@@ -38,7 +38,7 @@ while($line)
 		$volume = $1;
 		print $volume . "\n";
 	}
-	elsif($line =~ /<part pnum="(.*)" month="(.*)" year="(.*)">/)
+	elsif($line =~ /<part pnum="(.*)" month="(.*)" year="(.*)" info="(.*)">/)
 	{
 		$part = $1;
 		$month = $2;
