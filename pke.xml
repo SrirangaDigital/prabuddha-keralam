@@ -1949,7 +1949,7 @@
 				<page>0210-0214</page>
 			</entry>
 			<entry>
-				<title>ദേവീപഞരത്നം</title>
+				<title>ദേവീപഞ്ചരത്നം</title>
 				<feature />
 				<allauthors />
 				<page>0214-0216</page>
@@ -6875,7 +6875,7 @@
 				<page>0090-0095</page>
 			</entry>
 			<entry>
-				<title>ദേവിസ്തൊത്രം</title>
+				<title>ദേവീസ്തോത്രം</title>
 				<feature />
 				<allauthors />
 				<page>0095-0099</page>
@@ -13000,7 +13000,7 @@
 				<title>ഭാരതത്തിന്റെ ഭാവി</title>
 				<feature />
 				<allauthors />
-				<page>0308-0320</page>
+				<page>0309-0320</page>
 			</entry>
 			<entry>
 				<title>ശ്രീ ശ്രീരാമകൃഷ്ണലീലാപ്രസംഗം</title>
@@ -16689,7 +16689,7 @@
 				<page>0001-0001</page>
 			</entry>
 			<entry>
-				<title>പ്രാണാമമന്ത്രം</title>
+				<title>പ്രണാമമന്ത്രം</title>
 				<feature />
 				<allauthors />
 				<page>0001-0001</page>
@@ -16795,7 +16795,9 @@
 			<entry>
 				<title>ആരാധന</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>ഗോപി</author>
+				</allauthors>
 				<page>0060-0062</page>
 			</entry>
 			<entry>
@@ -19469,7 +19471,7 @@
 				<page>0001-0001</page>
 			</entry>
 			<entry>
-				<title>പ്രാണാമം</title>
+				<title>പ്രണാമം</title>
 				<feature />
 				<allauthors />
 				<page>0001-0001</page>
@@ -19567,7 +19569,7 @@
 				<page>0037-0037</page>
 			</entry>
 			<entry>
-				<title>പ്രാണാമം</title>
+				<title>പ്രണാമം</title>
 				<feature />
 				<allauthors />
 				<page>0037-0037</page>
@@ -19649,7 +19651,7 @@
 				<page>0073-0073</page>
 			</entry>
 			<entry>
-				<title>പ്രാണാമം</title>
+				<title>പ്രണാമം</title>
 				<feature />
 				<allauthors />
 				<page>0073-0073</page>
@@ -20887,7 +20889,7 @@
 				<page>0161-0161</page>
 			</entry>
 			<entry>
-				<title>ബഗവജ്ജീവിതം</title>
+				<title>ഭഗവജ്ജീവിതം</title>
 				<feature />
 				<allauthors />
 				<page>0162-0168</page>
@@ -24167,7 +24169,7 @@
 				<page>0134-0135</page>
 			</entry>
 			<entry>
-				<title>പോരുമമ്മേ! കളിപിച്ചതീവിധം</title>
+				<title>പോരുമമ്മേ! കളിപ്പിച്ചതീവിധം</title>
 				<feature />
 				<allauthors />
 				<page>0136-0138</page>
@@ -27107,7 +27109,9 @@
 			<entry>
 				<title>ആദികവി വാത്മീകി</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>പണ്ഡിത ശ്രീ ബലദേവജി ഉപാദ്ധ്യായ</author>
+				</allauthors>
 				<page>0147-0152</page>
 			</entry>
 			<entry>
@@ -36561,7 +36565,7 @@
 				<page>0373-0375</page>
 			</entry>
 			<entry>
-				<title>ഭഗവാന്‍ ശ്രീരാമകൃഷ്ണന്റെ താന്ത്രികസാധനഗള്‍</title>
+				<title>ഭഗവാന്‍ ശ്രീരാമകൃഷ്ണന്റെ താന്ത്രികസാധനകള്‍</title>
 				<feature />
 				<allauthors>
 					<author>പി. ജി. എം</author>
@@ -40813,7 +40817,7 @@
 				<page>0167-0174</page>
 			</entry>
 			<entry>
-				<title>പലയ</title>
+				<title>പാലയ</title>
 				<feature />
 				<allauthors>
 					<author>ആഞ്ഞം മാധവന്‍ നമ്പൂതിരി</author>
@@ -41490,7 +41494,7 @@
 				<allauthors>
 					<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാടു്</author>
 				</allauthors>
-				<page>0068-0071</page>
+				<page>0069-0071</page>
 			</entry>
 			<entry>
 				<title>ശക്തിയുടെ പ്രവാചകന്‍</title>
@@ -43342,7 +43346,7 @@
 				<allauthors>
 					<author>ജ്ഞാനാനന്ദസരസ്വതി, സ്വാമി</author>
 				</allauthors>
-				<page>0168-0172</page>
+				<page>0169-0172</page>
 			</entry>
 			<entry>
 				<title>ശ്രീഗീതാസ്മരണം</title>
@@ -46020,7 +46024,7 @@
 				<allauthors>
 					<author>ടി. ശങ്കരന്‍ഭട്ടതിരി</author>
 				</allauthors>
-				<page>0525-0527</page>
+				<page>0526-0527</page>
 			</entry>
 			<entry>
 				<title>സാധന</title>
@@ -47299,7 +47303,7 @@
 				<page>0378-0378</page>
 			</entry>
 			<entry>
-				<title>ത്യഗം</title>
+				<title>ത്യാഗം</title>
 				<feature />
 				<allauthors>
 					<author>വിരജാനന്ദസ്വമികള്‍</author>
@@ -49617,7 +49621,7 @@
 				<page>0111-0111</page>
 			</entry>
 			<entry>
-				<title>നിഗ്രഹഃ കിം കര്യഷ്യതി?</title>
+				<title>നിഗ്രഹഃ കിം കരിഷ്യതി?</title>
 				<feature />
 				<allauthors>
 					<author>കെ. രാഘവന്‍തിരുമുല്പാടു്, ചാലക്കുടി.</author>
@@ -61059,7 +61063,7 @@
 				<page>0282-0285</page>
 			</entry>
 			<entry>
-				<title>ആധ്യാത്മികൊപദേശങ്ങള്‍</title>
+				<title>ആദ്ധൃാത്മികോപദേശങ്ങള്‍</title>
 				<feature />
 				<allauthors>
 					<author>ശ്രീ യതീശ്വരാനന്ദസ്വാമികള്‍</author>
@@ -62387,7 +62391,7 @@
 				<page>0202-0205</page>
 			</entry>
 			<entry>
-				<title>ആദ്ധ്യാതികോപദേശങ്ങള്‍</title>
+				<title>ആദ്ധ്യാത് മികോപദേശങ്ങള്‍</title>
 				<feature />
 				<allauthors>
 					<author>ശ്രീ യതീശ്വരാനന്ദസ്വാമികള്‍</author>
@@ -62939,7 +62943,7 @@
 				<page>0400-0400</page>
 			</entry>
 			<entry>
-				<title>ഈശ്വരനില്‍ മാതൃഭാവന</title>
+				<title>ഈശ്വരനില്‍ മാതൃത്വഭാവന</title>
 				<feature />
 				<allauthors>
 					<author>മൈത്രാനന്ദസ്വാമികള്‍</author>
@@ -66375,7 +66379,7 @@
 				<page>0015-0021</page>
 			</entry>
 			<entry>
-				<title>നിത്യനിത്യവിവേകവും പരമപുരുഷാര്‍ത്ഥപ്രാപ്തിയും</title>
+				<title>നിത്യാനിത്യവിവേകവും പരമപുരുഷാര്‍ത്ഥപ്രാപ്തിയും</title>
 				<feature />
 				<allauthors>
 					<author>ഉണ്ണിക്കൃഷ്ണന്‍</author>
@@ -67657,7 +67661,7 @@
 				<page>0493-0497</page>
 			</entry>
 			<entry>
-				<title>ആദിസങ്കരന്‍- അതുല്യനായ ആചാര്യന്‍</title>
+				<title>ആദിശങ്കരന്‍- അതുല്യനായ ആചാര്യന്‍</title>
 				<feature />
 				<allauthors>
 					<author>ശക്രാനന്ദസ്വാമി</author>
@@ -71796,7 +71800,7 @@
 				<allauthors>
 					<author>ടി. വി. മുരളീവല്ലഭന്‍</author>
 				</allauthors>
-				<page>0254-0258</page>
+				<page>0255-0258</page>
 			</entry>
 			<entry>
 				<title>പൂര്‍ണ്ണത്വം</title>
@@ -71844,7 +71848,7 @@
 				<allauthors>
 					<author>ബി. കെ. പരമേശ്വരന്‍നായര്‍</author>
 				</allauthors>
-				<page>0272-0275</page>
+				<page>0273-0275</page>
 			</entry>
 			<entry>
 				<title>വചനാമൃതം</title>
@@ -73347,7 +73351,7 @@
 				<page>0234-0237</page>
 			</entry>
 			<entry>
-				<title>നെയ്വിളക്കു്</title>
+				<title>നെയ് വിളക്കു്</title>
 				<feature />
 				<allauthors>
 					<author>വി. നാരായണന്‍നമ്പ്യാര്‍</author>
@@ -74598,7 +74602,7 @@
 				<allauthors>
 					<author>ശ്രീമതി സാവിത്രീമേനോന്‍</author>
 				</allauthors>
-				<page>0072-0075</page>
+				<page>0073-0075</page>
 			</entry>
 			<entry>
 				<title>മനഃസാക്ഷി</title>
@@ -75537,12 +75541,12 @@
 				<page>0349-0453</page>
 			</entry>
 			<entry>
-				<title>പദ്മനാഭം ഭജേഥാം</title>
+				<title>പദ്മനാഭം ഭജേഥാഃ</title>
 				<feature />
 				<allauthors>
 					<author>വി. എന്‍. നമ്പൂതിരി</author>
 				</allauthors>
-				<page>0453-0453</page>
+				<page>0353-0353</page>
 			</entry>
 			<entry>
 				<title>ഭാഗ്യം! ഭാഗ്യം! ഭാഗ്യം!</title>
@@ -79563,9 +79567,11 @@
 				<page>0451-0453</page>
 			</entry>
 			<entry>
-				<title>പി. എസ്. നായര്‍</title>
+				<title>സ് മരണാഞ് ജലി</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>പി. എസ്. നായര്‍</author>
+				</allauthors>
 				<page>0453-0453</page>
 			</entry>
 			<entry>
@@ -85095,7 +85101,7 @@
 				<page>0380-0384</page>
 			</entry>
 			<entry>
-				<title>ആദ്ധ്യാത്മികതയും ബൗതികതയും</title>
+				<title>ആധൃാത്മികതയും ഭൗതികതയും</title>
 				<feature />
 				<allauthors>
 					<author>പി. എ. പശുപതിനാഥന്‍</author>
@@ -85111,7 +85117,7 @@
 				<page>0389-0389</page>
 			</entry>
 			<entry>
-				<title>ബൗതികവും ആധ്യാത്മികവും സമന്വയിപ്പിക്കണം</title>
+				<title>ഭൗതികവും ആധ്യാത്മികവും സമന്വയിപ്പിക്കണം</title>
 				<feature />
 				<allauthors>
 					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
@@ -87937,7 +87943,7 @@
 				<page>0170-0172</page>
 			</entry>
 			<entry>
-				<title>ആധുനികയുകത്തില്‍ രാമകൃഷ്ണ സന്ദേശത്തിന്റെ പ്രസക്തി</title>
+				<title>ആധുനികയുഗത്തില്‍ രാമകൃഷ്ണ സന്ദേശത്തിന്റെ പ്രസക്തി</title>
 				<feature />
 				<allauthors>
 					<author>ഡാ. പി. അച്ചുതന്‍</author>
@@ -93567,9 +93573,11 @@
 				<page>0291-0294</page>
 			</entry>
 			<entry>
-				<title>പ്രൊ: പി. കെ. കെ. രാജാ</title>
+				<title>ഭാരതം, ഭാരതേതരം</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>പ്രൊ: പി. കെ. കെ. രാജാ</author>
+				</allauthors>
 				<page>0295-0299</page>
 			</entry>
 			<entry>
@@ -97281,7 +97289,7 @@
 				<page>0414-0416</page>
 			</entry>
 			<entry>
-				<title>ഇല്ലത്തെ വേരുകള്‍ തേടി</title>
+				<title>ഇല്ലാത്ത വേരുകള്‍ തേടി</title>
 				<feature />
 				<allauthors>
 					<author>തത്ത്വമയാനന്ദസ്വാമി</author>
@@ -97315,7 +97323,7 @@
 				<page>0422-0422</page>
 			</entry>
 			<entry>
-				<title>ഇല്ലത്തെ വേരുകള്‍ തേടി</title>
+				<title>ഇല്ലാത്ത വേരുകള്‍ തേടി</title>
 				<feature />
 				<allauthors>
 					<author>തത്ത്വമയാനന്ദസ്വാമി</author>
@@ -97457,7 +97465,7 @@
 				<page>0462-0462</page>
 			</entry>
 			<entry>
-				<title>ഇല്ലത്തെ വേരുകള്‍ തേടി</title>
+				<title>ഇല്ലാത്ത വേരുകള്‍ തേടി</title>
 				<feature />
 				<allauthors>
 					<author>തത്ത്വമയാനന്ദസ്വാമി</author>
@@ -97593,7 +97601,7 @@
 				<page>0002-0002</page>
 			</entry>
 			<entry>
-				<title>ഇല്ലത്തെ വേരുകള്‍ തേടി</title>
+				<title>ഇല്ലാത്ത വേരുകള്‍ തേടി</title>
 				<feature />
 				<allauthors>
 					<author>തത്ത്വമയാനന്ദസ്വാമി</author>
@@ -100567,7 +100575,7 @@
 				<page>0391-0392</page>
 			</entry>
 			<entry>
-				<title>ഇരുപത്തോന്നാം നൂറ്റാണ്ടിലെ ആദ്ധ്യാത്മികകുടുംബം</title>
+				<title>ഇരുപത്തൊന്നാം നൂറ്റാണ്ടിലെ ആദ്ധ്യാത്മികകുടുംബം</title>
 				<feature />
 				<allauthors>
 					<author>പ്രൊഫ. സി. ജി. നായര്‍</author>
@@ -102055,7 +102063,7 @@
 				<page>0343-0343</page>
 			</entry>
 			<entry>
-				<title>ഭഗവദ്ഗീത പഠിപ്പികുന്ന യോഗബുദ്ധി</title>
+				<title>ഭഗവദ്ഗീത പഠിപ്പിക്കുന്ന യോഗബുദ്ധി</title>
 				<feature />
 				<allauthors>
 					<author>അദ്വൈതാനന്ദ</author>
@@ -103131,7 +103139,7 @@
 				<page>0155-0157</page>
 			</entry>
 			<entry>
-				<title>പ്പുസ്തകാഭിപ്രായം</title>
+				<title>പുസ്തകാഭിപ്രായം</title>
 				<feature />
 				<allauthors />
 				<page>0157-0158</page>
@@ -105679,7 +105687,9 @@
 			<entry>
 				<title>ആദ്ധ്യാത്മികതയും വിദ്യാഭ്യാസവും - ഇരുപത്തൊന്നാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>ഡോ. ആര്‍. സുകുമാരന്‍ നായര്‍</author>
+				</allauthors>
 				<page>0451-0454</page>
 			</entry>
 			<entry>
@@ -107707,7 +107717,7 @@
 				<page>0515-0517</page>
 			</entry>
 			<entry>
-				<title>ഈശ്വരനെ ത്തേടി</title>
+				<title>ഈശ്വരനെത്തേടി...</title>
 				<feature />
 				<allauthors>
 					<author>ശാന്താനന്ദഗിരി, സ്വാമി</author>
@@ -115447,7 +115457,7 @@
 				<page>0329-0333</page>
 			</entry>
 			<entry>
-				<title>നെയ്വിളക്ക്</title>
+				<title>നെയ് വിളക്ക്</title>
 				<feature />
 				<allauthors>
 					<author>എന്‍. എന്‍. പുരളിപ്പുറം</author>
@@ -117317,7 +117327,7 @@
 				<page>0474-0479</page>
 			</entry>
 			<entry>
-				<title>തേജേന്ദ്രമിത്ര</title>
+				<title>തേജ്ചന്ദ്ര മിത്ര</title>
 				<feature />
 				<allauthors>
 					<author>കെ. ശ്രീദിവ്യ</author>
@@ -120793,7 +120803,7 @@
 				<page>0067-0069</page>
 			</entry>
 			<entry>
-				<title>പാണ്ഡിത്യഡിംഡിംമം</title>
+				<title>പാണ്ഡിത്യഡിംഡിമം</title>
 				<feature />
 				<allauthors>
 					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
@@ -121149,7 +121159,7 @@
 				<page>0263-0264</page>
 			</entry>
 			<entry>
-				<title>ഭാരതം ണാമ്മൂടെ ജന്മഭൂമി</title>
+				<title>ഭാരതം നമ്മുടെ ജന്മഭൂമി</title>
 				<feature />
 				<allauthors>
 					<author>വിവേകാനന്ദന്‍, സ്വാമി</author>
@@ -121691,7 +121701,7 @@
 				<page>0463-0469</page>
 			</entry>
 			<entry>
-				<title>പൌരസ് ത്യ-പാഞ്ചാത്യ സംയോജനം വിവേകാനന്ദനില്‍</title>
+				<title>പൗരസ് ത്യ-പാഞ്ചാത്യ സംയോജനം വിവേകാനന്ദനില്‍</title>
 				<feature />
 				<allauthors>
 					<author>പ്രൊഫ. എസ്. രാധാകൃഷ്ണന്‍</author>
