@@ -17355,7 +17355,9 @@
 			<entry>
 				<title>ആര്‍യ്യാചാര്‍യ്യസ്തോത്രം</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>N. I.</author>
+				</allauthors>
 				<page>0335-0336</page>
 			</entry>
 			<entry>
@@ -61811,7 +61813,7 @@
 				<page>0010-0016</page>
 			</entry>
 			<entry>
-				<title>ദീവീസ്തുതി</title>
+				<title>ദേവീസ്തുതി</title>
 				<feature />
 				<allauthors>
 					<author>എം. രാമകൃഷ്ണന്‍നായര്‍, ബി. ഏ, ബി, എല്‍</author>
@@ -66067,7 +66069,7 @@
 				<page>0432-0436</page>
 			</entry>
 			<entry>
-				<title>നവരാത്രി പൂജാ</title>
+				<title>നവരാത്രിപൂജാ</title>
 				<feature />
 				<allauthors>
 					<author>പശുപതിനാഥന്‍</author>
@@ -111042,7 +111044,7 @@
 				<allauthors>
 					<author>എം. ലക്ഷ്മീകുമാരി</author>
 				</allauthors>
-				<page>0034-0036</page>
+				<page>0033-0036</page>
 			</entry>
 			<entry>
 				<title>ശ്രീരാമകൃഷ്ണന്‍ പറഞ്ഞ കഥകള്‍</title>
