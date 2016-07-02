@@ -5751,7 +5751,9 @@
 			<entry>
 				<title>അഹംതത്വം</title>
 				<feature />
-				<author>ശ്രീമദ് രാമകൃഷ്ണാനന്ദസ്വാമികള്‍</author>
+				<allauthors>
+					<author>ശ്രീമദ് രാമകൃഷ്ണാനന്ദസ്വാമികള്‍</author>
+				</allauthors>
 				<page>0324-0333</page>
 			</entry>
 			<entry>
@@ -24080,7 +24082,7 @@
 				<title>ഗോലാപ്-മാ</title>
 				<feature />
 				<allauthors>
-					<author>അംബാനന്ദന്‍, സ്വാമി</author>
+					<author>അംബാനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0088-0094</page>
 			</entry>
@@ -28608,7 +28610,7 @@
 				<title>സ്വാതന്ത്ര്യം</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷതാനന്ദന്‍, സ്വാമി</author>
+					<author>സ്വാമി അക്ഷതാനന്ദ</author>
 				</allauthors>
 				<page>0358-0363</page>
 			</entry>
@@ -32970,7 +32972,7 @@
 				<title>ശ്രീ രാമകൃഷ്ണസ്മരണകള്‍</title>
 				<feature />
 				<allauthors>
-					<author>അഖണ്ഡാനന്ദ, സ്വാമി</author>
+					<author>അഖണ്ഡാനന്ദസ്വാമികൾ</author>
 				</allauthors>
 				<page>0358-0360</page>
 			</entry>
@@ -33046,7 +33048,7 @@
 				<title>ശ്രീ രാമകൃഷ്ണസ്മരണകള്‍</title>
 				<feature />
 				<allauthors>
-					<author>അഖണ്ഡാനന്ദ, സ്വാമി</author>
+					<author>അഖണ്ഡാനന്ദസ്വാമികൾ</author>
 				</allauthors>
 				<page>0385-0389</page>
 			</entry>
@@ -54759,6 +54761,102 @@
 		</part>
 	</volume>
 	<volume vnum="058">
+		<part pnum="01" month="01" year="1973" info="">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature />
+				<allauthors />
+				<page>0001-0001</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page>0001-0001</page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജിയും ഭാരതവും</title>
+				<feature />
+				<allauthors />
+				<page>0002-0005</page>
+			</entry>
+			<entry>
+				<title>ശ്രേയസ്സിലേയ്ക്കുള്ള വഴി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ വിവേകാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page>0006-0012</page>
+			</entry>
+			<entry>
+ 				<title>ഗീതാമാര്‍ഗ്ഗപ്രവേശിക</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ വിമലാനന്ദസ്വാമികള്‍</author>
+				</allauthors>
+				<page>0012-0015</page>
+			</entry>
+			<entry>
+				<title>കുചേലഃ</title>
+				<feature />
+				<allauthors>
+					<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാടു്</author>
+				</allauthors>
+				<page>0015-0019</page>
+			</entry>
+			<entry>
+				<title>ആണ്ടാൾ അഥവാ രംഗനായകി</title>
+				<feature />
+				<allauthors>
+					<author>പ്രപ്രാജികാ അജയപ്രാണാ</author>
+				</allauthors>
+				<page>0020-0025</page>
+			</entry>
+			<entry>
+				<title>ഭക്തിയുഗെ മഹത്ത്വം</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എ. ഭാസ്കരന്‍</author>
+				</allauthors>
+				<page>0026-0029</page>
+			</entry>
+			<entry>
+				<title>ശാരദാംബാമുപാശ്രയേ</title>
+				<feature />
+				<allauthors>
+					<author>വി. കെ. കട്ടമത്തു്</author>
+				</allauthors>
+				<page>0029-0029</page>
+			</entry>
+			<entry>
+				<title>യാജ് ഞവല് കൃഋഷി</title>
+				<feature />
+				<allauthors>
+					<author>എസ്. കൃഷ്ണസ്വാമി</author>
+				</allauthors>
+				<page>0030-0034</page>
+			</entry>
+			<entry>
+				<title>ധ്രംവൻ</title>
+				<feature />
+				<allauthors>
+					<author>ഏ. കരുണാകരമേനോന്‍</author>
+				</allauthors>
+				<page>0034-0039</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature />
+				<allauthors />
+				<page>0039-0039</page>
+			</entry>
+			<entry>
+				<title>ഒരഭ്യര്‍ത്ഥന</title>
+				<feature />
+				<allauthors />
+				<page>0040-0040</page>
+			</entry>
+		</part>
 		<part pnum="02" month="02" year="1973" info="">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -54798,7 +54896,7 @@
 				<title>കുചേലഃ</title>
 				<feature />
 				<allauthors>
-					<author>ഓട്ടൂര്‍ ഉണ്ണനമ്പൂതിരിപ്പാടു്</author>
+					<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാടു്</author>
 				</allauthors>
 				<page>0049-0051</page>
 			</entry>
@@ -61323,7 +61421,7 @@
 				<page>0366-0368</page>
 			</entry>
 			<entry>
-				<title>ശ്രേയസ്സിലേക്കുള്ള മാര്‍ഗ്ഗങ്ങള്‍</title>
+				<title>ശ്രേയസ്സിലേയ്ക്കുള്ള മാര്‍ഗ്ഗങ്ങള്‍</title>
 				<feature />
 				<allauthors>
 					<author>എസ്. വി. ഉണ്ണിക്കൃഷ്ണന്‍</author>
@@ -64844,7 +64942,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമ</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയ് കുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0502-0507</page>
 			</entry>
@@ -64962,7 +65060,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0024-0028</page>
 			</entry>
@@ -65068,7 +65166,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 3</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0060-0064</page>
 			</entry>
@@ -65182,7 +65280,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 4</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0098-0101</page>
 			</entry>
@@ -65282,7 +65380,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 5</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0143-0147</page>
 			</entry>
@@ -65494,7 +65592,7 @@
 				<title>ശ്രീ രാമകൃഷ്ണമഹിമാ - 6</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷ്യയകുമാര്‍ സെന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0212-0214</page>
 			</entry>
@@ -65594,7 +65692,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 7</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0254-0257</page>
 			</entry>
@@ -65694,7 +65792,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 8</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0296-0300</page>
 			</entry>
@@ -65808,7 +65906,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 9</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0332-0336</page>
 			</entry>
@@ -66176,7 +66274,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 10</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയ് കുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0477-0481</page>
 			</entry>
@@ -66282,7 +66380,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 11</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയ് കുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0514-0518</page>
 			</entry>
@@ -66414,7 +66512,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 12</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയ്കുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0029-0033</page>
 			</entry>
@@ -66672,7 +66770,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 13</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0113-0116</page>
 			</entry>
@@ -66966,7 +67064,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമാ - 14</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0224-0227</page>
 			</entry>
@@ -67962,7 +68060,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമ</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയകുമാര്‍സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0108-0112</page>
 			</entry>
@@ -68426,7 +68524,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമ</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയ്കുമാര്‍സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0273-0277</page>
 			</entry>
@@ -69634,7 +69732,7 @@
 				<title>ശ്രീരാമകൃഷ്ണമഹിമ</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷയ് കുമാര്‍ സേന്‍</author>
+					<author>അക്ഷയകുമാര്‍സെന്‍</author>
 				</allauthors>
 				<page>0132-0137</page>
 			</entry>
@@ -96300,7 +96398,7 @@
 				<title>ത്യാഗവും ലോകസേവനവും</title>
 				<feature />
 				<allauthors>
-					<author>അക്ഷതാനന്ദ, സ്വാമി</author>
+					<author>സ്വാമി അക്ഷതാനന്ദ</author>
 				</allauthors>
 				<page>0114-0116</page>
 			</entry>
@@ -100505,7 +100603,7 @@
 				<page>0364-0364</page>
 			</entry>
 			<entry>
-				<title>മതവും ആദ്ധ്യാത്മികതയും 21 - ആം നൂറ്റാണ്ടും</title>
+				<title>മതവും ആദ്ധ്യാത്മികതയും 21 - ാം നൂറ്റാണ്ടും</title>
 				<feature />
 				<allauthors>
 					<author>തത്ത്വമയാനന്ദസ്വാമി</author>
@@ -100513,7 +100611,7 @@
 				<page>0365-0366</page>
 			</entry>
 			<entry>
-				<title>ശ്രീനാരായണദര്‍ശനത്തിന്റെ പ്രസക്തി 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ശ്രീനാരായണദര്‍ശനത്തിന്റെ പ്രസക്തി 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>പ്രശാന്താനന്ദസ്വാമി</author>
@@ -100559,7 +100657,7 @@
 				<page>0379-0383</page>
 			</entry>
 			<entry>
-				<title>ഈശ്വരചിന്ത - 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ഈശ്വരചിന്ത - 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>മഹാകവി പ്രൊഫ. പി. കൃഷ്ണകുമാര്‍</author>
@@ -100567,7 +100665,7 @@
 				<page>0384-0386</page>
 			</entry>
 			<entry>
-				<title>സ്വാമി വിവേകാനന്ദന്റെ ജീവിതദര്‍ശനവും 21-ആം നൂറ്റാണ്ടും</title>
+				<title>സ്വാമി വിവേകാനന്ദന്റെ ജീവിതദര്‍ശനവും 21 - ാം നൂറ്റാണ്ടും</title>
 				<feature />
 				<allauthors>
 					<author>പ്രൊഫ. സുലോചനാ നായര്‍</author>
@@ -100643,7 +100741,7 @@
 				<page>0410-0414</page>
 			</entry>
 			<entry>
-				<title>വിദ്യാഭ്യാസവും ആദ്ധ്യാത്മികതയും 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>വിദ്യാഭ്യാസവും ആദ്ധ്യാത്മികതയും 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>ഡോ. ആര്‍. സുകുമാരന്‍ നായര്‍</author>
@@ -100659,7 +100757,7 @@
 				<page>0419-0423</page>
 			</entry>
 			<entry>
-				<title>ഭാരതീയതയും മതസംസ്കാരവും 21 - ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ഭാരതീയതയും മതസംസ്കാരവും 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>സി. ദാമോദരമേനോന്‍</author>
@@ -100753,7 +100851,7 @@
 				<page>0447-0449</page>
 			</entry>
 			<entry>
-				<title>ഗാന്ധിദര്‍ശനം 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ഗാന്ധിദര്‍ശനം 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>പ്രൊഫ. ആര്‍. എസ്. പൊതുവാള്‍</author>
@@ -100767,7 +100865,7 @@
 				<page>0454-0454</page>
 			</entry>
 			<entry>
-				<title>ശ്രീനാരായണദര്‍ശനത്തിന്റെ പ്രസക്തി 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ശ്രീനാരായണദര്‍ശനത്തിന്റെ പ്രസക്തി 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>പ്രശാന്താനന്ദസ്വാമി</author>
@@ -100791,7 +100889,7 @@
 				<page>0460-0463</page>
 			</entry>
 			<entry>
-				<title>ഈശ്വരചിന്ത - 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ഈശ്വരചിന്ത - 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>മഹാകവി പ്രൊഫ. പി. കൃഷ്ണകുമാര്‍</author>
@@ -100819,7 +100917,7 @@
 				<page>0470-0470</page>
 			</entry>
 			<entry>
-				<title>ഭാരതീയതയും മതസംസ്കാരവും 21-ആം നൂറ്റാണ്ടില്‍</title>
+				<title>ഭാരതീയതയും മതസംസ്കാരവും 21 - ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>സി. ദാമോദരമേനോന്‍</author>
@@ -101331,7 +101429,7 @@
 				<page>0112-0114</page>
 			</entry>
 			<entry>
-				<title>പ്രായോഗികവേദാന്തത്തിന്റെ പ്രസക്തി 21 ആം നൂറ്റാണ്ടില്‍</title>
+				<title>പ്രായോഗികവേദാന്തത്തിന്റെ പ്രസക്തി 21 ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
@@ -101645,7 +101743,7 @@
 				<page>0211-0216</page>
 			</entry>
 			<entry>
-				<title>പ്രായോഗികവേദാന്തത്തിന്റെ പ്രസക്തി 21 ആം നൂറ്റാണ്ടില്‍</title>
+				<title>പ്രായോഗികവേദാന്തത്തിന്റെ പ്രസക്തി 21 ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
@@ -101799,7 +101897,7 @@
 				<page>0260-0260</page>
 			</entry>
 			<entry>
-				<title>പ്രായോഗികവേദാന്തത്തിന്റെ പ്രസക്തി 21 ആം നൂറ്റാണ്ടില്‍</title>
+				<title>പ്രായോഗികവേദാന്തത്തിന്റെ പ്രസക്തി 21 ാം നൂറ്റാണ്ടില്‍</title>
 				<feature />
 				<allauthors>
 					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
@@ -105040,7 +105138,7 @@
 				<title>വിവേകാനന്ദന്‍ ആര്?</title>
 				<feature />
 				<allauthors>
-					<author>അക്കിത്തം</author>
+					<author>സ്വാമി അക്ഷതാനന്ദ</author>
 				</allauthors>
 				<page>0232-0232</page>
 			</entry>
@@ -105146,7 +105244,7 @@
 				<title>കാടാമ്പുഴ ഭഗവതി</title>
 				<feature />
 				<allauthors>
-					<author>അക്കിത്തം</author>
+					<author>സ്വാമി അക്ഷതാനന്ദ</author>
 				</allauthors>
 				<page>0261-0261</page>
 			</entry>
@@ -111654,7 +111752,7 @@
 				<allauthors />
 				<page>0239-0239</page>
 			</entry>
-			<entry>സ്വാമി വിശ്വഭദ്രാനന്ദശക്തിബോധി
+			<entry>
 				<title>വാര്‍ത്തകള്‍</title>
 				<feature />
 				<allauthors />
@@ -112108,7 +112206,7 @@
 				<title>വിവേകാനന്ദന്‍ ആര്?</title>
 				<feature />
 				<allauthors>
-					<author>അക്കിത്തം</author>
+					<author>സ്വാമി അക്ഷതാനന്ദ</author>
 				</allauthors>
 				<page>0368-0372</page>
 			</entry>
@@ -117245,7 +117343,7 @@
 				<page>0409-0409</page>
 			</entry>
 			<entry>
-				<title>അക്ഷയ്കുമാര്‍ സേന്‍</title>
+				<title>അക്ഷയകുമാര്‍സെന്‍</title>
 				<feature />
 				<allauthors>
 					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
@@ -121778,7 +121876,7 @@
 				<allauthors>
 					<author>സി. ആര്‍. നീലകണ്ഠന്‍</author>
 				</allauthors>
-				<page>0507-0509</page>										//page_no:510 is advertisement 
+				<page>0507-0509</page>
 			</entry>
 			<entry>
 				<title>തസ്യ ദാസ, ദാസോഹം</title>
@@ -121794,7 +121892,7 @@
 				<allauthors>
 					<author>ബ്രഹ്മചാരി ശിവേശചൈതന്യ</author>
 				</allauthors>
-				<page>0515-0521</page>										//page_no:522 is advertisement
+				<page>0515-0521</page>
 			</entry>
 			<entry>
 				<title>സ്വാമി വിവേകാനന്ദനും മഹാകവി കുമാരനാശാനും</title>
@@ -121810,7 +121908,7 @@
 				<allauthors>
 					<author>ഡോ. കെ. കെ. എന്‍. കുറുപ്പ്</author>
 				</allauthors>
-				<page>0527-0529</page>										//page_no:530 is advertisement
+				<page>0527-0529</page>
 			</entry>
 			<entry>
 				<title>സ്വാമി വിവേകാനന്ദന്‍ കല്പതരുവിന്റെ നാട്ടില്‍</title>
@@ -121818,7 +121916,7 @@
 				<allauthors>
 					<author>ഡോ. എം. ലക്ഷ്മീകുമാരി</author>
 				</allauthors>
-				<page>0531-0536</page>										//page_no:537 and 538 is advertisement
+				<page>0531-0536</page>
 			</entry>
 			<entry>
 				<title>സ്ത്രീത്വാദര്‍ശം സ്വാമിജിയുടെ‍ വീക്ഷണത്തില്‍</title>
@@ -121826,7 +121924,7 @@
 				<allauthors>
 					<author>അമൃത</author>
 				</allauthors>
-				<page>0539-0543</page>										//page_no:544 is advertisement
+				<page>0539-0543</page>
 			</entry>
 			<entry>
 				<title>സ്വാമി വിവേകാനന്ദ‍നും സംഗീതവും</title>
@@ -121834,7 +121932,7 @@
 				<allauthors>
 					<author>ഡോ. മഞ്ജു ഗോപാല്‍</author>
 				</allauthors>
-				<page>0545-0547</page>										//page_no:548 is advertisement
+				<page>0545-0547</page>
 			</entry>
 			<entry>
 				<title>സംസ്കൃതവും സ്വാമി വിവേകാനന്ദ‍നും</title>
@@ -121850,7 +121948,7 @@
 				<allauthors>
 					<author>എ. വി. ഹരിശങ്കര്‍</author>
 				</allauthors>
-				<page>0553-0557</page>										//page_no:558 is advertisement
+				<page>0553-0557</page>
 			</entry>
 			<entry>
 				<title>സ്വാമി വിവേകാനന്ദന്റെ സാമ്പത്തികദര്‍ശനം സ്വതന്ത്രഭാരതത്തില്‍</title>
@@ -121882,7 +121980,7 @@
 				<allauthors>
 					<author>ശോഭാ പ്രസാദ്</author>
 				</allauthors>
-				<page>0575-0581</page>										//page_no:582 to 596 is advertisement
+				<page>0575-0581</page>
 			</entry>
 		</part>
 		<part pnum="11" month="11" year="2013" info="">
