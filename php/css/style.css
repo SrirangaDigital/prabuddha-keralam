@@ -754,7 +754,7 @@ Status API Training Shop Blog About
 			padding: 1.5em 0 0 0;
 			text-align: left;
 			font-style: normal;
-			font-size: 1.32em;
+			font-size: 1.4em;
 		}
 
 /* Form */
@@ -956,11 +956,18 @@ Status API Training Shop Blog About
 
 /* Box */
 
+	.newbox {
+		background: #fff;
+		border-radius: 6px;
+		box-shadow: 0 2px 0 0 #e5e5e5;
+		margin: 5em 0 2em 0;
+		padding: 3em;
+	}
 	.box {
 		background: #fff;
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
-		margin: 0 0 2em 0;
+		margin: 0em 0 2em 0;
 		padding: 3em;
 	}
 
