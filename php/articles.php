@@ -200,7 +200,7 @@
 						}      
 						else
 						{
-							echo "<li>Sorry! No articles were found to begin with the letter '$letter' in Prabuddha Keralam</li>";
+							echo "<li>Sorry! No articles were found to begin with the letter '$letter' in Prabuddhakeralam</li>";
 						}
 						if($result){$result->free();}
 						$db->close();

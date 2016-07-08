@@ -4,7 +4,7 @@
 <section id="main" class="container">
 	<header>
 		<h2>Archives</h2>
-		<p>Digitized archives of the Prabuddha Keralam magazine from 1915 to date</p>
+		<p>Digitized archives of the Prabuddhakeralam magazine from 1915 to date</p>
 	</header>
 	<div class="row">
 		<div class="12u">

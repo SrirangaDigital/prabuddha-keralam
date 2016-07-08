@@ -1,6 +1,6 @@
 <!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-				<h1><a href="../index.html">Prabuddha Keralam </a> by Sri Ramakrishna Math</h1>
+				<h1><a href="../index.html">Prabuddhakeralam </a> by Sri Ramakrishna Math</h1>
 				<nav id="nav">
 					<ul>
 						<li><a href="../index.html">Home</a></li>
