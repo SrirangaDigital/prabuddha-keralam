@@ -1,0 +1,3359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pke SYSTEM "pke.dtd">
+
+<pke>
+	<volume vnum="099">
+		<part pnum="01" month="01" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page>0001-0001</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page>0002-0002</page>
+			</entry>
+			<entry>
+				<title>സത്യദർശനം  (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page>0003-0004</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page>0006-0013</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ( ജീവചരിത്രക്കുറിപ്പ് )</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				</allauthors>
+				<page>0014-0019</page>
+			</entry>
+			<entry>
+				<title>ഹേ സാധകാ, സ്വാധ്യായത്തിൽ നീ വിട്ടുവീഴ്ച വരുത്തരുതേ</title>
+				<feature />
+				<allauthors>
+					<author>ആചാര്യ എം. ആർ. രാജേഷ്</author>
+				</allauthors>
+				<page>0020-0021</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണപാദങ്ങളിൽ (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. തൃക്കൊടിത്താനം ഗോപിനാഥൻ നായർ</author>
+				</allauthors>
+				<page>0022-0022</page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജി പാശ്ചാത്യർക്ക് നൽകിയ സന്ദേശം</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ  അതുലാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page>0023-0030</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരിയുടെ അനുബന്ധം</title>
+				<feature />
+				<allauthors>
+					<author>തപസ്യാനന്ദസ്വാമികൾ, വിവർത്തനം എസ്. വി. ഉണ്ണികൃഷ്ണൻ</author>
+				</allauthors>
+				<page>0031-0032</page>
+			</entry>
+			<entry>
+				<title>സത്യാന്വേഷണം ശാസ്ത്രത്തിലും മതത്തിലും സ്വാമി വിവേകാനന്ദന്റെ വീക്ഷണം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ജയ ലാൽമോഹൻ</author>
+				</allauthors>
+				<page>0033-0035</page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page>0036-0039</page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page>0040-0040</page>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>കാരുണ്യഹൃദയം  (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ( ജീവചരിത്രക്കുറിപ്പ് )</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>റാബിയാ അൽ അദാമിയാ</title>
+				<feature />
+				<allauthors>
+					<author>വിവർത്തനം ലോകഹിതാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജി പാശ്ചാത്യർക്ക് നൽകിയ സന്ദേശം</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ  അതുലാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരിയുടെ അനുബന്ധം</title>
+				<feature />
+				<allauthors>
+					<author>തപസ്യാനന്ദസ്വാമികൾ, വിവർത്തനം എസ്. വി. ഉണ്ണികൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സത്യാന്വേഷണം ശാസ്ത്രത്തിലും മതത്തിലും സ്വാമി വിവേകാനന്ദന്റെ വീക്ഷണം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ ജയ ലാൽമോഹൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>യുഗാവതാരം  (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ( ജീവചരിത്രക്കുറിപ്പ് )</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കൃതജ്ഞതയുടെ മർമ്മരങ്ങൾ (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ബ്രഹ്മചാരി ശിവേശചൈതന്യ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ബ്രഹ്മാനന്ദസ്വാമികൾ</title>
+				<feature />
+				<allauthors>
+					<author>അമൃത</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തി</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. രാമൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അവതാരവരിഷ്ഠൻ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എം. ലക്ഷ്മീകുമാരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ദേവീമാഹാത്മ്യം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ( ജീവചരിത്രക്കുറിപ്പ് )</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സാറാ ഓളി ബുള്ളിനയച്ച കത്തുകൾ</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. ബി. സുലോചനാ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>തൗസൻറ് അയലന്റ്  പാർക്കിലെ ആനന്ദദിനങ്ങൾ</title>
+				<feature />
+				<allauthors>
+					<author>അമൃത</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗ്രന്ഥപരിചയം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>സേവനഭാവം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ( ജീവചരിത്രക്കുറിപ്പ് )</title>
+				<feature />
+				<allauthors>
+					<author>ഇന്ദിരാ കൃഷ്ണകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തിസുധാരസം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കൽക്കട്ടയിൽ ഒരു സൂര്യോദയം</title>
+				<feature />
+				<allauthors>
+					<author>വിജയൻ അവിണിശ്ശേരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കൃത്സ്നാത്ഭുതസ്യ ഭഗവൻ, തവ സുപ്രഭാതം</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതസുര്യോദയം</title>
+				<feature />
+				<allauthors>
+					<author>സുരേഷ് ബാബു കിള്ളിക്കുറിശ്ശിമംഗലം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മൃത്യുഭയം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>ഇന്ദിരാ കൃഷ്ണകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭഗവദ്‌ഗീതയിലൂടെ</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശങ്കരഭാരതി വിജയതേ</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മഹത്തായ ഒരു അനുഭവം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>നിവേദനം</title>
+				<feature />
+				<allauthors>
+					<author>തട്ടയിൽ ഗോപാലകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നാരദന്റെ ആത്മകഥ</title>
+				<feature />
+				<allauthors>
+					<author>സിദ്ധിനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉണരുന്ന ഭാരതം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആന്തരക്ഷേത്രം</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രി ഭജനാനന്ദസ്വാമി, വിവർത്തനം എസ്. വി. ഉണ്ണികൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശിവരാത്രി (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>നന്ദാത്മജാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>ഇന്ദിരാ കൃഷ്ണകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭഗവദ്‌ഗീതയിലൂടെ</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീകൃഷ്ണവിലാസത്തിലെ സുമേരുശൈലം - ഒരു പഠനം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. കെ. സി. എം. രാജ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അമ്മയിലെത്തുവാൻ (വചനാമൃതചിന്തകൾ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>അനാസക്തി (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആന്തരക്ഷേത്രം</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ ഭജനാനന്ദസ്വാമി, വിവർത്തനം എസ്. വി. ഉണ്ണികൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>ഇന്ദിരാ കൃഷ്ണകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭവരോഗവൈദ്യ (വചനാമൃതചിന്തകൾ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമഭക്തിയും രാമഭക്തന്മാരും</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാവമുഖം</title>
+				<feature />
+				<allauthors>
+					<author>തപസ്യാനന്ദസ്വാമി, വിവർത്തനം ലോകഹിതാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സാംഖ്യയോഗം (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മനോജയം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കർമ്മയോഗം (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിഭുരാമകൃഷ്ണന്റെ ദിവ്യലീലാഗൃഹം</title>
+				<feature />
+				<allauthors>
+					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കുടുംബത്തിൽനിന്ന് ആർജ്ജിച്ചുതുടങ്ങേണ്ട വ്യക്തിത്വവികാസം</title>
+				<feature />
+				<allauthors>
+					<author>നന്ദാത്മജാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമകൃഷ്ണ-വിവേകാനന്ദസന്ദേശം: തത്ത്വചിന്തകളുടെ സമന്വയം</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ജ്ഞാനപ്പാന' നമ്മുടെ മാർഗ്ഗദീപം</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീനിലയം വർമ്മ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭഗവദ്‌ഗീത</title>
+				<feature />
+				<allauthors>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ബുദ്ധനും ശങ്കരനും</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നാലു യോഗങ്ങൾ</title>
+				<feature />
+				<allauthors>
+					<author>ഈശ്വരാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവയും</title>
+				<feature />
+				<allauthors>
+					<author>ഗണാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സംന്യാസവും</title>
+				<feature />
+				<allauthors>
+					<author>മൃഡാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗം അഥവാ സന്ന്യാസം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗം</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ വിരജാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നാനാത്വത്തിൽ എകത്വം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എം. ലക്ഷ്മീകുമാരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവി</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവനവും ഭാരതീയവീക്ഷണത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ആർ. ഗോപിമണി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സേവനസങ്കല്പം കർമ്മയോഗത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. രാമൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതീയാദർശം ഉൾക്കൊള്ളുക</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീമതി ഇന്ദിരാഗാന്ധി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതത്തിലെ സ്‌ത്രീധർമ്മം</title>
+				<feature />
+				<allauthors>
+					<author>കെ. കല്യാണിക്കുട്ടിയമ്മ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗം ഉപനിഷത്തുകളിൽ</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസന്നിധി, ത്യാഗസേവനങ്ങളുടെ ആവിഷ്‌കരണം</title>
+				<feature />
+				<allauthors>
+					<author>നന്ദാത്മജാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്ഥിതപ്രജ്ഞൻ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. എസ്. ശർമ്മ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീ ശാരദാദേവി - ത്യാഗത്തിന്റെയും സേവനത്തിന്റെയും മഹനീയമാതൃക</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ലക്ഷ്മി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവനവും മാനവികമൂല്യങ്ങളുടെ നാനാർത്ഥങ്ങൾ</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവനവും അദ്ധ്യാപനത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. എസ്. രാധാകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവനവും വിവേകാനന്ദസ്വാമികളുടെ കാഴ്ചപ്പാടിൽ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എൻ. ലക്ഷ്മിക്കുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നിവേദിത  - ത്യാഗീശ്വരി</title>
+				<feature />
+				<allauthors>
+					<author>പ്രവ്രാജികാ  ചേതനപ്രാണാ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗമൂർത്തിയായ ശ്രീരാമകൃഷ്ണൻ</title>
+				<feature />
+				<allauthors>
+					<author>അമൃത</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ലോകത്തിനു മോക്ഷമേകുക</title>
+				<feature />
+				<allauthors>
+					<author>ബ്രഹ്മചാരി പ്രാണചൈതന്യ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവനവും ഭൗതികവാദത്തിലും ആദ്ധ്യാത്മികചിന്തയിലും</title>
+				<feature />
+				<allauthors>
+					<author>പി. ജെ. സണ്ണി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ത്യാഗവും സേവനവും കുടുംബജീവിതത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ഗീതാ സുരാജ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>കൃപ (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആ ദൃശ്യം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>കൃഷ്ണൻ നമ്പൂതിരി ഇരവിമംഗലം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ജ്ഞാനയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തി വചനാമൃതവീക്ഷണത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>അമിതാഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ദശരത്നമാല</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഹിന്ദുസംസ്കാരത്തിനു ഭഗവദ്‌ഗീതയിലൂടെ ശ്രീകൃഷ്ണൻ നൽകിയ സംഭാവന</title>
+				<feature />
+				<allauthors>
+					<author>ഭജനാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സാമൂഹ്യസാംസ്കാരികരംഗങ്ങളിൽ വിദ്യാർഥിസമൂഹത്തിന്റെ പങ്ക്</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എം. സി. ദിലീപ് കുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സത്സംഗം</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2014" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗ: കർമ്മസു കൗശലം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കർമ്മസംന്യാസയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തി വചനാമൃതവീക്ഷണത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സമഗ്രാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗീതയിലെ ബുദ്ധി</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തിയില്ല, തപസ്സില്ല  (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വരകൾക്കപ്പുറം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസ്വാമികൾ - ഭാരതത്തിന്റെ ആത്‌മീയപ്രതിനിധി</title>
+				<feature />
+				<allauthors>
+					<author>ജയനാരായണൻ, ഒറ്റപ്പാലം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിശ്വജനനീ ശ്രീ  ശാരദാദേവി</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. രാമൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="100">
+		<part pnum="01" month="01" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഈശ്വരസ്മരണ (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ധ്യാനയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>തന്മയാനന്ദസ്വാമി. വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമകൃഷ്‌ണസ്മരണം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ദിലീപ് നയത്തിൽ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഷില്ലോങ്ങിൽ നടന്ന അത്ഭുതം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ഭാസ്കരാനന്ദ, വിവർത്തനം ബ്രഹ്മചാരി പ്രാണചൈതന്യ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പരാവിദ്യയ്ക്ക് പരിഭാഷയാകുന്ന വചനാമൃതം</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉപനിശത്തെന്ന ബ്രഹ്മാനന്ദം (ഗ്രന്ഥപരിചയം)</title>
+				<feature />
+				<allauthors>
+					<author>സുരേന്ദ്രൻ ചെമ്പൂക്കാട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യക്ഷനും ചോദ്യങ്ങളും ധർമ്മപുത്രരുടെ ഉത്തരങ്ങളും</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="02" month="02" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മഹത്സംഗം (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാജാവിദ്യാരാജഗുഹ്യയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>തന്മയാനന്ദസ്വാമി, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണകർണ്ണാമൃതം  (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>നചികേതസ്സ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണ-ശാരദാ ദേവിമാർ ഒരേ കേവലസത്യം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. രാമൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കൃഷ്ണസ്തു ഭഗവാൻ സ്വയം</title>
+				<feature />
+				<allauthors>
+					<author>തുളസീതീർത്ഥൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശിവരാത്രി (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>വള്ളംകുളം മോഹനൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കേരളത്തിലെ സാഹിത്യകാരന്മാരോട്</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="03" month="03" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണദൗത്യത്തിലെ അപൂർവ്വതകൾ (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ഹർഷാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിശ്രമത്താവളം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>വേണു വി. ദേശം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗുരുസന്നിധി എന്ന തീർത്ഥസ്ഥാനം</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണസന്നിധി (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രക്ഷിതാക്കളോട്</title>
+				<feature />
+				<allauthors>
+					<author>ലക്ഷ്മി കാരാട്ട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കേരളത്തിലെ സാഹിത്യകാരന്മാരോട്</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണസൂക്തങ്ങൾ (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പുതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി - ഒരു അവലോകനം</title>
+				<feature />
+				<allauthors>
+					<author>ഇഞ്ചക്കോട് കെ. എൻ. കേശവപിള്ള</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതം ലോലകത്തട്ടിന്റെ മാർഗ്ഗദർശി</title>
+				<feature />
+				<allauthors>
+					<author>രേഷ്മ ഹരിദാസ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉപനിഷത്, ഭഗവദ്‌ഗീത, പുരുഷസൂക്തം എന്നിവയിലെ യജ്ഞരഹസ്യം</title>
+				<feature />
+				<allauthors>
+					<author>വടക്കേ താമറ്റൂർ ശിവശങ്കരൻ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="04" month="04" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആകുലപ്പെടുന്ന ആധുനികമനസ്സും രക്ഷോപായങ്ങളും (എഡിറ്റോറിയൽ)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ബ്രഹ്മസൂത്രങ്ങൾ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ഗോലോകാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാജയോഗവും ആധുനികലോകവും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ടി. വി. മുരളീവല്ലഭൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആ ദൃശ്യം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ഇരവിമംഗലം കൃഷ്ണൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാഷാ ഭജഗോവിന്ദം</title>
+				<feature />
+				<allauthors>
+					<author>തട്ടയിൽ ഗോപാലകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആരോഹണയാത്ര (ഗദ്യകവിത)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സംന്യാസമ്പ്രദായത്തെപ്പറ്റി ശ്രീ തപോവനസ്വാമികൾ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. പി. അച്യുതൻ (തുളസീതീർത്ഥൻ)</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിശ്വാസചിന്തകൾ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. ആർ. പ്രബോധചന്ദ്രൻ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാവയാമി രഘുരാമം</title>
+				<feature />
+				<allauthors>
+					<author>കവനമന്ദിരം പങ്കജാക്ഷൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ബഹുസ്വരതയുടെ വേരുകൾ</title>
+				<feature />
+				<allauthors>
+					<author>മാധവദാസ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആടുകൾക്കൊപ്പം ഒരു സിംഹക്കുട്ടി (ബാലരംഗം)</title>
+				<feature />
+				<allauthors>
+					<author>എലിസബത്ത് കോശി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അത്യാഗ്രഹം ആപത്ത് (ബാലരംഗം)</title>
+				<feature />
+				<allauthors>
+					<author>കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="05" month="05" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉള്ളിലെ സമ്പന്നത  (മുഖമൊഴി)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഈശ്വരനോ മനുഷ്യനോ?</title>
+				<feature />
+				<allauthors>
+					<author>പ്രവ്രാജിക അജയപ്രാണാ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണപ്രസ്ഥാനവും കുട്ടമത്തുകുടുംബവും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. കെ. കെ. എൻ. കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പ്രസീദ  ശാരദീശ്വരി (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>എ. ഇ . രാമചന്ദ്രക്കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതാപിതാക്കളറിയാൻ</title>
+				<feature />
+				<allauthors>
+					<author>ബാലൻ കുറുങ്ങോട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിഭൂതിയോഗം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിദ്യാസാഗരനുമായുള്ള ശ്രീരാമകൃഷ്ണദേവന്റെ കൂടിക്കാഴ്ച</title>
+				<feature />
+				<allauthors>
+					<author>വിവർത്തനം സ്വാമി ലോകഹിതാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉള്ളിൽ നിഷ്കളങ്കരായവർ</title>
+				<feature />
+				<allauthors>
+					<author>രാധാ രവിവർമ്മ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സന്തോഷവും സന്താപവും</title>
+				<feature />
+				<allauthors>
+					<author>വി. എം. മോഹനൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വർണക്കമണ്ഡലു</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ, വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="06" month="06" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ജീവിതം - വെളിച്ചത്തിലേക്കുള്ള പ്രയാണം  (മുഖമൊഴി)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീ ശാരദാഞ്ജലി (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>മഹാകവി കുട്ടമത്ത്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പ്രാർത്‌ഥനകൾ</title>
+				<feature />
+				<allauthors>
+					<author>സി. കുഞ്ഞിരാമവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിദ്യാസാഗരനുമായുള്ള ശ്രീരാമകൃഷ്ണന്റെ കൂടിക്കാഴ്ച</title>
+				<feature />
+				<allauthors>
+					<author>വിവർത്തനം സ്വാമി ലോകഹിതാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നാമപ്പതി</title>
+				<feature />
+				<allauthors>
+					<author>വി. കെ. ശ്രീധരൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അദ്വേഷ്ടാ സർവ്വഭൂതാനാം</title>
+				<feature />
+				<allauthors>
+					<author>രാഘവവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗുരുവും ശിഷ്യനും (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ഇരവിമംഗലം കൃഷ്ണൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണഗുരു</title>
+				<feature />
+				<allauthors>
+					<author>ശാരദാനായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിശ്വരൂപദർശനം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രക്ഷിതാക്കളറിയാൻ</title>
+				<feature />
+				<allauthors>
+					<author>കെ. രമേശൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അകലം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>കിഴിമുണ്ടയൂർ നാരായണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിശ്വാസത്തിന്റെ ശക്തി</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചിരിക്കൂട്ട്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി വീരഭദ്രാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ, വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="07" month="07" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമകഥയുമായെത്തുന്ന കർക്കിടകം  (മുഖമൊഴി)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചിരിക്കൂട്ട്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി വീരഭദ്രാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗുരുപൂർണിമ എന്ത്, എന്തിനുവേണ്ടി?</title>
+				<feature />
+				<allauthors>
+					<author>ജസ്റ്റിസ് കെ. പി. രാധാകൃഷ്ണമേനോൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മനുഷ്യാ നീ ഈശ്വരനാണ്  (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ബ്രഹ്മചാരി പ്രാണചൈതന്യ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചാക്യാർകൂത്ത്</title>
+				<feature />
+				<allauthors>
+					<author>കലാമണ്ഡലം മാണി വാസുദേവ ചാക്യാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീ ശാരദാദേവിയിലെ മാതൃഭാവം</title>
+				<feature />
+				<allauthors>
+					<author>പ്രദീപ് നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശാന്തിമന്ത്രം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിദ്യാസാഗരനുമായുള്ള ശ്രീരാമകൃഷ്ണന്റെ കൂടിക്കാഴ്ച</title>
+				<feature />
+				<allauthors>
+					<author>വിവർത്തനം സ്വാമി ലോകഹിതാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിശ്വരൂപദർശനം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മുനിയ എന്ന അത്ഭുതം</title>
+				<feature />
+				<allauthors>
+					<author>രാധാരവിവർമ്മ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതാപിതാക്കളോട്</title>
+				<feature />
+				<allauthors>
+					<author>വി. ടി. ബാലചന്ദ്രൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദ സ്റ്റഡി സർക്കിൾ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എം. മുരുകൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="08" month="08" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗശാസ്ത്രത്തിന്റെ മൂല്യം ലോകം തിരിച്ചറിയുമ്പോൾ (മുഖമൊഴി)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസ്വാമികളുടെ നവീന സംന്യാസാദർശം</title>
+				<feature />
+				<allauthors>
+					<author>പ്രവ്രാജികാ ചേതനപ്രാണാ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചിരിക്കൂട്ട്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി വീരഭദ്രാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണസന്ദേശത്തിന്റെ കാലികപ്രസക്തി</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. രാമൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉള്ളിലെ മധുരാനുഭവം  (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീമതി വാസന്തി ചെറുമുക്ക്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നിദ്ര - ആയുർവേദത്തിലും ഉപനിഷത്തിലും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ടി. എൻ. വാസുദേവ കൈമൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തിയോഗം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വരുംതലമുറയ്ക്കായി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീമതി വിജയാമേനോൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കർമ്മണ്യകർമ്മം (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>മോഹനൻ വള്ളംകുളം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പൂർവ്വജന്മസംസ്കാരം</title>
+				<feature />
+				<allauthors>
+					<author>വി. എം. മോഹനൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പുസ്തകപരിചയം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="09" month="09" year="2015" info="">
+			<entry>
+				<title>മുഖചിത്രം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>സുഭാഷിതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മുഖമൊഴി</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കാലാതീതനായ കലാം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. പി. ജെ.സണ്ണി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചിരിക്കൂട്ട്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി വീരഭദ്രാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പശ്ചിമദിക്കിന് കൈമാറിയ മൂന്നാം കണ്ണ്</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശക്തിയേകൂ</title>
+				<feature />
+				<allauthors>
+					<author>സരളാ ബാഹുലേയൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗുരുപൂർണിമ</title>
+				<feature />
+				<allauthors>
+					<author>മുണ്ടനാട് സുരേഷ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പരമാർത്‌ഥായ ശാസ്ത്രിതം</title>
+				<feature />
+				<allauthors>
+					<author>ഇഞ്ചക്കോട് കെ. എൻ. കേശവപിള്ള</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദൻ</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതാപിതാക്കളറിയാൻ</title>
+				<feature />
+				<allauthors>
+					<author>കെ. രാധാകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി  കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗീതാമൃതം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ബാലരംഗം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="10" month="10" year="2015" info="">
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മുഖമൊഴി</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണൻ അറിയപ്പെട്ടതും അറിയപ്പെടാത്തതും</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ഭജനാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കേരളനവോത്‌ഥാനവും രാമകൃഷ്ണ മിഷനും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എൻ. ലക്ഷ്മിക്കുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പ്രബുദ്ധഭാരതം ലക്ഷ്യം, പ്രബുദ്ധപൗരത്വം മാർഗ്ഗം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. സുവർണ്ണ നാലപ്പാട്ട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണദൗത്യനിർവ്വഹണത്തിൽ തൃശ്ശൂർ ശ്രീരാമകൃഷ്ണമഠം വഹിച്ച പങ്ക്</title>
+				<feature />
+				<allauthors>
+					<author>പ്രദീപ് നമ്പൂതിരി നെട്ടിശ്ശേരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണസന്ദേശവാഹകനായ തുളസിമഹാരാജ്‌ (നിർമ്മലാനന്ദസ്വാമികൾ)</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. പി. അച്യുതൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പ്രബുദ്ധകേരളവും കേരളത്തിന്റെ  നവോത്‌ഥാനവും</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി കൈവല്യാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസ്വാഹിത്യസർവ്വസ്വത്തിന്റെ നാൾ വഴികൾ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. രാജീവ് ഇരിങ്ങാലക്കുട</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദം</title>
+				<feature />
+				<allauthors>
+					<author>അക്കിത്തം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ത്യാഗീശാനന്ദസ്വാമികൾ</title>
+				<feature />
+				<allauthors>
+					<author>സുദർശനം സുകുമാരൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അനുഗ്രഹം വിവേകാനന്ദസ്വാമികൾ</title>
+				<feature />
+				<allauthors>
+					<author>വിവർത്തനം സുഗതകുമാരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അന്തർലോകം - അരവിന്ദഘോഷ്</title>
+				<feature />
+				<allauthors>
+					<author>വിവർത്തനം എൻ. കെ. ദേശം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശാരദാമഠവും കേരളത്തിൽ അതിന്റെ പ്രവർത്തനവും</title>
+				<feature />
+				<allauthors>
+					<author>പ്രവ്രാജിക ചേതനാപ്രാണാ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അനന്തതയുടെ  ജാലകങ്ങൾ</title>
+				<feature />
+				<allauthors>
+					<author>വേണു വി. ദേശം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണഭാവപ്രചാരം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ഗോലോകാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആത്മനോ മോക്ഷാർത്ഥം ജഗദ്ധിതായ  ച</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി സ്വപ്രഭാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പൂങ്കുന്നം  വിവേകാനന്ദ വിജ്ഞാനഭവനം സപ്തതിയുടെ നിറവിൽ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി സദ്ഭവാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസ്വാമികളെ  കേരളം  വീണ്ടും വരവേൽക്കുന്നു</title>
+				<feature />
+				<allauthors>
+					<author>ടി. പി. ശ്രീനിവാസൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ആരായിരുന്നു ആഗമാനന്ദസ്വാമികൾ?</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വിഷ്ണുനാരായണൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>തപസ്യാനന്ദജിയെ സ്മരിക്കുമ്പോൾ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി തത്ത്വമയാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഇന്ത്യയുടെ സ്വത്വം  തേടി</title>
+				<feature />
+				<allauthors>
+					<author>എം .പി. വീരേന്ദ്രകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ദിവ്യപ്രേമം</title>
+				<feature />
+				<allauthors>
+					<author>മാടമ്പ് കുഞ്ഞുക്കുട്ടൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നമുക്കുള്ള  അവസാനത്തെ  അവസരം</title>
+				<feature />
+				<allauthors>
+					<author>സി രാധാകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പ്രബുദ്ധകേരളവും കൂടപ്പിറപ്പുകളും</title>
+				<feature />
+				<allauthors>
+					<author>ആർ. ഹരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മഹാകവി കുട്ടമത്തും ശ്രീരാമകൃഷ്ണപരമഹംസരും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. കെ. കെ. എൻ. കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മഹാകവി കുമാരനാശാനും സ്വാമി വിവേകാനന്ദനും</title>
+				<feature />
+				<allauthors>
+					<author>പി. കേശവൻ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രംഗനാഥാനന്ദജിയെക്കുറിച്ചുള്ള നിത്യഹരിതസ്മരണകൾ</title>
+				<feature />
+				<allauthors>
+					<author>പി. പരമേശ്വരൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പരമഹംസരുടെ മതം</title>
+				<feature />
+				<allauthors>
+					<author>ഡി. ബാബു പോൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ലളിതം ഗഹനം'</title>
+				<feature />
+				<allauthors>
+					<author>ഒ. എൻ. വി. കുറുപ്പ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ലോകത്തിന് ഒരേയൊരു ഹൃദയം</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ ഹമീദ് ചേന്ദമംഗലൂർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നൂറു' തികഞ്ഞ പ്രബുദ്ധകേരളത്തിന്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കേരളനവോത്‌ഥാനവും വിവേകാനന്ദനും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ആർ. ഗോപീമണി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജിയുടെ തത്ത്വവും മന്നത്തിന്റെ കൃത്യവും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ടി. വി. മുരളീവല്ലഭൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വന്ദേ ഗുരുപരമ്പരാം - ശ്രീമദ് മൃഡാനന്ദസ്വാമികൾ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ലക്ഷ്മീശങ്കർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സിദ്ധിനാഥാനന്ദസ്വാമികൾ, സാധനയുടെ അന്തരംഗം</title>
+				<feature />
+				<allauthors>
+					<author>മാധവദാസ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മായാവിഭ്രമം</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദനും കേരളവും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എം. ജി. എസ്. നാരായണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന് കേരളത്തോട് പറയാനുള്ളത്</title>
+				<feature />
+				<allauthors>
+					<author>കെ. ജയകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതീയവേദാന്തത്തിലെ പുതുവായ്‌മൊഴികൾ</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഈശ്വരാനന്ദസ്വാമികൾ - ഈശ്വരീയമായ ആനന്ദം</title>
+				<feature />
+				<allauthors>
+					<author>നചികേതസ്സ് അടൂർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദൻ സന്ദേശവും പ്രസക്തിയും</title>
+				<feature />
+				<allauthors>
+					<author>എസ്. രമേശൻ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃസന്നിധിയിൽ</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീധരനുണ്ണി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ജീവിക്കുന്ന വേദാന്തം</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. വി. മധുസൂദനൻ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മഹർഷിക്ക് പ്രണാമം</title>
+				<feature />
+				<allauthors>
+					<author>ബ്രഹ്മചാരി പ്രാണചൈതന്യ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മലായാളത്തിലെ സർഗ്ഗപുളകപ്പൊടിപ്പുകൾ</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. ടോണി മാത്യു, വെണ്ണികുളം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണദർശനം</title>
+				<feature />
+				<allauthors>
+					<author>പി. ഗോപിനാഥൻ നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>നിത്യചൈതന്യസ്‌മൃതിതിയിൽ പുറനാട്ടുകര എന്ന നാട്ടിൻപുറം</title>
+				<feature />
+				<allauthors>
+					<author>എം. പി. അബ്ദുസ്സമദ് സമദാനി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണ-വിവേകാനന്ദ സന്ദേശപ്രചാരണത്തിന് പ്രബുദ്ധകേരളം വഹിച്ച പങ്ക്</title>
+				<feature />
+				<allauthors>
+					<author>പ്രവ്രാജിക തപപ്രാണാ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദൻ ഭാരതത്തിന്റെ സനാതനപൈതൃകം</title>
+				<feature />
+				<allauthors>
+					<author>ജസ്റ്റിസ് കെ. ടി. തോമസ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതസ്ത്രീ വിവേകാനന്ദദർശനത്തിൽ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. എം. ലക്ഷ്മീകുമാരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കേരളവും രാമകൃഷ്ണപ്രസ്ഥാനവും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. എസ്. ശർമ്മ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അഗ്നിതുല്യമായ  വിവേകാനന്ദവാണി</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ഗീതാ സുരാജ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തിയുടെ ശ്രീകോവിലിൽ</title>
+				<feature />
+				<allauthors>
+					<author>അഖിൽ എം. എസ്.</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ദീപ്തമീ  ജീവിതം... ത്രൈലോക്യാനന്ദസ്വാമികൾ</title>
+				<feature />
+				<allauthors>
+					<author>എൻ. ഹരീന്ദ്രൻ മാസ്റ്റർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>അതേ, വിവേകാനന്ദൻതന്നെ</title>
+				<feature />
+				<allauthors>
+					<author>ആചാര്യ എം. ആർ. രാജേഷ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസന്ദേശങ്ങളുടെ യുഗാന്തരപ്രസക്തി</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. കെ. കെ. ഹർഷകുമാർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദനും വിശ്വമാനവികതയും</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. വി. രാമൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് വിവേകാനന്ദസ്വാമികൾ - ജീവിതവും ദൗത്യവും</title>
+				<feature />
+				<allauthors>
+					<author>പ്രൊഫ. ഒ. എം. മാത്യു</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഉത്തിഷ്ഠത ഭാരത!</title>
+				<feature />
+				<allauthors>
+					<author>സി. പി. നായർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="11" month="11" year="2015" info="">
+			<entry>
+				<title>മുഖചിത്രം, സുഭാഷിതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മുഖമൊഴി</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദനെ സ്വാംശീകരിക്കുക</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. കെ. എസ്. രാധാകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മഞ്ഞിലലിഞ്ഞ മൂകാംബിക</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>1 9 0 2 ജൂലൈ 4 (കവിത)</title>
+				<feature />
+				<allauthors>
+					<author>ആര്യാട് കൃഷ്‌ണൻകുട്ടി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭക്തിമാർഗ്ഗത്തിന്റെ വളർച്ച</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. പി. അച്യുതൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചിരിക്കൂട്ട്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി വീരഭദ്രാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ബാലരംഗം</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്നേഹപുഷ്പം വിടരുമ്പോൾ</title>
+				<feature />
+				<allauthors>
+					<author>പാർവ്വതി നചികേതസ്സ്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗുരുപൂർണിമ: ഒരു വേറിട്ട വീക്ഷണം</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. രാമകൃഷ്ണ വേണുഗോപാൽ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സിസ്റ്റർ നിവേദിതയും സ്‌ത്രീവിദ്യാഭ്യാസവും</title>
+				<feature />
+				<allauthors>
+					<author>മാലതി ചേറ്റൂർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി  കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗീതാമൃതം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>മാതാപിതാക്കളറിയാൻ</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീജ ചെങ്ങാട്ട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+		</part>
+		<part pnum="12" month="12" year="2015" info="">
+			<entry>
+				<title>മുഖചിത്രം, സുഭാഷിതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>മുഖമൊഴി</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ശാരദാദേവിയുടെ മഹദ്‌വചനങ്ങൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature />
+				<allauthors>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന്റെ ചെറുപ്പകാലം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി ഗോലോകാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വരദ</title>
+				<feature />
+				<allauthors>
+					<author>വാസന്തി ചെറുമുക്ക്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജിയുടെ സുഹൃത്തായ ജോസഫി ൻ  മക്ലൗഡ്‌</title>
+				<feature />
+				<allauthors>
+					<author>പ്രവ്രാജികാ  നിത്യാനന്ദപ്രാണാ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പ്രാർത്ഥന</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>രക്ഷിതാക്കൾ ശ്രദ്ധിക്കാൻ</title>
+				<feature />
+				<allauthors>
+					<author>ഡോ. ജി. ഗോപീകൃഷ്ണൻ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഭാരതനവോത്‌ഥാനത്തിന് വിവേകാനന്ദസ്വാമികളുടെ സംഭാവനകൾ</title>
+				<feature />
+				<allauthors>
+					<author>ജയനാരായണൻ ഒറ്റപ്പാലം</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ബാലരംഗം</title>
+				<feature />
+				<allauthors>
+					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>കലാലയവീഥി</title>
+				<feature />
+				<allauthors>
+					<author>മനോജ് പാലക്കാട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ചിരിക്കൂട്ട്</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി വീരഭദ്രാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature />
+				<allauthors>
+					<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>സ്വാമി തപസ്യാനന്ദ</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി  കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>ഗീതാമൃതം</title>
+				<feature />
+				<allauthors>
+					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>പുസ്തകപരിചയം - അരൂപിയായ ബ്രഹ്മം</title>
+				<feature />
+				<allauthors>
+					<author>സുരേന്ദ്രൻ ചെമ്പൂക്കാട്</author>
+				</allauthors>
+				<page></page>
+			</entry>
+			<entry>
+				<title>വായനക്കാരുടെ കത്തുകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>വാർത്തകൾ</title>
+				<feature />
+				<allauthors />
+				<page></page>
+			</entry>
+			<entry>
+				<title>രാമായണം (ചിത്രകഥ)</title>
+				<feature />
+				<allauthors>
+					<author>സ്വാമി രാഘവേശാനന്ദ</author>
+				</allauthors>
+				<page></page>
+			</entry>
+		</part>
+	</volume>
+</pke>
