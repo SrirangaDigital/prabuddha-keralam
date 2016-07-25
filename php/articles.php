@@ -20,14 +20,15 @@
 				<span class="letter"><a href="articles.php?letter=ഈ">ഈ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഉ">ഉ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഊ">ഊ</a></span>
+				<span class="letter"><a href="articles.php?letter=ഋ">ഋ</a></span>
 				<span class="letter"><a href="articles.php?letter=എ">എ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഏ">ഏ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഐ">ഐ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഒ">ഒ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഓ">ഓ</a></span>
-				<span class="letter"><a href="articles.php?letter=ഔ">ഔ</a></span>
 				<span class="letter"><a href="articles.php?letter=ക">ക</a></span>
 				<span class="letter"><a href="articles.php?letter=ഗ">ഗ</a></span>
+				<span class="letter"><a href="articles.php?letter=ഘ">ഘ</a></span>
 				<span class="letter"><a href="articles.php?letter=ച">ച</a></span>
 				<span class="letter"><a href="articles.php?letter=ഛ">ഛ</a></span>
 				<span class="letter"><a href="articles.php?letter=ജ">ജ</a></span>
@@ -52,6 +53,7 @@
 				<span class="letter"><a href="articles.php?letter=ഷ">ഷ</a></span>
 				<span class="letter"><a href="articles.php?letter=സ">സ</a></span>
 				<span class="letter"><a href="articles.php?letter=ഹ">ഹ</a></span>
+				<span class="letter"><a href="articles.php?letter=Special">#</a></span>
 			</div>
 						<?php
 
@@ -102,7 +104,7 @@
 
 						if($letter == 'Special')
 						{
-							$query = "select * from article where title not regexp '^[a-zA-Z].*' order by title, volume, part, page";
+							$query = "select * from article where title regexp '^[a-zA-Z].*' order by title, volume, part, page";
 						}
 						else
 						{
