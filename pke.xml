@@ -3457,7 +3457,7 @@
 				<page>0093-0098</page>
 			</entry>
 			<entry>
-				<title>The song of the sannyasin.സന്യാസീഗാനം</title>
+				<title>The Song of the Sannyasin</title>
 				<feature />
 				<allauthors />
 				<page>0098-0101</page>
@@ -3537,7 +3537,7 @@
 				<page>0126-0129</page>
 			</entry>
 			<entry>
-				<title>The song of the sannyasin.സന്യാസീഗാനം</title>
+				<title>The Song of the Sannyasin</title>
 				<feature />
 				<allauthors />
 				<page>0129-0132</page>
@@ -10780,7 +10780,7 @@
 				<title>മറ്റൊരു സ്മൃതികൊണ്ടുമാത്രം</title>
 				<feature />
 				<allauthors>
-					<author>P.M.N.Nambudiri Ottapalam</author>
+					<author>P. M. N. Nambudiri Ottapalam</author>
 				</allauthors>
 				<page>0399-0402</page>
 			</entry>
@@ -13451,9 +13451,11 @@
 				<page>0144-0148</page>
 			</entry>
 			<entry>
-				<title>AUM ON THE BIRTHDAY OF Sri Nirmalananda Swamiji</title>
+				<title>On the Birthday of Sri Nirmalananda Swamiji</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>P. M. Harihara Aiyer</author>
+				</allauthors>
 				<page>0149-0149</page>
 			</entry>
 			<entry>
@@ -18323,7 +18325,7 @@
 				<page>0355-0357</page>
 			</entry>
 			<entry>
-				<title>NOTIFICATION</title>
+				<title>Notification</title>
 				<feature />
 				<allauthors />
 				<page>0357-0358</page>
@@ -18379,9 +18381,11 @@
 				<page>0382-0387</page>
 			</entry>
 			<entry>
-				<title>THE LINKS OF THE MASTER</title>
+				<title>The Links of the Master</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>S. C. Mitra</author>
+				</allauthors>
 				<page>0387-0391</page>
 			</entry>
 			<entry>
@@ -18521,9 +18525,11 @@
 				<page>0451-0456</page>
 			</entry>
 			<entry>
-				<title>TRUTH IS TRUTH</title>
+				<title>Truth is Truth</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Swami Amritananda</author>
+				</allauthors>
 				<page>0456-0459</page>
 			</entry>
 			<entry>
@@ -27544,7 +27550,7 @@
 				<title>നമ്മുടെ നിധി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ വിജയാനന്ദജീ- ത്രിപാഠി</author>
+					<author>ശ്രീ വിജയാനന്ദജീ-ത്രിപാഠി</author>
 				</allauthors>
 				<page>0398-0398</page>
 			</entry>
@@ -33069,7 +33075,7 @@
 				<page>0394-0396</page>
 			</entry>
 			<entry>
-				<title>WOMEN SAINTS OF EAST AND WEST</title>
+				<title>Women Saints of East and West</title>
 				<feature />
 				<allauthors />
 				<page>0396-0398</page>
@@ -42751,7 +42757,7 @@
 				<page>0491-0495</page>
 			</entry>
 			<entry>
-				<title>ഗൗദപാദദര്‍ശനം - 2</title>
+				<title>ഗൗഡപാദദര്‍ശനം - 2</title>
 				<feature />
 				<allauthors>
 					<author>ജി. ബാലകൃഷ്ണന്‍ നായര്‍</author>
@@ -43911,7 +43917,7 @@
 				<page>0346-0350</page>
 			</entry>
 			<entry>
-				<title>ഗൗഡപാദദര്‍ശനം</title>
+				<title>ഗൗഡപാദദര്‍ശനം - 9</title>
 				<feature />
 				<allauthors>
 					<author>ജി. ബാലകൃഷ്ണന്‍ നായര്‍</author>
@@ -43969,7 +43975,7 @@
 				<page>0361-0361</page>
 			</entry>
 			<entry>
-				<title>MESSAGES</title>
+				<title>Messages</title>
 				<feature />
 				<allauthors />
 				<page>0362-0362</page>
@@ -50256,7 +50262,7 @@
 				<title>സജ്ജനങ്ങളും സത് സംഗവും</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ ശാരദ,വ. പറവൂര്‍</author>
+					<author>ശ്രീ ശാരദ, വ. പറവൂര്‍</author>
 				</allauthors>
 				<page>0314-0315</page>
 			</entry>
@@ -51053,9 +51059,7 @@
 			<entry>
 				<title>വാര്‍ത്തകള്‍</title>
 				<feature />
-				<allauthors>
-					<author>‍</author>
-				</allauthors>
+				<allauthors />
 				<page>0120-0120</page>
 			</entry>
 		</part>
@@ -55581,7 +55585,9 @@
 			<entry>
 				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Swami Sakhyananda</author>
+				</allauthors>
 				<page>0320-0320</page>
 			</entry>
 			<entry>
@@ -55973,7 +55979,9 @@
 			<entry>
 				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Swami Maitrananda</author>
+				</allauthors>
 				<page>0483-0484</page>
 			</entry>
 		</part>
@@ -56351,7 +56359,9 @@
 			<entry>
 				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Janardanan</author>
+				</allauthors>
 				<page>0118-0119</page>
 			</entry>
 			<entry>
@@ -56539,7 +56549,9 @@
 			<entry>
 				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Prof. S. Hariharan</author>
+				</allauthors>
 				<page>0197-0198</page>
 			</entry>
 			<entry>
@@ -56757,7 +56769,9 @@
 			<entry>
 				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Thulaseetheerthan</author>
+				</allauthors>
 				<page>0280-0281</page>
 			</entry>
 			<entry>
@@ -56853,7 +56867,9 @@
 			<entry>
 				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>A. Karunakara Menon</author>
+				</allauthors>
 				<page>0318-0321</page>
 			</entry>
 			<entry>
@@ -57195,7 +57211,7 @@
 				<page>0434-0442</page>
 			</entry>
 			<entry>
-				<title>ആധുനികാവതാരം</title>
+				<title>ആധുനികാവതാരം - 1</title>
 				<feature />
 				<allauthors>
 					<author>ഓട്ടൂര്‍ ഉണ്ണി നമ്പൂതിരിപ്പാടു്</author>
@@ -58050,7 +58066,7 @@
 				<title>ശ്രീനാരായണഗുരുദേവകൃതികള്‍ - 2</title>
 				<feature />
 				<allauthors>
-					<author>പ്രശാന്താനന്ദ</author>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0238-0241</page>
 			</entry>
@@ -58700,7 +58716,7 @@
 				<title>പഞ്ചവക്ത്രപഞ്ചകം</title>
 				<feature />
 				<allauthors>
-					<author>മഹാകവി. ടി. ആര്‍. നായര്‍</author>
+					<author>മഹാകവി ടി. ആര്‍. നായര്‍</author>
 				</allauthors>
 				<page>0476-0476</page>
 			</entry>
@@ -59743,7 +59759,7 @@
 				<page>0313-0314</page>
 			</entry>
 			<entry>
-				<title>ശ്രീശങ്കരഭഗവത്പാദര്‍</title>
+				<title>ശ്രീശങ്കരഭഗവത്പാദര്‍ - 5</title>
 				<feature />
 				<allauthors>
 					<author>പ്രശാന്താനന്ദസ്വാമി</author>
@@ -60117,7 +60133,7 @@
 				<page>0461-0463</page>
 			</entry>
 			<entry>
-				<title>ശ്രീ ശങ്കരഭഗവത്പാദര്‍ - 7</title>
+				<title>ശ്രീശങ്കരഭഗവത്പാദര്‍ - 7</title>
 				<feature />
 				<allauthors>
 					<author>പ്രശാന്താനന്ദസ്വാമി</author>
@@ -60414,7 +60430,7 @@
 				<title>ശ്രീശങ്കരഭഗവത്പാദര്‍ - 9</title>
 				<feature />
 				<allauthors>
-					<author>പ്രശാന്താനന്ദ</author>
+					<author>പ്രശാന്താനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0034-0037</page>
 			</entry>
@@ -67082,7 +67098,7 @@
 				<allauthors>
 					<author>പ്രശാന്താനന്ദസ്വാമി</author>
 				</allauthors>
-				<page>0229-0234</page>
+				<page>0230-0234</page>
 			</entry>
 			<entry>
 				<title>ഭാരതത്തില്‍ സമാധാനം എങ്ങനെ ഉണ്ടാകും</title>
@@ -67799,7 +67815,7 @@
 				<page>0506-0506</page>
 			</entry>
 			<entry>
-				<title>സ്വാമി വിവേകാനന്ദന്‍</title>
+				<title>സ്വാമി വിവേകാനന്ദന്‍ - 5</title>
 				<feature />
 				<allauthors>
 					<author>പ്രശാന്താനന്ദസ്വാമി</author>
@@ -81666,7 +81682,7 @@
 				<title>ഭാരതജനനി</title>
 				<feature />
 				<allauthors>
-					<author>വില്‍ഡ്യൂറന്റ്</author>
+					<author>വില്‍ ഡൂറാന്‍റ്</author>
 				</allauthors>
 				<page>0454-0454</page>
 			</entry>
@@ -102827,9 +102843,11 @@
 				<page>0034-0037</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>S. V. Unnikrishnan</author>
+				</allauthors>
 				<page>0038-0038</page>
 			</entry>
 			<entry>
@@ -103107,9 +103125,11 @@
 				<page>0113-0116</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>S. V. Unnikrishnan</author>
+				</allauthors>
 				<page>0117-0118</page>
 			</entry>
 			<entry>
@@ -103397,9 +103417,11 @@
 				<page>0196-0197</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>S. V. Unnikrishnan</author>
+				</allauthors>
 				<page>0198-0198</page>
 			</entry>
 			<entry>
@@ -103795,9 +103817,11 @@
 				<page>0316-0317</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>S. V. Unnikrishnan</author>
+				</allauthors>
 				<page>0318-0318</page>
 			</entry>
 			<entry>
@@ -103913,9 +103937,11 @@
 				<page>0355-0356</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Dr. E. P. Aravindaksha Pisharady</author>
+				</allauthors>
 				<page>0357-0358</page>
 			</entry>
 			<entry>
@@ -104253,9 +104279,11 @@
 				<page>0477-0477</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>S. V. Unnikrishnan</author>
+				</allauthors>
 				<page>0478-0478</page>
 			</entry>
 			<entry>
@@ -105429,9 +105457,11 @@
 				<page>0314-0318</page>
 			</entry>
 			<entry>
-				<title>BOOK REVIEW</title>
+				<title>Book Review</title>
 				<feature />
-				<allauthors />
+				<allauthors>
+					<author>Dr. E. P. Aravindaksha Pisharady</author>
+				</allauthors>
 				<page>0318-0318</page>
 			</entry>
 			<entry>
@@ -109197,7 +109227,7 @@
 				<page>0438-0441</page>
 			</entry>
 			<entry>
-				<title>ശ്രീ വിവേകാനന്ദകീര്‍ത്തനം </title>
+				<title>ശ്രീ വിവേകാനന്ദകീര്‍ത്തനം</title>
 				<feature />
 				<allauthors>
 					<author>എം. എം. ബാലകൃഷ്ണന്‍</author>
@@ -115906,7 +115936,7 @@
 				<title>സരസ്വതി നമസ്തുഭ്യം</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. ടോണിമാത്യു വെണ്ണിക്കുളം</author>
+					<author>പ്രൊഫ. ടോണി മാത്യു</author>
 				</allauthors>
 				<page>0499-0502</page>
 			</entry>
@@ -117387,7 +117417,7 @@
 				<page>0435-0442</page>
 			</entry>
 			<entry>
-				<title>ഗൗരീ മാ</title>
+				<title>ഗൗരീമാ</title>
 				<feature />
 				<allauthors>
 					<author>എസ്. വി. ഉണ്ണിക്കൃഷ്ണന്‍</author>
@@ -121849,15 +121879,13 @@
 				<feature />
 				<allauthors>
 					<author>കരിമ്പുഴ രാമചന്ദ്രന്‍</author>
-				</allauthors>					
+				</allauthors>
 				<page>0497-0497</page>
 			</entry>
 			<entry>
 				<title>Saving the Earth</title>
 				<feature />
-				<allauthors>
-					<author>‍</author>
-				</allauthors>
+				<allauthors />
 				<page>0498-0498</page>
 			</entry>
 			<entry>
@@ -122199,7 +122227,7 @@
 				<page>0002-0002</page>
 			</entry>
 			<entry>
-				<title>സത്യദർശനം  (എഡിറ്റോറിയൽ)</title>
+				<title>സത്യദർശനം (എഡിറ്റോറിയൽ)</title>
 				<feature />
 				<allauthors>
 					<author>സദ്ഭവാനന്ദസ്വാമി</author>
@@ -122210,7 +122238,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0006-0013</page>
 			</entry>
@@ -122234,7 +122262,7 @@
 				<title>ശ്രീരാമകൃഷ്ണപാദങ്ങളിൽ (കവിത)</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. തൃക്കൊടിത്താനം ഗോപിനാഥൻ നായർ</author>
+					<author>പ്രൊഫ. തൃക്കൊടിത്താനം ഗോപിനാഥന്‍നായര്‍</author>
 				</allauthors>
 				<page>0022-0022</page>
 			</entry>
@@ -122242,7 +122270,7 @@
 				<title>സ്വാമിജി പാശ്ചാത്യർക്ക് നൽകിയ സന്ദേശം</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ  അതുലാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ അതുലാനന്ദസ്വാമികൾ</author>
 				</allauthors>
 				<page>0023-0030</page>
 			</entry>
@@ -122291,7 +122319,7 @@
 				<page>0042-0042</page>
 			</entry>
 			<entry>
-				<title>കാരുണ്യഹൃദയം  (എഡിറ്റോറിയൽ)</title>
+				<title>കാരുണ്യഹൃദയം (എഡിറ്റോറിയൽ)</title>
 				<feature />
 				<allauthors>
 					<author>സദ്ഭവാനന്ദസ്വാമി</author>
@@ -122302,7 +122330,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0046-0050</page>
 			</entry>
@@ -122334,7 +122362,7 @@
 				<title>സ്വാമിജി പാശ്ചാത്യർക്ക് നൽകിയ സന്ദേശം</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ  അതുലാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ അതുലാനന്ദസ്വാമികൾ</author>
 				</allauthors>
 				<page>0064-0069</page>
 			</entry>
@@ -122383,7 +122411,7 @@
 				<page>0082-0082</page>
 			</entry>
 			<entry>
-				<title>യുഗാവതാരം  (എഡിറ്റോറിയൽ)</title>
+				<title>യുഗാവതാരം (എഡിറ്റോറിയൽ)</title>
 				<feature />
 				<allauthors>
 					<author>സദ്ഭവാനന്ദസ്വാമി</author>
@@ -122394,7 +122422,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0086-0092</page>
 			</entry>
@@ -122478,7 +122506,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0126-0132</page>
 			</entry>
@@ -122502,12 +122530,12 @@
 				<title>സാറാ ഓളി ബുള്ളിനയച്ച കത്തുകൾ</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. ബി. സുലോചനാ നായർ</author>
+					<author>പ്രൊഫ. ബി. സുലോചനാ നായര്‍</author>
 				</allauthors>
 				<page>0143-0146</page>
 			</entry>
 			<entry>
-				<title>തൗസൻറ് അയലന്റ്  പാർക്കിലെ ആനന്ദദിനങ്ങൾ</title>
+				<title>തൗസൻറ് അയലന്റ് പാർക്കിലെ ആനന്ദദിനങ്ങൾ</title>
 				<feature />
 				<allauthors>
 					<author>അമൃത</author>
@@ -122560,7 +122588,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0166-0173</page>
 			</entry>
@@ -122652,7 +122680,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0206-0211</page>
 			</entry>
@@ -122706,7 +122734,7 @@
 				<title>നാരദന്റെ ആത്മകഥ</title>
 				<feature />
 				<allauthors>
-					<author>സിദ്ധിനാഥാനന്ദസ്വാമികൾ</author>
+					<author>സിദ്ധിനാഥാനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0234-0236</page>
 			</entry>
@@ -122750,7 +122778,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0246-0251</page>
 			</entry>
@@ -122856,7 +122884,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0286-0291</page>
 			</entry>
@@ -122954,7 +122982,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0326-0330</page>
 			</entry>
@@ -123044,7 +123072,7 @@
 				<title>ബുദ്ധനും ശങ്കരനും</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0423-0426</page>
 			</entry>
@@ -123068,7 +123096,7 @@
 				<title>ത്യാഗവും സംന്യാസവും</title>
 				<feature />
 				<allauthors>
-					<author>മൃഡാനന്ദസ്വാമികൾ</author>
+					<author>മൃഡാനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0437-0441</page>
 			</entry>
@@ -123084,7 +123112,7 @@
 				<title>ത്യാഗം</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ വിരജാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ വിരജാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0445-0450</page>
 			</entry>
@@ -123172,7 +123200,7 @@
 				<title>ത്യാഗവും സേവനവും മാനവികമൂല്യങ്ങളുടെ നാനാർത്ഥങ്ങൾ</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0499-0503</page>
 			</entry>
@@ -123180,7 +123208,7 @@
 				<title>ത്യാഗവും സേവനവും അദ്ധ്യാപനത്തിൽ</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. എസ്. രാധാകൃഷ്ണൻ</author>
+					<author>പ്രൊഫ. എസ്. രാധാകൃഷ്ണന്‍</author>
 				</allauthors>
 				<page>0505-0509</page>
 			</entry>
@@ -123193,10 +123221,10 @@
 				<page>0511-0515</page>
 			</entry>
 			<entry>
-				<title>നിവേദിത  - ത്യാഗീശ്വരി</title>
+				<title>നിവേദിത - ത്യാഗീശ്വരി</title>
 				<feature />
 				<allauthors>
-					<author>പ്രവ്രാജികാ  ചേതനപ്രാണാ</author>
+					<author>പ്രവ്രാജികാ ചേതനപ്രാണാ</author>
 				</allauthors>
 				<page>0516-0522</page>
 			</entry>
@@ -123270,7 +123298,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0546-0550</page>
 			</entry>
@@ -123291,7 +123319,7 @@
 				<page>0554-0554</page>
 			</entry>
 			<entry>
-				<title>ജ്ഞാനയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<title>ജ്ഞാനയോഗം (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
 				<feature />
 				<allauthors>
 					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
@@ -123384,7 +123412,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0586-0592</page>
 			</entry>
@@ -123397,7 +123425,7 @@
 				<page>0593-0596</page>
 			</entry>
 			<entry>
-				<title>കർമ്മസംന്യാസയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<title>കർമ്മസംന്യാസയോഗം (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
 				<feature />
 				<allauthors>
 					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
@@ -123429,7 +123457,7 @@
 				<page>0605-0606</page>
 			</entry>
 			<entry>
-				<title>ഭക്തിയില്ല, തപസ്സില്ല  (കവിത)</title>
+				<title>ഭക്തിയില്ല, തപസ്സില്ല (കവിത)</title>
 				<feature />
 				<allauthors>
 					<author>കെ. എൻ. കുഞ്ഞുക്കുട്ടൻ നമ്പൂതിരി</author>
@@ -123440,7 +123468,7 @@
 				<title>വരകൾക്കപ്പുറം (കവിത)</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0608-0608</page>
 			</entry>
@@ -123453,7 +123481,7 @@
 				<page>0609-0615</page>
 			</entry>
 			<entry>
-				<title>വിശ്വജനനീ ശ്രീ  ശാരദാദേവി</title>
+				<title>വിശ്വജനനീ ശ്രീ ശാരദാദേവി</title>
 				<feature />
 				<allauthors>
 					<author>ഡോ. വി. രാമന്‍കുട്ടി</author>
@@ -123494,7 +123522,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0008-0012</page>
 			</entry>
@@ -123507,7 +123535,7 @@
 				<page>0013-0016</page>
 			</entry>
 			<entry>
-				<title>ധ്യാനയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<title>ധ്യാനയോഗം (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
 				<feature />
 				<allauthors>
 					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
@@ -123542,7 +123570,7 @@
 				<title>പരാവിദ്യയ്ക്ക് പരിഭാഷയാകുന്ന വചനാമൃതം</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0032-0036</page>
 			</entry>
@@ -123550,7 +123578,7 @@
 				<title>ഉപനിശത്തെന്ന ബ്രഹ്മാനന്ദം (ഗ്രന്ഥപരിചയം)</title>
 				<feature />
 				<allauthors>
-					<author>സുരേന്ദ്രൻ ചെമ്പൂക്കാട്</author>
+					<author>സുരേന്ദ്രന്‍ ചെമ്പുക്കാട്</author>
 				</allauthors>
 				<page>0037-0039</page>
 			</entry>
@@ -123598,7 +123626,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0046-0050</page>
 			</entry>
@@ -123611,7 +123639,7 @@
 				<page>0051-0054</page>
 			</entry>
 			<entry>
-				<title>രാജാവിദ്യാരാജഗുഹ്യയോഗം  (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
+				<title>രാജാവിദ്യാരാജഗുഹ്യയോഗം (ഭഗവദ്‌ഗീതയിലൂടെ)</title>
 				<feature />
 				<allauthors>
 					<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യർ</author>
@@ -123627,7 +123655,7 @@
 				<page>0059-0065</page>
 			</entry>
 			<entry>
-				<title>ശ്രീരാമകൃഷ്ണകർണ്ണാമൃതം  (കവിത)</title>
+				<title>ശ്രീരാമകൃഷ്ണകർണ്ണാമൃതം (കവിത)</title>
 				<feature />
 				<allauthors>
 					<author>നചികേതസ്സ്</author>
@@ -123662,7 +123690,7 @@
 				<title>കേരളത്തിലെ സാഹിത്യകാരന്മാരോട്</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0075-0079</page>
 			</entry>
@@ -123704,7 +123732,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0086-0090</page>
 			</entry>
@@ -123736,7 +123764,7 @@
 				<title>ഗുരുസന്നിധി എന്ന തീർത്ഥസ്ഥാനം</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0096-0100</page>
 			</entry>
@@ -123760,7 +123788,7 @@
 				<title>കേരളത്തിലെ സാഹിത്യകാരന്മാരോട്</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീമദ് രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0104-0108</page>
 			</entry>
@@ -123969,7 +123997,7 @@
 				<page>0162-0162</page>
 			</entry>
 			<entry>
-				<title>ഉള്ളിലെ സമ്പന്നത  (മുഖമൊഴി)</title>
+				<title>ഉള്ളിലെ സമ്പന്നത (മുഖമൊഴി)</title>
 				<feature />
 				<allauthors>
 					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
@@ -123986,7 +124014,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0166-0170</page>
 			</entry>
@@ -124042,7 +124070,7 @@
 				<title>വിദ്യാസാഗരനുമായുള്ള ശ്രീരാമകൃഷ്ണദേവന്റെ കൂടിക്കാഴ്ച</title>
 				<feature />
 				<allauthors>
-					<author>വിവർത്തനം സ്വാമി ലോകഹിതാനന്ദ</author>
+					<author>വിവർത്തനം ലോകഹിതാനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0191-0192</page>
 			</entry>
@@ -124066,7 +124094,7 @@
 				<title>സന്തോഷവും സന്താപവും</title>
 				<feature />
 				<allauthors>
-					<author>വി. എം. മോഹനൻ</author>
+					<author>വി. എം. മോഹനന്‍</author>
 				</allauthors>
 				<page>0197-0197</page>
 			</entry>
@@ -124105,7 +124133,7 @@
 				<page>0202-0202</page>
 			</entry>
 			<entry>
-				<title>ജീവിതം - വെളിച്ചത്തിലേക്കുള്ള പ്രയാണം  (മുഖമൊഴി)</title>
+				<title>ജീവിതം - വെളിച്ചത്തിലേക്കുള്ള പ്രയാണം (മുഖമൊഴി)</title>
 				<feature />
 				<allauthors>
 					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
@@ -124122,7 +124150,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0206-0208</page>
 			</entry>
@@ -124146,7 +124174,7 @@
 				<title>വിദ്യാസാഗരനുമായുള്ള ശ്രീരാമകൃഷ്ണന്റെ കൂടിക്കാഴ്ച</title>
 				<feature />
 				<allauthors>
-					<author>വിവർത്തനം സ്വാമി ലോകഹിതാനന്ദ</author>
+					<author>വിവർത്തനം ലോകഹിതാനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0212-0214</page>
 			</entry>
@@ -124154,7 +124182,7 @@
 				<title>നാമപ്പതി</title>
 				<feature />
 				<allauthors>
-					<author>വി. കെ. ശ്രീധരൻ</author>
+					<author>വി. കെ. ശ്രീധരന്‍</author>
 				</allauthors>
 				<page>0215-0216</page>
 			</entry>
@@ -124265,7 +124293,7 @@
 				<page>0242-0242</page>
 			</entry>
 			<entry>
-				<title>രാമകഥയുമായെത്തുന്ന കർക്കിടകം  (മുഖമൊഴി)</title>
+				<title>രാമകഥയുമായെത്തുന്ന കർക്കിടകം (മുഖമൊഴി)</title>
 				<feature />
 				<allauthors>
 					<author>സ്വാമി നന്ദാത്മജാനന്ദ</author>
@@ -124282,7 +124310,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0246-0248</page>
 			</entry>
@@ -124311,7 +124339,7 @@
 				<page>0254-0255</page>
 			</entry>
 			<entry>
-				<title>മനുഷ്യാ നീ ഈശ്വരനാണ്  (കവിത)</title>
+				<title>മനുഷ്യാ നീ ഈശ്വരനാണ് (കവിത)</title>
 				<feature />
 				<allauthors>
 					<author>ബ്രഹ്മചാരി പ്രാണചൈതന്യ</author>
@@ -124346,7 +124374,7 @@
 				<title>ശാന്തിമന്ത്രം (കവിത)</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0267-0267</page>
 			</entry>
@@ -124354,7 +124382,7 @@
 				<title>വിദ്യാസാഗരനുമായുള്ള ശ്രീരാമകൃഷ്ണന്റെ കൂടിക്കാഴ്ച</title>
 				<feature />
 				<allauthors>
-					<author>വിവർത്തനം സ്വാമി ലോകഹിതാനന്ദ</author>
+					<author>വിവർത്തനം ലോകഹിതാനന്ദസ്വാമി</author>
 				</allauthors>
 				<page>0268-0270</page>
 			</entry>
@@ -124440,7 +124468,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0286-0289</page>
 			</entry>
@@ -124469,7 +124497,7 @@
 				<page>0297-0299</page>
 			</entry>
 			<entry>
-				<title>ഉള്ളിലെ മധുരാനുഭവം  (കവിത)</title>
+				<title>ഉള്ളിലെ മധുരാനുഭവം (കവിത)</title>
 				<feature />
 				<allauthors>
 					<author>ശ്രീമതി വാസന്തി ചെറുമുക്ക്</author>
@@ -124528,7 +124556,7 @@
 				<title>പൂർവ്വജന്മസംസ്കാരം</title>
 				<feature />
 				<allauthors>
-					<author>വി. എം. മോഹനൻ</author>
+					<author>വി. എം. മോഹനന്‍</author>
 				</allauthors>
 				<page>0317-0318</page>
 			</entry>
@@ -124600,7 +124628,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0326-0328</page>
 			</entry>
@@ -124624,7 +124652,7 @@
 				<title>പശ്ചിമദിക്കിനു കൈമാറിയ മൂന്നാംകണ്ണ്</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0333-0338</page>
 			</entry>
@@ -124632,7 +124660,7 @@
 				<title>ശക്തിയേകൂ</title>
 				<feature />
 				<allauthors>
-					<author>സരളാ ബാഹുലേയൻ</author>
+					<author>സരളാ ബാഹുലേയന്‍</author>
 				</allauthors>
 				<page>0338-0338</page>
 			</entry>
@@ -124680,7 +124708,7 @@
 				<title>സ്വാമി തപസ്യാനന്ദ</title>
 				<feature />
 				<allauthors>
-					<author>സ്വാമി  കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+					<author>സ്വാമി കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
 				</allauthors>
 				<page>0353-0355</page>
 			</entry>
@@ -124773,7 +124801,7 @@
 				<page>0390-0393</page>
 			</entry>
 			<entry>
-				<title>പ്രബുദ്ധകേരളവും കേരളത്തിന്റെ  നവോത്‌ഥാനവും</title>
+				<title>പ്രബുദ്ധകേരളവും കേരളത്തിന്റെ നവോത്‌ഥാനവും</title>
 				<feature />
 				<allauthors>
 					<author>സ്വാമി കൈവല്യാനന്ദ</author>
@@ -124829,7 +124857,7 @@
 				<page>0409-0412</page>
 			</entry>
 			<entry>
-				<title>അനന്തതയുടെ  ജാലകങ്ങൾ</title>
+				<title>അനന്തതയുടെ ജാലകങ്ങൾ</title>
 				<feature />
 				<allauthors>
 					<author>വേണു വി. ദേശം</author>
@@ -124845,7 +124873,7 @@
 				<page>0413-0415</page>
 			</entry>
 			<entry>
-				<title>ആത്മനോ മോക്ഷാർത്ഥം ജഗദ്ധിതായ  ച</title>
+				<title>ആത്മനോ മോക്ഷാർത്ഥം ജഗദ്ധിതായ ച</title>
 				<feature />
 				<allauthors>
 					<author>സ്വാമി സ്വപ്രഭാനന്ദ</author>
@@ -124853,7 +124881,7 @@
 				<page>0416-0421</page>
 			</entry>
 			<entry>
-				<title>പൂങ്കുന്നം  വിവേകാനന്ദ വിജ്ഞാനഭവനം സപ്തതിയുടെ നിറവിൽ</title>
+				<title>പൂങ്കുന്നം വിവേകാനന്ദ വിജ്ഞാനഭവനം സപ്തതിയുടെ നിറവിൽ</title>
 				<feature />
 				<allauthors>
 					<author>സ്വാമി സദ്ഭവാനന്ദ</author>
@@ -124861,7 +124889,7 @@
 				<page>0422-0423</page>
 			</entry>
 			<entry>
-				<title>വിവേകാനന്ദസ്വാമികളെ  കേരളം  വീണ്ടും വരവേൽക്കുന്നു</title>
+				<title>വിവേകാനന്ദസ്വാമികളെ കേരളം വീണ്ടും വരവേൽക്കുന്നു</title>
 				<feature />
 				<allauthors>
 					<author>ടി. പി. ശ്രീനിവാസൻ</author>
@@ -124885,7 +124913,7 @@
 				<page>0432-0435</page>
 			</entry>
 			<entry>
-				<title>ഇന്ത്യയുടെ സ്വത്വം  തേടി</title>
+				<title>ഇന്ത്യയുടെ സ്വത്വം തേടി</title>
 				<feature />
 				<allauthors>
 					<author>എം .പി. വീരേന്ദ്രകുമാർ</author>
@@ -124901,7 +124929,7 @@
 				<page>0440-0442</page>
 			</entry>
 			<entry>
-				<title>നമുക്കുള്ള  അവസാനത്തെ  അവസരം</title>
+				<title>നമുക്കുള്ള അവസാനത്തെ അവസരം</title>
 				<feature />
 				<allauthors>
 					<author>സി രാധാകൃഷ്ണൻ</author>
@@ -125032,7 +125060,7 @@
 				<title>ഭാരതീയവേദാന്തത്തിലെ പുതുവായ്‌മൊഴികൾ</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. പി. ആർ. ഹരികുമാർ</author>
+					<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
 				</allauthors>
 				<page>0501-0506</page>
 			</entry>
@@ -125080,7 +125108,7 @@
 				<title>മലായാളത്തിലെ സർഗ്ഗപുളകപ്പൊടിപ്പുകൾ</title>
 				<feature />
 				<allauthors>
-					<author>പ്രൊഫ. ടോണി മാത്യു, വെണ്ണികുളം</author>
+					<author>പ്രൊഫ. ടോണി മാത്യു</author>
 				</allauthors>
 				<page>0518-0521</page>
 			</entry>
@@ -125133,7 +125161,7 @@
 				<page>0540-0543</page>
 			</entry>
 			<entry>
-				<title>അഗ്നിതുല്യമായ  വിവേകാനന്ദവാണി</title>
+				<title>അഗ്നിതുല്യമായ വിവേകാനന്ദവാണി</title>
 				<feature />
 				<allauthors>
 					<author>ഡോ. ഗീതാ സുരാജ്</author>
@@ -125149,7 +125177,7 @@
 				<page>0549-0549</page>
 			</entry>
 			<entry>
-				<title>ദീപ്തമീ  ജീവിതം... ത്രൈലോക്യാനന്ദസ്വാമികൾ</title>
+				<title>ദീപ്തമീ ജീവിതം... ത്രൈലോക്യാനന്ദസ്വാമികൾ</title>
 				<feature />
 				<allauthors>
 					<author>എൻ. ഹരീന്ദ്രൻ മാസ്റ്റർ</author>
@@ -125192,7 +125220,7 @@
 				<title>ഉത്തിഷ്ഠത ഭാരത!</title>
 				<feature />
 				<allauthors>
-					<author>സി. പി. നായർ</author>
+					<author>സി. പി. നായര്‍</author>
 				</allauthors>
 				<page>0570-0571</page>
 			</entry>
@@ -125240,7 +125268,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0586-0587</page>
 			</entry>
@@ -125328,7 +125356,7 @@
 				<title>സ്വാമി തപസ്യാനന്ദ</title>
 				<feature />
 				<allauthors>
-					<author>സ്വാമി  കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+					<author>സ്വാമി കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
 				</allauthors>
 				<page>0612-0613</page>
 			</entry>
@@ -125406,7 +125434,7 @@
 				<title>വിവേകചൂഡാമണി</title>
 				<feature />
 				<allauthors>
-					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികൾ</author>
+					<author>ശ്രീ രംഗനാഥാനന്ദസ്വാമികള്‍</author>
 				</allauthors>
 				<page>0626-0627</page>
 			</entry>
@@ -125427,10 +125455,10 @@
 				<page>0630-0630</page>
 			</entry>
 			<entry>
-				<title>സ്വാമിജിയുടെ സുഹൃത്തായ ജോസഫിൻ  മാക്ലൗഡ്‌</title>
+				<title>സ്വാമിജിയുടെ സുഹൃത്തായ ജോസഫിൻ മാക്ലൗഡ്‌</title>
 				<feature />
 				<allauthors>
-					<author>പ്രവ്രാജികാ  നിത്യാനന്ദപ്രാണാ</author>
+					<author>പ്രവ്രാജികാ നിത്യാനന്ദപ്രാണാ</author>
 				</allauthors>
 				<page>0631-0634</page>
 			</entry>
@@ -125494,7 +125522,7 @@
 				<title>സ്വാമി തപസ്യാനന്ദ</title>
 				<feature />
 				<allauthors>
-					<author>സ്വാമി  കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
+					<author>സ്വാമി കമലാത്മാനന്ദ, വിവർത്തനം ഡോ. ഡി. മായ</author>
 				</allauthors>
 				<page>0647-0648</page>
 			</entry>
@@ -125510,7 +125538,7 @@
 				<title>പുസ്തകപരിചയം - അരൂപിയായ ബ്രഹ്മം</title>
 				<feature />
 				<allauthors>
-					<author>സുരേന്ദ്രൻ ചെമ്പൂക്കാട്</author>
+					<author>സുരേന്ദ്രന്‍ ചെമ്പുക്കാട്</author>
 				</allauthors>
 				<page>0652-0653</page>
 			</entry>
