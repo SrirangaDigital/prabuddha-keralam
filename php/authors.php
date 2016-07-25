@@ -17,6 +17,7 @@
 							<span class="letter"><a href="authors.php?letter=ഈ">ഈ</a></span>
 							<span class="letter"><a href="authors.php?letter=ഉ">ഉ</a></span>
 							<span class="letter"><a href="authors.php?letter=ഊ">ഊ</a></span>
+							<span class="letter"><a href="authors.php?letter=ഋ">ഋ</a></span>
 							<span class="letter"><a href="authors.php?letter=എ">എ</a></span>
 							<span class="letter"><a href="authors.php?letter=ഏ">ഏ</a></span>
 							<span class="letter"><a href="authors.php?letter=ഐ">ഐ</a></span>
@@ -46,6 +47,7 @@
 							<span class="letter"><a href="authors.php?letter=ഷ">ഷ</a></span>
 							<span class="letter"><a href="authors.php?letter=സ">സ</a></span>
 							<span class="letter"><a href="authors.php?letter=ഹ">ഹ</a></span>
+							<span class="letter"><a href="authors.php?letter=Special">#</a></span>
 						</div>
 								<?php
 
@@ -89,8 +91,15 @@
 
 								//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 								//~ $rs = mysql_select_db($database,$db) or die("No Database");
-
-								$query = "select * from author where authorname like '$letter%' order by authorname";
+								if($letter == 'Special')
+								{
+									$query = "select * from author where authorname regexp '^[a-zA-Z].*' order by authorname";
+								}
+								else
+								{
+									$query = "select * from author where authorname like '$letter%' order by authorname";
+								}
+								
 								/*
 								$query = "select * from author where authorname like '$letter%' order by authorname";
 								*/
