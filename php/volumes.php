@@ -7,7 +7,7 @@
 
 	<header>
 		<h2>Volumes</h2>
-		<p>List of all volumes published till date</p>
+		<p>List of all volumes published from 1915 to 2015</p>
 	</header>
 	<div class="row">
 		<div class="12u">
@@ -26,11 +26,13 @@ if($num_rows > 0)
 {
 	while($row = $result->fetch_assoc())
 	{
+		$volume = $row['volume'];
 		echo '<a href="part.php?vol='. $row['volume'] .'">';
 		echo '	<div class="button alt">Vol '. intval($row['volume']) .' &nbsp;('.getYear($row['volume']) . ')</div>';
 		echo '</a>';
 	}
 }
+
 
 if($result){$result->free();}
 $db->close();
