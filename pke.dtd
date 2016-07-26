@@ -1,0 +1,15 @@
+<!ELEMENT pke (volume*)>
+<!ELEMENT volume (part*)>
+<!ATTLIST volume vnum CDATA #REQUIRED>
+<!ELEMENT part (entry+)>
+<!ATTLIST part pnum CDATA #REQUIRED>
+<!ATTLIST part month CDATA #REQUIRED>
+<!ATTLIST part year CDATA #REQUIRED>
+<!ATTLIST part info CDATA #REQUIRED>
+<!ELEMENT entry (title,feature,allauthors,page)>
+<!ELEMENT title (#PCDATA|sup)*>
+<!ELEMENT feature (#PCDATA)>
+<!ELEMENT allauthors (author*)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT sup (#PCDATA)*>
