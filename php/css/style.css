@@ -1819,14 +1819,17 @@ Status API Training Shop Blog About
 		#banner h2 {
 			font-size: 3.5em;
 			line-height: 1.22em;
-			color:#fff;
+/*
+			color:#c17758;
+*/
+			color: #ff8000;
 			margin: 0 0 0em 0;
 			padding: 0;
 		}
 
 		#banner p {
 			font-size: 1.25em;
-			color:#fff;
+			color: #e67300;
 			margin-bottom: 1.75em;
 		}
 
