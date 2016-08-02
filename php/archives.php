@@ -15,7 +15,7 @@
 						<section>
 							<a href="volumes.php">	<span class="icon major fa-book accent2" style="cursor:pointer;"></span>
 							<h3>Volumes</h3>
-							<p>List of all volumes published till date</p></a>
+							<p>List of all volumes published from 1915 to 2015</p></a>
 						</section>
 						<section>
 							<a href="articles.php">	<span class="icon major fa-pencil accent3" style="cursor:pointer;"></span>
