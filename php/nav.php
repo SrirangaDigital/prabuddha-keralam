@@ -7,6 +7,7 @@
 						<li><a href="about.php">About</a></li>
 						<li><a href="archives.php">Archives</a></li>
 						<li><a href="search.php">Search</a></li>
+						<li><a href="help.php">Help</a></li>
 					</ul>
 				</nav>
 			</header>

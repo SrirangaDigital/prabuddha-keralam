@@ -18,7 +18,6 @@
 												$query = "select distinct year,part,month from article where volume='$volume' order by part";
 												$result = $db->query($query); 
 												$num_rows = $result ? $result->num_rows : 0;
-												
 												echo '<header>';
 												echo '<h2>'.getYear($volume).'</h2>';
 												echo '<p>Volume&nbsp;'.intval($volume).'</p>';
