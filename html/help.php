@@ -10,7 +10,7 @@
 		<div class="12u">
 			<section class="box">
 				<div class="help">
-					<p>This DVD provides high-resolution scans of the entire collection of <span class="clr1">The Prabuddhakeralam</span>, which can be accessed by clicking on <span class="clr1"><a href="archives.html">Archives</a></span> link.</p>
+					<p>This DVD provides high-resolution scans of the entire collection of The <span class="clr1">Prabuddhakeralam</span>, which can be accessed by clicking on <span class="clr1"><a href="archives.html">Archives</a></span> link.</p>
 					<ul>
 						<li>Table of Contents of each month (click on <span class="clr1"><a href="volumes.html">Volumes</a></span> link and select a month)</li>
 						<li>List of all Article titles sorted alphabetically (click on <span class="clr1"><a href="articles.html">Articles</a></span> link)</li>
