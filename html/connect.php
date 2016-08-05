@@ -12,7 +12,6 @@ if($db->connect_errno > 0)
 	echo '</div> <!-- cd-container -->';
 	echo '</div> <!-- cd-scrolling-bg -->';
 	echo '</main> <!-- cd-main-content -->';
-	//~ include("include_footer.php");
 
     exit(1);
 }
