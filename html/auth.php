@@ -97,7 +97,7 @@
 												echo "
 												<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 												<span class=\"yearspan\">
-													<a href=\"toc_".$volume."_".$part.".html\">" . $month_name{intval($month)} . " " . $year ." &nbsp;(Volume&nbsp;".intval($volume).", Issue&nbsp;".$dpart.")</a>
+													<a href=\"toc_".$volume."_".$part.".html\">" . getMonth($month) . " " . $year ." &nbsp;(Volume&nbsp;".intval($volume).", Issue&nbsp;".$dpart.")</a>
 												</span>";
 												if($feature != "")
 												{

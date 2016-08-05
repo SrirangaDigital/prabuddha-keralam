@@ -42,8 +42,8 @@
 								}
 								if($result){$result->free();}
 												echo "<header>";
-												echo "<h2>" . $month_name{intval($month)} . ",&nbsp;" . getYear($volume) . "</h2>";
-												echo "<p>Volume&nbsp;" . intval($volume) . ",&nbsp;Issue&nbsp;" . intval($part) . "</p>";
+												echo "<h2>" . getMonth($month) . ",&nbsp;" . $year . "</h2>";
+												echo "<p>Volume&nbsp;" . intval($volume) . ",&nbsp;Issue&nbsp;" . $dpart . "</p>";
 												echo "</header>";
 							?>
 				

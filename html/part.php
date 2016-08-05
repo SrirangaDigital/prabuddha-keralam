@@ -41,7 +41,7 @@
 													{
 														echo "<li>";
 														echo '<a href="toc_' . $volume . '_' . $row['part'] . '.html">';
-														echo '<span>'.getMonth_part($row['month']).'</span>';
+														echo '<span>'.getMonth_part($row['month']).'<br /><b>' . $row['year'] . '</b></span>';
 														echo "</a>";
 														echo "</li>";
 														$isFirst = 0;

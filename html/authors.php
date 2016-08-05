@@ -4,7 +4,7 @@
 			<section id="main" class="container">
 				<?php include("sec_nav.php"); ?>			<header>
 					<h2>Authors</h2>
-					<p>List of all authors in alphabetic order</p>
+					<p>List of all authors sorted alphabetically</p>
 				</header>
 								<div class="row">
 									<div class="12u">

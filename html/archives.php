@@ -27,7 +27,7 @@
 						<section>
 							<a href="authors.html"><span class="icon major fa-user accent4" style="cursor:pointer;"></span>
 							<h3>Author</h3>
-							<p>List of all authors in alphabetic order</p></a>
+							<p>List of all authors sorted alphabetically</p></a>
 						</section>
 						<section>
 							<a href="search.php"><span class="icon major fa-search accent5" style="cursor:pointer;"></span>
