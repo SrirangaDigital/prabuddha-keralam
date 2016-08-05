@@ -104,7 +104,7 @@
 
 						if($letter == 'Special')
 						{
-							$query = "select * from article where title regexp '^[a-zA-Z].*' order by title, volume, part, page";
+							$query = "select * from article where title regexp '^[a-zA-Z0-9].*' order by title, volume, part, page";
 						}
 						else
 						{
