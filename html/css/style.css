@@ -787,9 +787,10 @@ Status API Training Shop Blog About
 		color: inherit;
 		display: block;
 		outline: 0;
-		padding: 0 1em;
+		padding: 0 0.5em;
 		text-decoration: none;
 		width: 100%;
+		font-size: 25px;
 	}
 
 		input[type="text"]:invalid,
@@ -846,7 +847,10 @@ Status API Training Shop Blog About
 	input[type="password"],
 	input[type="email"],
 	select {
-		height: 3em;
+		/*height: 3em;*/
+	}
+	select {
+		padding: 7px 8px;
 	}
 
 	textarea {

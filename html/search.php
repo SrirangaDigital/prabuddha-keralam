@@ -21,13 +21,13 @@
 								<form method="get" action="search-result.php">
 									<div class="row uniform 50%">
 										<div class="6u 12u(3)">
-											<input type="text" name="title" id="title" onfocus="SetId('title')" value="" placeholder="Title" />
+											Title <input type="text" name="title" id="title" onfocus="SetId('title')" value=""/>
 										</div>
 									</div>
 									
 									<div class="row uniform 50%">
 										<div class="3u 12u(3)">
-											<input type="text" name="author" id="author" onfocus="SetId('author')" value="" placeholder="Author" />
+											Author <input type="text" name="author" id="author" onfocus="SetId('author')" value="" />
 										</div>
 									</div>
 										<div class="row uniform 50%">
@@ -35,6 +35,7 @@
 											<div class="2u 12u(3)">
 -->
 											<div class="2u 12u(3)">
+												Period
 												<select name="year1" style="cursor:context-menu;">
 													<option value="">&nbsp;</option>
 															<?php
@@ -59,11 +60,9 @@
 															?>
 												</select>
 											</div>
-											<span class="clr1">Year</span>
-<!--
-											<span class="clr1">&nbsp;to&nbsp;</span>
--->
+											<div class="clr1" style="margin-top: 35px">&ndash;</div>
 											<div class="2u 12u(3)">
+												&nbsp;
 												<select name="year2" style="cursor:context-menu;">
 													<option value="">&nbsp;</option>
 														<?php

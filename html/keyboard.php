@@ -62,10 +62,10 @@
 				<div class="keys" id="aikara" onclick="InsertText('േ')">േ</div>
 				<div class="keys" id="okara" onclick="InsertText('ൈ')">ൈ</div>
 				<div class="keys" id="aukara" onclick="InsertText('ൊ')">ൊ</div>
-				<div class="keys" id="OO" onclick="InsertText('ോ ')">ോ </div>
-				<div class="keys" id="AU_length" onclick="InsertText('ൗ ')">ൗ </div>
-				<div class="keys" id="AU" onclick="InsertText('ൌ ')">ൌ </div>
-				<div class="keys" id="VIRAMA" onclick="InsertText('് ')">് </div>
+				<div class="keys" id="OO" onclick="InsertText('ോ')">ോ</div>
+				<div class="keys" id="AU_length" onclick="InsertText('ൗ')">ൗ</div>
+				<div class="keys" id="AU" onclick="InsertText('ൌ')">ൌ</div>
+				<div class="keys" id="VIRAMA" onclick="InsertText('്')">്</div>
 				<div class="keys lline" id="vocalic_rr" style="clear: left;" onclick="InsertText('ൠ')">ൠ</div>
 				<div class="keys" id="VOCALIC_l" onclick="InsertText('ൡ')">ൡ</div>
 				<div class="keys" id="EE" onclick="InsertText('േ')">േ</div>
